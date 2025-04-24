@@ -60,6 +60,7 @@ export default function RootLayout({
         <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
         <link rel="manifest" href="/manifest.json" />
         <meta name="theme-color" content="#FF0000" />
+        <meta name="google-site-verification" content="9dE073VbACUYcjBRo1vkdPlcKF-Mm2vuGifmbRyixEg" />
         <Script
           src="https://www.googletagmanager.com/gtag/js?id=AW-17012815060"
           strategy="afterInteractive"
