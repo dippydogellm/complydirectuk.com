@@ -4,6 +4,7 @@ import { ServiceList } from '@/components/ServiceList'
 import ServiceAreas from '@/components/ServiceAreas'
 import { servicesData } from '@/data/services'
 import Breadcrumbs from '@/components/Breadcrumbs'
+import Link from 'next/link'
 
 export const metadata: Metadata = {
   title: 'Our Services | Comply Direct UK',
@@ -75,6 +76,42 @@ export default function ServicesPage() {
           <h2 className="text-3xl font-bold mb-6">Available in Your Area</h2>
           <ServiceAreas />
         </section>
+
+        <div className="mt-12">
+          <h2 className="text-2xl font-bold mb-6">Our Services</h2>
+          <div className="grid gap-6 md:grid-cols-2 lg:grid-cols-3">
+            {/* Waste Management Services Card */}
+            <Link
+              href="/waste-management"
+              className="group block p-6 bg-white rounded-lg border border-gray-200 hover:border-blue-500 hover:shadow-lg transition-all"
+            >
+              <h3 className="text-xl font-semibold group-hover:text-blue-600">
+                Waste Management Services
+              </h3>
+              <p className="mt-2 text-gray-600">
+                Comprehensive waste collection and management solutions for businesses.
+                From commercial to specialized waste services.
+              </p>
+              <div className="mt-4 flex items-center text-blue-600">
+                View all waste services
+                <svg
+                  className="ml-2 h-4 w-4"
+                  fill="none"
+                  stroke="currentColor"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    strokeLinecap="round"
+                    strokeLinejoin="round"
+                    strokeWidth={2}
+                    d="M9 5l7 7-7 7"
+                  />
+                </svg>
+              </div>
+            </Link>
+            {/* Other service cards can go here */}
+          </div>
+        </div>
       </Container>
     </div>
   )

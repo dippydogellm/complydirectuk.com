@@ -1,9 +1,15 @@
 import './globals.css'
-import type { Metadata } from 'next'
+import type { Metadata, Viewport } from 'next'
 import ClientLayout from '@/components/ClientLayout'
 import { Inter } from 'next/font/google'
 
 const inter = Inter({ subsets: ['latin'] })
+
+export const viewport: Viewport = {
+  themeColor: '#FF0000',
+  width: 'device-width',
+  initialScale: 1,
+}
 
 export const metadata: Metadata = {
   title: 'Comply Direct UK - Fire Protection & Safety Training Services',
@@ -33,7 +39,6 @@ export const metadata: Metadata = {
     ],
   },
   manifest: '/manifest.json',
-  themeColor: '#FF0000',
   appleWebApp: {
     capable: true,
     statusBarStyle: 'default',

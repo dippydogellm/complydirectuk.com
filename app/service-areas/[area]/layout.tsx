@@ -1,55 +1,19 @@
 import { Metadata } from 'next'
-import locationsData from '@/data/locations.json'
-import servicesData from '@/data/services.json'
-import areaContent from '@/data/area-content.json'
+import locations from '@/data/locations.json'
 
-export async function generateStaticParams() {
-  return locationsData.areas.map((area) => ({
-    area: area.id,
-  }))
+type Props = {
+  params: {
+    area: string
+  }
 }
 
-export async function generateMetadata({
-  params,
-}: {
-  params: { area: string }
-}): Promise<Metadata> {
-  const area = areaContent.areas[params.area as keyof typeof areaContent.areas]
-  if (!area) {
-    return {
-      title: 'Area Not Found',
-      description: 'The requested area could not be found.',
-    }
-  }
-
-  // Safely get service names from each category
-  const fireProtectionServices = servicesData.categories[0]?.services
-    ?.map(service => service.name)
-    .join(', ') || 'Fire Protection Services'
-
-  const trainingServices = servicesData.categories[1]?.services
-    ?.map(service => service.name)
-    .join(', ') || 'Safety Training Services'
+export async function generateMetadata({ params }: Props): Promise<Metadata> {
+  const area = locations.areas.find((a) => a.id === params.area)
+  if (!area) return {}
 
   return {
-    title: area.title,
-    description: area.description,
-    keywords: `fire protection, safety training, ${fireProtectionServices}, ${trainingServices}, ${params.area}, same-day service, BS 5839 compliant`,
-    openGraph: {
-      title: area.title,
-      description: area.description,
-      type: 'website',
-      locale: 'en_GB',
-      siteName: 'Comply Direct UK',
-    },
-    twitter: {
-      card: 'summary_large_image',
-      title: area.title,
-      description: area.description,
-    },
-    alternates: {
-      canonical: `https://complydirectuk.com/service-areas/${params.area}`,
-    },
+    title: `${area.name} Services | Comply Direct UK`,
+    description: `Professional services in ${area.name}. Expert solutions for businesses including waste management, compliance, and specialized services.`,
   }
 }
 
@@ -58,5 +22,5 @@ export default function ServiceAreaLayout({
 }: {
   children: React.ReactNode
 }) {
-  return <>{children}</>
+  return children
 } 

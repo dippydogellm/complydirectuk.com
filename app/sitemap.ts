@@ -1,5 +1,5 @@
 import { MetadataRoute } from 'next'
-import locationsData from '@/data/locations.json'
+import locations from '@/data/locations.json'
 import servicesData from '@/data/services.json'
 
 export default function sitemap(): MetadataRoute.Sitemap {
@@ -11,7 +11,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     {
       url: baseUrl,
       lastModified: new Date(),
-      changeFrequency: 'weekly' as const,
+      changeFrequency: 'daily' as const,
       priority: 1,
     },
     {
@@ -33,16 +33,22 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 0.9,
     },
     {
+      url: `${baseUrl}/waste-management`,
+      lastModified: new Date(),
+      changeFrequency: 'weekly' as const,
+      priority: 0.9,
+    },
+    {
       url: `${baseUrl}/privacy-policy`,
       lastModified: new Date(),
-      changeFrequency: 'yearly' as const,
-      priority: 0.3,
+      changeFrequency: 'monthly' as const,
+      priority: 0.5,
     },
     {
       url: `${baseUrl}/terms`,
       lastModified: new Date(),
-      changeFrequency: 'yearly' as const,
-      priority: 0.3,
+      changeFrequency: 'monthly' as const,
+      priority: 0.5,
     },
     {
       url: `${baseUrl}/sitemap.html`,
@@ -53,8 +59,8 @@ export default function sitemap(): MetadataRoute.Sitemap {
   ]
 
   // Generate service area routes
-  const serviceAreaRoutes = locationsData.areas.map((area) => ({
-    url: `${baseUrl}/service-areas/${area.id}`,
+  const serviceAreaRoutes = locations.areas.map((area) => ({
+    url: `${baseUrl}/${area.id}`,
     lastModified: new Date(),
     changeFrequency: 'weekly' as const,
     priority: 0.8,
@@ -79,7 +85,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
   )
 
   // Generate service-area-service routes
-  const serviceAreaServiceRoutes = locationsData.areas.flatMap((area) =>
+  const serviceAreaServiceRoutes = locations.areas.flatMap((area) =>
     servicesData.categories.flatMap((category) =>
       category.services.map((service) => ({
         url: `${baseUrl}/service-areas/${area.id}/${service.id}`,
@@ -90,6 +96,29 @@ export default function sitemap(): MetadataRoute.Sitemap {
     )
   )
 
+  // Dynamic routes for waste management in each area
+  const wasteManagementRoutes = locations.areas.flatMap((area) => {
+    if (!area.waste_management) return [];
+    
+    // Area waste management index page
+    const areaWasteManagementRoute = {
+      url: `${baseUrl}/${area.id}/waste-management`,
+      lastModified: new Date(),
+      changeFrequency: 'weekly' as const,
+      priority: 0.8,
+    };
+
+    // Individual waste management service pages
+    const serviceRoutes = area.waste_management.services.map((service) => ({
+      url: `${baseUrl}/${area.id}/waste-management/${service.toLowerCase().replace(/ /g, '-')}`,
+      lastModified: new Date(),
+      changeFrequency: 'weekly' as const,
+      priority: 0.7,
+    }));
+
+    return [areaWasteManagementRoute, ...serviceRoutes];
+  });
+
   // Combine all routes
   return [
     ...staticRoutes,
@@ -97,5 +126,6 @@ export default function sitemap(): MetadataRoute.Sitemap {
     ...serviceCategoryRoutes,
     ...serviceRoutes,
     ...serviceAreaServiceRoutes,
+    ...wasteManagementRoutes,
   ]
 } 
