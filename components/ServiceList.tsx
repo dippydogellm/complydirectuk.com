@@ -30,21 +30,23 @@ export function ServiceList({ title, services, area = 'all', categoryId }: Servi
             <p className="text-gray-600 mb-4 line-clamp-2">
               {service.description}
             </p>
-            <div className="space-y-2 mb-4">
-              {service.features.slice(0, 3).map((feature, index) => (
-                <div key={index} className="flex items-start">
-                  <svg className="w-5 h-5 text-blue-500 mr-2 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
-                  </svg>
-                  <span className="text-gray-600">{feature}</span>
-                </div>
-              ))}
-              {service.features.length > 3 && (
-                <p className="text-sm text-gray-500">
-                  +{service.features.length - 3} more features
-                </p>
-              )}
-            </div>
+            {service.features && service.features.length > 0 && (
+              <div className="space-y-2 mb-4">
+                {service.features.slice(0, 3).map((feature, index) => (
+                  <div key={index} className="flex items-start">
+                    <svg className="w-5 h-5 text-blue-500 mr-2 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
+                    </svg>
+                    <span className="text-gray-600">{feature}</span>
+                  </div>
+                ))}
+                {service.features.length > 3 && (
+                  <p className="text-sm text-gray-500">
+                    +{service.features.length - 3} more features
+                  </p>
+                )}
+              </div>
+            )}
             <div className="flex items-center text-blue-600 font-medium group-hover:text-blue-700 transition-colors duration-200">
               Learn more
               <svg className="w-4 h-4 ml-1 transform group-hover:translate-x-1 transition-transform duration-200" fill="none" stroke="currentColor" viewBox="0 0 24 24">
