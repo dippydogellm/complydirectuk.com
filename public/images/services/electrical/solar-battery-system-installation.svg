@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1920" height="1080" viewBox="0 0 1920 1080" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="100%" height="100%" fill="#1e40af"/>
+  
+  <!-- Decorative Elements -->
+  <circle cx="960" cy="540" r="400" fill="#ffffff" opacity="0.1"/>
+  <circle cx="960" cy="540" r="300" fill="#ffffff" opacity="0.05"/>
+  
+  <!-- Solar Battery System -->
+  <g transform="translate(960, 540)">
+    <!-- Solar Panel -->
+    <rect x="-200" y="-200" width="160" height="80" rx="10" fill="#ffffff"/>
+    <line x1="-160" y1="-180" x2="-120" y2="-180" stroke="#1e40af" stroke-width="2"/>
+    <line x1="-160" y1="-160" x2="-120" y2="-160" stroke="#1e40af" stroke-width="2"/>
+    <line x1="-160" y1="-140" x2="-120" y2="-140" stroke="#1e40af" stroke-width="2"/>
+    
+    <!-- Battery Bank -->
+    <rect x="-60" y="-100" width="120" height="200" rx="10" fill="#ffffff"/>
+    <rect x="-50" y="-90" width="100" height="180" rx="5" fill="#1e40af"/>
+    <line x1="-40" y1="-70" x2="40" y2="-70" stroke="#ffffff" stroke-width="4"/>
+    <line x1="-40" y1="-20" x2="40" y2="-20" stroke="#ffffff" stroke-width="4"/>
+    <line x1="-40" y1="30" x2="40" y2="30" stroke="#ffffff" stroke-width="4"/>
+    <line x1="-40" y1="80" x2="40" y2="80" stroke="#ffffff" stroke-width="4"/>
+    
+    <!-- Connection Lines -->
+    <line x1="-120" y1="-160" x2="-60" y2="-100" stroke="#ffffff" stroke-width="4"/>
+    <line x1="-120" y1="-140" x2="-60" y2="-100" stroke="#ffffff" stroke-width="4"/>
+    
+    <!-- Power Flow Indicator -->
+    <path d="M 80,-100 L 120,-100 L 100,-80 L 120,-60 L 100,-40" 
+          stroke="#00ff00" stroke-width="4" fill="none" marker-end="url(#arrowhead)"/>
+  </g>
+  
+  <!-- Arrow Marker Definition -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#00ff00"/>
+    </marker>
+  </defs>
+  
+  <!-- Text -->
+  <text x="960" y="900" font-family="Arial, sans-serif" font-size="48" font-weight="bold" fill="#ffffff" text-anchor="middle">
+    Solar Battery System Installation
+  </text>
+</svg> 

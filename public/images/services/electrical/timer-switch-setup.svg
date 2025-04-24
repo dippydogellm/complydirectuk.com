@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1920" height="1080" viewBox="0 0 1920 1080" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="100%" height="100%" fill="#1e40af"/>
+  
+  <!-- Decorative Elements -->
+  <circle cx="960" cy="540" r="400" fill="#ffffff" opacity="0.1"/>
+  <circle cx="960" cy="540" r="300" fill="#ffffff" opacity="0.05"/>
+  
+  <!-- Timer Switch -->
+  <g transform="translate(960, 540)">
+    <!-- Main Device -->
+    <rect x="-100" y="-120" width="200" height="240" rx="10" fill="#ffffff"/>
+    
+    <!-- Display -->
+    <rect x="-80" y="-100" width="160" height="60" rx="5" fill="#000000"/>
+    <text x="0" y="-60" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#00ff00" text-anchor="middle">
+      12:00
+    </text>
+    
+    <!-- Control Buttons -->
+    <circle cx="-60" cy="20" r="15" fill="#ffffff" stroke="#000000" stroke-width="2"/>
+    <text x="-60" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#000000" text-anchor="middle">+</text>
+    
+    <circle cx="60" cy="20" r="15" fill="#ffffff" stroke="#000000" stroke-width="2"/>
+    <text x="60" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#000000" text-anchor="middle">-</text>
+    
+    <!-- Mode Button -->
+    <rect x="-30" y="60" width="60" height="30" rx="5" fill="#ffffff" stroke="#000000" stroke-width="2"/>
+    <text x="0" y="80" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#000000" text-anchor="middle">MODE</text>
+    
+    <!-- Connection Points -->
+    <line x1="-100" y1="-20" x2="-120" y2="-20" stroke="#ffffff" stroke-width="4"/>
+    <line x1="-100" y1="20" x2="-120" y2="20" stroke="#ffffff" stroke-width="4"/>
+    
+    <line x1="100" y1="-20" x2="120" y2="-20" stroke="#ffffff" stroke-width="4"/>
+    <line x1="100" y1="20" x2="120" y2="20" stroke="#ffffff" stroke-width="4"/>
+  </g>
+  
+  <!-- Text -->
+  <text x="960" y="900" font-family="Arial, sans-serif" font-size="48" font-weight="bold" fill="#ffffff" text-anchor="middle">
+    Timer Switch Setup
+  </text>
+</svg> 

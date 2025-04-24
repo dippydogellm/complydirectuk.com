@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1920" height="1080" viewBox="0 0 1920 1080" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="100%" height="100%" fill="#1e40af"/>
+  
+  <!-- Decorative Elements -->
+  <circle cx="960" cy="540" r="400" fill="#ffffff" opacity="0.1"/>
+  <circle cx="960" cy="540" r="300" fill="#ffffff" opacity="0.05"/>
+  
+  <!-- Electrical Installation Icon -->
+  <g transform="translate(960, 540)">
+    <!-- Circuit Board -->
+    <rect x="-200" y="-150" width="400" height="300" rx="20" fill="#ffffff" opacity="0.9"/>
+    
+    <!-- Circuit Lines -->
+    <path d="M-150,-100 L150,-100 M-150,0 L150,0 M-150,100 L150,100" 
+          stroke="#1e40af" stroke-width="8" fill="none"/>
+    
+    <!-- Components -->
+    <circle cx="-100" cy="-100" r="15" fill="#1e40af"/>
+    <circle cx="0" cy="-100" r="15" fill="#1e40af"/>
+    <circle cx="100" cy="-100" r="15" fill="#1e40af"/>
+    
+    <!-- Lightning Bolt -->
+    <path d="M-50,-50 L0,-100 L50,-50 L0,0 Z" fill="#ffd700"/>
+  </g>
+  
+  <!-- Text -->
+  <text x="960" y="900" font-family="Arial, sans-serif" font-size="48" font-weight="bold" fill="#ffffff" text-anchor="middle">
+    Electrical Installation
+  </text>
+</svg> 
