@@ -3,7 +3,7 @@
     {
       "id": "manchester",
       "name": "Manchester",
-      "postcode": "VARIOUS",
+      "postcode": "M1-M99",
       "description": "Expert fire safety and protection services throughout Manchester and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -42,7 +42,7 @@
     {
       "id": "liverpool",
       "name": "Liverpool",
-      "postcode": "VARIOUS",
+      "postcode": "L1-L99",
       "description": "Expert fire safety and protection services throughout Liverpool and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -81,7 +81,7 @@
     {
       "id": "leeds",
       "name": "Leeds",
-      "postcode": "VARIOUS",
+      "postcode": "LS1-LS99",
       "description": "Expert fire safety and protection services throughout Leeds and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -120,7 +120,7 @@
     {
       "id": "sheffield",
       "name": "Sheffield",
-      "postcode": "VARIOUS",
+      "postcode": "S1-S99",
       "description": "Expert fire safety and protection services throughout Sheffield and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -159,7 +159,7 @@
     {
       "id": "york",
       "name": "York",
-      "postcode": "VARIOUS",
+      "postcode": "YO1-YO99",
       "description": "Expert fire safety and protection services throughout York and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -198,7 +198,7 @@
     {
       "id": "chester",
       "name": "Chester",
-      "postcode": "VARIOUS",
+      "postcode": "CH1-CH4",
       "description": "Expert fire safety and protection services throughout Chester and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -237,7 +237,7 @@
     {
       "id": "stoke-on-trent",
       "name": "Stoke-on-Trent",
-      "postcode": "VARIOUS",
+      "postcode": "ST1-ST99",
       "description": "Expert fire safety and protection services throughout Stoke-on-Trent and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -276,7 +276,7 @@
     {
       "id": "preston",
       "name": "Preston",
-      "postcode": "VARIOUS",
+      "postcode": "PR1-PR99",
       "description": "Expert fire safety and protection services throughout Preston and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -315,7 +315,7 @@
     {
       "id": "huddersfield",
       "name": "Huddersfield",
-      "postcode": "VARIOUS",
+      "postcode": "HD1-HD99",
       "description": "Expert fire safety and protection services throughout Huddersfield and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -354,7 +354,7 @@
     {
       "id": "bradford",
       "name": "Bradford",
-      "postcode": "VARIOUS",
+      "postcode": "BD1-BD99",
       "description": "Expert fire safety and protection services throughout Bradford and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -393,7 +393,7 @@
     {
       "id": "blackpool",
       "name": "Blackpool",
-      "postcode": "VARIOUS",
+      "postcode": "FY1-FY99",
       "description": "Expert fire safety and protection services throughout Blackpool and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -432,7 +432,7 @@
     {
       "id": "bolton",
       "name": "Bolton",
-      "postcode": "VARIOUS",
+      "postcode": "BL1-BL99",
       "description": "Expert fire safety and protection services throughout Bolton and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -471,7 +471,7 @@
     {
       "id": "stockport",
       "name": "Stockport",
-      "postcode": "VARIOUS",
+      "postcode": "SK1-SK99",
       "description": "Expert fire safety and protection services throughout Stockport and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -510,7 +510,7 @@
     {
       "id": "salford",
       "name": "Salford",
-      "postcode": "VARIOUS",
+      "postcode": "M1-M99",
       "description": "Expert fire safety and protection services throughout Salford and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -549,7 +549,7 @@
     {
       "id": "oldham",
       "name": "Oldham",
-      "postcode": "VARIOUS",
+      "postcode": "OL1-OL99",
       "description": "Expert fire safety and protection services throughout Oldham and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -588,7 +588,7 @@
     {
       "id": "rochdale",
       "name": "Rochdale",
-      "postcode": "VARIOUS",
+      "postcode": "OL1-OL99",
       "description": "Expert fire safety and protection services throughout Rochdale and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -627,7 +627,7 @@
     {
       "id": "bury",
       "name": "Bury",
-      "postcode": "VARIOUS",
+      "postcode": "BL9",
       "description": "Expert fire safety and protection services throughout Bury and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -666,7 +666,7 @@
     {
       "id": "wigan",
       "name": "Wigan",
-      "postcode": "VARIOUS",
+      "postcode": "WN1-WN99",
       "description": "Expert fire safety and protection services throughout Wigan and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -705,7 +705,7 @@
     {
       "id": "warrington",
       "name": "Warrington",
-      "postcode": "VARIOUS",
+      "postcode": "WA1-WA5",
       "description": "Expert fire safety and protection services throughout Warrington and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -744,7 +744,7 @@
     {
       "id": "burnley",
       "name": "Burnley",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Burnley and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -783,7 +783,7 @@
     {
       "id": "blackburn",
       "name": "Blackburn",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Blackburn and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -822,7 +822,7 @@
     {
       "id": "macclesfield",
       "name": "Macclesfield",
-      "postcode": "VARIOUS",
+      "postcode": "SK10-SK11",
       "description": "Expert fire safety and protection services throughout Macclesfield and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -861,7 +861,7 @@
     {
       "id": "altrincham",
       "name": "Altrincham",
-      "postcode": "VARIOUS",
+      "postcode": "WA14-WA15",
       "description": "Expert fire safety and protection services throughout Altrincham and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -900,7 +900,7 @@
     {
       "id": "sale",
       "name": "Sale",
-      "postcode": "VARIOUS",
+      "postcode": "M33",
       "description": "Expert fire safety and protection services throughout Sale and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -939,7 +939,7 @@
     {
       "id": "st-helens",
       "name": "St Helens",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout St Helens and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -978,7 +978,7 @@
     {
       "id": "crewe",
       "name": "Crewe",
-      "postcode": "VARIOUS",
+      "postcode": "CW1-CW3",
       "description": "Expert fire safety and protection services throughout Crewe and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -1017,7 +1017,7 @@
     {
       "id": "birkenhead",
       "name": "Birkenhead",
-      "postcode": "VARIOUS",
+      "postcode": "CH41-CH42",
       "description": "Expert fire safety and protection services throughout Birkenhead and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -1056,7 +1056,7 @@
     {
       "id": "southport",
       "name": "Southport",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Southport and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -1095,7 +1095,7 @@
     {
       "id": "lancaster",
       "name": "Lancaster",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Lancaster and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -1134,7 +1134,7 @@
     {
       "id": "halifax",
       "name": "Halifax",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Halifax and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -1173,7 +1173,7 @@
     {
       "id": "runcorn",
       "name": "Runcorn",
-      "postcode": "VARIOUS",
+      "postcode": "WA7",
       "description": "Expert fire safety and protection services throughout Runcorn and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -1212,7 +1212,7 @@
     {
       "id": "widnes",
       "name": "Widnes",
-      "postcode": "VARIOUS",
+      "postcode": "WA8",
       "description": "Expert fire safety and protection services throughout Widnes and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -1251,7 +1251,7 @@
     {
       "id": "ellesmere-port",
       "name": "Ellesmere Port",
-      "postcode": "VARIOUS",
+      "postcode": "CH65-CH66",
       "description": "Expert fire safety and protection services throughout Ellesmere Port and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -1290,7 +1290,7 @@
     {
       "id": "northwich",
       "name": "Northwich",
-      "postcode": "VARIOUS",
+      "postcode": "CW8-CW9",
       "description": "Expert fire safety and protection services throughout Northwich and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -1329,7 +1329,7 @@
     {
       "id": "nantwich",
       "name": "Nantwich",
-      "postcode": "VARIOUS",
+      "postcode": "CW5",
       "description": "Expert fire safety and protection services throughout Nantwich and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -1368,7 +1368,7 @@
     {
       "id": "congleton",
       "name": "Congleton",
-      "postcode": "VARIOUS",
+      "postcode": "CW12",
       "description": "Expert fire safety and protection services throughout Congleton and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -1407,7 +1407,7 @@
     {
       "id": "knutsford",
       "name": "Knutsford",
-      "postcode": "VARIOUS",
+      "postcode": "WA16",
       "description": "Expert fire safety and protection services throughout Knutsford and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -1446,7 +1446,7 @@
     {
       "id": "wilmslow",
       "name": "Wilmslow",
-      "postcode": "VARIOUS",
+      "postcode": "SK9",
       "description": "Expert fire safety and protection services throughout Wilmslow and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -1485,7 +1485,7 @@
     {
       "id": "lymm",
       "name": "Lymm",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Lymm and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -1524,7 +1524,7 @@
     {
       "id": "middlewich",
       "name": "Middlewich",
-      "postcode": "VARIOUS",
+      "postcode": "CW10",
       "description": "Expert fire safety and protection services throughout Middlewich and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -1563,7 +1563,7 @@
     {
       "id": "sandbach",
       "name": "Sandbach",
-      "postcode": "VARIOUS",
+      "postcode": "CW11",
       "description": "Expert fire safety and protection services throughout Sandbach and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -1602,7 +1602,7 @@
     {
       "id": "winsford",
       "name": "Winsford",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Winsford and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -1641,7 +1641,7 @@
     {
       "id": "glossop",
       "name": "Glossop",
-      "postcode": "VARIOUS",
+      "postcode": "SK13",
       "description": "Expert fire safety and protection services throughout Glossop and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -1680,7 +1680,7 @@
     {
       "id": "buxton",
       "name": "Buxton",
-      "postcode": "VARIOUS",
+      "postcode": "SK17",
       "description": "Expert fire safety and protection services throughout Buxton and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -1719,7 +1719,7 @@
     {
       "id": "matlock",
       "name": "Matlock",
-      "postcode": "VARIOUS",
+      "postcode": "DE4",
       "description": "Expert fire safety and protection services throughout Matlock and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -1758,7 +1758,7 @@
     {
       "id": "bakewell",
       "name": "Bakewell",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Bakewell and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -1797,7 +1797,7 @@
     {
       "id": "ashbourne",
       "name": "Ashbourne",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Ashbourne and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -1836,7 +1836,7 @@
     {
       "id": "leek",
       "name": "Leek",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Leek and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -1875,7 +1875,7 @@
     {
       "id": "newcastle-under-lyme",
       "name": "Newcastle-under-Lyme",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Newcastle-under-Lyme and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -1914,7 +1914,7 @@
     {
       "id": "stafford",
       "name": "Stafford",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Stafford and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -1953,7 +1953,7 @@
     {
       "id": "shrewsbury",
       "name": "Shrewsbury",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Shrewsbury and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -1992,7 +1992,7 @@
     {
       "id": "telford",
       "name": "Telford",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Telford and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -2031,7 +2031,7 @@
     {
       "id": "wolverhampton",
       "name": "Wolverhampton",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Wolverhampton and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -2070,7 +2070,7 @@
     {
       "id": "birmingham",
       "name": "Birmingham",
-      "postcode": "VARIOUS",
+      "postcode": "B1-B99",
       "description": "Expert fire safety and protection services throughout Birmingham and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -2109,7 +2109,7 @@
     {
       "id": "coventry",
       "name": "Coventry",
-      "postcode": "VARIOUS",
+      "postcode": "CV1-CV12",
       "description": "Expert fire safety and protection services throughout Coventry and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -2148,7 +2148,7 @@
     {
       "id": "leicester",
       "name": "Leicester",
-      "postcode": "VARIOUS",
+      "postcode": "LE1-LE9",
       "description": "Expert fire safety and protection services throughout Leicester and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -2187,7 +2187,7 @@
     {
       "id": "nottingham",
       "name": "Nottingham",
-      "postcode": "VARIOUS",
+      "postcode": "NG1-NG9",
       "description": "Expert fire safety and protection services throughout Nottingham and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -2226,7 +2226,7 @@
     {
       "id": "derby",
       "name": "Derby",
-      "postcode": "VARIOUS",
+      "postcode": "DE1-DE24",
       "description": "Expert fire safety and protection services throughout Derby and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -2265,7 +2265,7 @@
     {
       "id": "loughborough",
       "name": "Loughborough",
-      "postcode": "VARIOUS",
+      "postcode": "LE11-LE12",
       "description": "Expert fire safety and protection services throughout Loughborough and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -2304,7 +2304,7 @@
     {
       "id": "lincoln",
       "name": "Lincoln",
-      "postcode": "VARIOUS",
+      "postcode": "LN1-LN6",
       "description": "Expert fire safety and protection services throughout Lincoln and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -2343,7 +2343,7 @@
     {
       "id": "scunthorpe",
       "name": "Scunthorpe",
-      "postcode": "VARIOUS",
+      "postcode": "DN15-DN17",
       "description": "Expert fire safety and protection services throughout Scunthorpe and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -2382,7 +2382,7 @@
     {
       "id": "grimsby",
       "name": "Grimsby",
-      "postcode": "VARIOUS",
+      "postcode": "DN31-DN37",
       "description": "Expert fire safety and protection services throughout Grimsby and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -2421,7 +2421,7 @@
     {
       "id": "hull",
       "name": "Hull",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Hull and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -2460,7 +2460,7 @@
     {
       "id": "doncaster",
       "name": "Doncaster",
-      "postcode": "VARIOUS",
+      "postcode": "DN1-DN12",
       "description": "Expert fire safety and protection services throughout Doncaster and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -2499,7 +2499,7 @@
     {
       "id": "barnsley",
       "name": "Barnsley",
-      "postcode": "VARIOUS",
+      "postcode": "S70-S75",
       "description": "Expert fire safety and protection services throughout Barnsley and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -2538,7 +2538,7 @@
     {
       "id": "rotherham",
       "name": "Rotherham",
-      "postcode": "VARIOUS",
+      "postcode": "S60-S66",
       "description": "Expert fire safety and protection services throughout Rotherham and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -2577,7 +2577,7 @@
     {
       "id": "wakefield",
       "name": "Wakefield",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Wakefield and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -2616,7 +2616,7 @@
     {
       "id": "dewsbury",
       "name": "Dewsbury",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Dewsbury and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -2655,7 +2655,7 @@
     {
       "id": "keighley",
       "name": "Keighley",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Keighley and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -2694,7 +2694,7 @@
     {
       "id": "skipton",
       "name": "Skipton",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Skipton and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -2733,7 +2733,7 @@
     {
       "id": "harrogate",
       "name": "Harrogate",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Harrogate and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -2772,7 +2772,7 @@
     {
       "id": "ripon",
       "name": "Ripon",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Ripon and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -2811,7 +2811,7 @@
     {
       "id": "darlington",
       "name": "Darlington",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Darlington and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -2850,7 +2850,7 @@
     {
       "id": "middlesbrough",
       "name": "Middlesbrough",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Middlesbrough and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -2889,7 +2889,7 @@
     {
       "id": "sunderland",
       "name": "Sunderland",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Sunderland and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -2928,7 +2928,7 @@
     {
       "id": "newcastle-upon-tyne",
       "name": "Newcastle upon Tyne",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Newcastle upon Tyne and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -2967,7 +2967,7 @@
     {
       "id": "durham",
       "name": "Durham",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Durham and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -3006,7 +3006,7 @@
     {
       "id": "carlisle",
       "name": "Carlisle",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Carlisle and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -3045,7 +3045,7 @@
     {
       "id": "kendal",
       "name": "Kendal",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Kendal and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -3084,7 +3084,7 @@
     {
       "id": "penrith",
       "name": "Penrith",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Penrith and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -3123,7 +3123,7 @@
     {
       "id": "workington",
       "name": "Workington",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Workington and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -3162,7 +3162,7 @@
     {
       "id": "whitehaven",
       "name": "Whitehaven",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Whitehaven and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -3201,7 +3201,7 @@
     {
       "id": "barrow-in-furness",
       "name": "Barrow-in-Furness",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Barrow-in-Furness and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -3240,7 +3240,7 @@
     {
       "id": "morecambe",
       "name": "Morecambe",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Morecambe and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -3279,7 +3279,7 @@
     {
       "id": "heysham",
       "name": "Heysham",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Heysham and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -3318,7 +3318,7 @@
     {
       "id": "fleetwood",
       "name": "Fleetwood",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Fleetwood and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -3357,7 +3357,7 @@
     {
       "id": "lytham-st-annes",
       "name": "Lytham St Annes",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Lytham St Annes and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -3396,7 +3396,7 @@
     {
       "id": "poulton-le-fylde",
       "name": "Poulton-le-Fylde",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Poulton-le-Fylde and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -3435,7 +3435,7 @@
     {
       "id": "kirkham",
       "name": "Kirkham",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Kirkham and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -3474,7 +3474,7 @@
     {
       "id": "garstang",
       "name": "Garstang",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Garstang and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -3513,7 +3513,7 @@
     {
       "id": "longridge",
       "name": "Longridge",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Longridge and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -3552,7 +3552,7 @@
     {
       "id": "clitheroe",
       "name": "Clitheroe",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Clitheroe and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -3591,7 +3591,7 @@
     {
       "id": "accrington",
       "name": "Accrington",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Accrington and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -3630,7 +3630,7 @@
     {
       "id": "haslingden",
       "name": "Haslingden",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Haslingden and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -3669,7 +3669,7 @@
     {
       "id": "rawtenstall",
       "name": "Rawtenstall",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Rawtenstall and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -3708,7 +3708,7 @@
     {
       "id": "bacup",
       "name": "Bacup",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Bacup and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -3747,7 +3747,7 @@
     {
       "id": "todmorden",
       "name": "Todmorden",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Todmorden and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -3786,7 +3786,7 @@
     {
       "id": "hebden-bridge",
       "name": "Hebden Bridge",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Hebden Bridge and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -3825,7 +3825,7 @@
     {
       "id": "sowerby-bridge",
       "name": "Sowerby Bridge",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Sowerby Bridge and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -3864,7 +3864,7 @@
     {
       "id": "brighouse",
       "name": "Brighouse",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Brighouse and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -3903,7 +3903,7 @@
     {
       "id": "elland",
       "name": "Elland",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Elland and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -3942,7 +3942,7 @@
     {
       "id": "mirfield",
       "name": "Mirfield",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Mirfield and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -3981,7 +3981,7 @@
     {
       "id": "batley",
       "name": "Batley",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Batley and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -4020,7 +4020,7 @@
     {
       "id": "heckmondwike",
       "name": "Heckmondwike",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Heckmondwike and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -4059,7 +4059,7 @@
     {
       "id": "ossett",
       "name": "Ossett",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Ossett and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -4098,7 +4098,7 @@
     {
       "id": "pontefract",
       "name": "Pontefract",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Pontefract and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -4137,7 +4137,7 @@
     {
       "id": "castleford",
       "name": "Castleford",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Castleford and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -4176,7 +4176,7 @@
     {
       "id": "goole",
       "name": "Goole",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Goole and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -4215,7 +4215,7 @@
     {
       "id": "selby",
       "name": "Selby",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Selby and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -4254,7 +4254,7 @@
     {
       "id": "beverley",
       "name": "Beverley",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Beverley and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -4293,7 +4293,7 @@
     {
       "id": "driffield",
       "name": "Driffield",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Driffield and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -4332,7 +4332,7 @@
     {
       "id": "bridlington",
       "name": "Bridlington",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Bridlington and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -4371,7 +4371,7 @@
     {
       "id": "scarborough",
       "name": "Scarborough",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Scarborough and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -4410,7 +4410,7 @@
     {
       "id": "whitby",
       "name": "Whitby",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Whitby and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -4449,7 +4449,7 @@
     {
       "id": "malton",
       "name": "Malton",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Malton and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -4488,7 +4488,7 @@
     {
       "id": "pickering",
       "name": "Pickering",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Pickering and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -4527,7 +4527,7 @@
     {
       "id": "thirsk",
       "name": "Thirsk",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Thirsk and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -4566,7 +4566,7 @@
     {
       "id": "northallerton",
       "name": "Northallerton",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Northallerton and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -4605,7 +4605,7 @@
     {
       "id": "richmond",
       "name": "Richmond",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Richmond and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -4644,7 +4644,7 @@
     {
       "id": "leyburn",
       "name": "Leyburn",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Leyburn and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -4683,7 +4683,7 @@
     {
       "id": "hawes",
       "name": "Hawes",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Hawes and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -4722,7 +4722,7 @@
     {
       "id": "settle",
       "name": "Settle",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Settle and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -4761,7 +4761,7 @@
     {
       "id": "ingleton",
       "name": "Ingleton",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Ingleton and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -4800,7 +4800,7 @@
     {
       "id": "kirkby-lonsdale",
       "name": "Kirkby Lonsdale",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Kirkby Lonsdale and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -4839,7 +4839,7 @@
     {
       "id": "sedbergh",
       "name": "Sedbergh",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Sedbergh and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -4878,7 +4878,7 @@
     {
       "id": "appleby-in-westmorland",
       "name": "Appleby-in-Westmorland",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Appleby-in-Westmorland and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -4917,7 +4917,7 @@
     {
       "id": "kirkby-stephen",
       "name": "Kirkby Stephen",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Kirkby Stephen and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -4956,7 +4956,7 @@
     {
       "id": "barnard-castle",
       "name": "Barnard Castle",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Barnard Castle and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -4995,7 +4995,7 @@
     {
       "id": "bishop-auckland",
       "name": "Bishop Auckland",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Bishop Auckland and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -5034,7 +5034,7 @@
     {
       "id": "spennymoor",
       "name": "Spennymoor",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Spennymoor and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -5073,7 +5073,7 @@
     {
       "id": "newton-aycliffe",
       "name": "Newton Aycliffe",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Newton Aycliffe and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -5112,7 +5112,7 @@
     {
       "id": "shildon",
       "name": "Shildon",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Shildon and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -5151,7 +5151,7 @@
     {
       "id": "crook",
       "name": "Crook",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Crook and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -5190,7 +5190,7 @@
     {
       "id": "consett",
       "name": "Consett",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Consett and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -5229,7 +5229,7 @@
     {
       "id": "stanley",
       "name": "Stanley",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Stanley and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -5268,7 +5268,7 @@
     {
       "id": "chester-le-street",
       "name": "Chester-le-Street",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Chester-le-Street and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -5307,7 +5307,7 @@
     {
       "id": "washington",
       "name": "Washington",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Washington and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -5346,7 +5346,7 @@
     {
       "id": "houghton-le-spring",
       "name": "Houghton-le-Spring",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Houghton-le-Spring and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -5385,7 +5385,7 @@
     {
       "id": "seaham",
       "name": "Seaham",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Seaham and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -5424,7 +5424,7 @@
     {
       "id": "peterlee",
       "name": "Peterlee",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Peterlee and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -5463,7 +5463,7 @@
     {
       "id": "hartlepool",
       "name": "Hartlepool",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Hartlepool and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -5502,7 +5502,7 @@
     {
       "id": "redcar",
       "name": "Redcar",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Redcar and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -5541,7 +5541,7 @@
     {
       "id": "saltburn-by-the-sea",
       "name": "Saltburn-by-the-Sea",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Saltburn-by-the-Sea and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -5580,7 +5580,7 @@
     {
       "id": "guisborough",
       "name": "Guisborough",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Guisborough and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -5619,7 +5619,7 @@
     {
       "id": "loftus",
       "name": "Loftus",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Loftus and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -5658,7 +5658,7 @@
     {
       "id": "skelton",
       "name": "Skelton",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Skelton and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -5697,7 +5697,7 @@
     {
       "id": "marske-by-the-sea",
       "name": "Marske-by-the-Sea",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Marske-by-the-Sea and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -5736,7 +5736,7 @@
     {
       "id": "great-ayton",
       "name": "Great Ayton",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Great Ayton and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -5775,7 +5775,7 @@
     {
       "id": "stokesley",
       "name": "Stokesley",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Stokesley and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -5814,7 +5814,7 @@
     {
       "id": "yarm",
       "name": "Yarm",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Yarm and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -5853,7 +5853,7 @@
     {
       "id": "thornaby",
       "name": "Thornaby",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Thornaby and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -5892,7 +5892,7 @@
     {
       "id": "stockton-on-tees",
       "name": "Stockton-on-Tees",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Stockton-on-Tees and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -5931,7 +5931,7 @@
     {
       "id": "billingham",
       "name": "Billingham",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Billingham and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -5970,7 +5970,7 @@
     {
       "id": "norton",
       "name": "Norton",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Norton and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -6009,7 +6009,7 @@
     {
       "id": "sedgefield",
       "name": "Sedgefield",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Sedgefield and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -6048,7 +6048,7 @@
     {
       "id": "ferryhill",
       "name": "Ferryhill",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Ferryhill and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -6087,7 +6087,7 @@
     {
       "id": "trimdon",
       "name": "Trimdon",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Trimdon and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -6126,7 +6126,7 @@
     {
       "id": "wingate",
       "name": "Wingate",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Wingate and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -6165,7 +6165,7 @@
     {
       "id": "shotton-colliery",
       "name": "Shotton Colliery",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Shotton Colliery and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -6204,7 +6204,7 @@
     {
       "id": "easington",
       "name": "Easington",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Easington and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -6243,7 +6243,7 @@
     {
       "id": "murton",
       "name": "Murton",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Murton and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -6282,7 +6282,7 @@
     {
       "id": "hetton-le-hole",
       "name": "Hetton-le-Hole",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Hetton-le-Hole and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -6321,7 +6321,7 @@
     {
       "id": "horden",
       "name": "Horden",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Horden and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -6360,7 +6360,7 @@
     {
       "id": "blackhall-colliery",
       "name": "Blackhall Colliery",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Blackhall Colliery and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -6399,7 +6399,7 @@
     {
       "id": "seaton-carew",
       "name": "Seaton Carew",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Seaton Carew and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -6438,7 +6438,7 @@
     {
       "id": "greatham",
       "name": "Greatham",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Greatham and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -6477,7 +6477,7 @@
     {
       "id": "wolviston",
       "name": "Wolviston",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Wolviston and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -6516,7 +6516,7 @@
     {
       "id": "wynyard",
       "name": "Wynyard",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Wynyard and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -6555,7 +6555,7 @@
     {
       "id": "hart",
       "name": "Hart",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Hart and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -6594,7 +6594,7 @@
     {
       "id": "elwick",
       "name": "Elwick",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Elwick and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -6633,7 +6633,7 @@
     {
       "id": "dalton-piercy",
       "name": "Dalton Piercy",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Dalton Piercy and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -6672,7 +6672,7 @@
     {
       "id": "cowpen-bewley",
       "name": "Cowpen Bewley",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Cowpen Bewley and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -6711,7 +6711,7 @@
     {
       "id": "port-clarence",
       "name": "Port Clarence",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Port Clarence and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -6750,7 +6750,7 @@
     {
       "id": "south-bank",
       "name": "South Bank",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout South Bank and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -6789,7 +6789,7 @@
     {
       "id": "eston",
       "name": "Eston",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Eston and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -6828,7 +6828,7 @@
     {
       "id": "normanby",
       "name": "Normanby",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Normanby and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -6867,7 +6867,7 @@
     {
       "id": "ormesby",
       "name": "Ormesby",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Ormesby and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -6906,7 +6906,7 @@
     {
       "id": "nunthorpe",
       "name": "Nunthorpe",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Nunthorpe and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -6945,7 +6945,7 @@
     {
       "id": "marton",
       "name": "Marton",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Marton and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -6984,7 +6984,7 @@
     {
       "id": "coulby-newham",
       "name": "Coulby Newham",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Coulby Newham and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -7023,7 +7023,7 @@
     {
       "id": "hemlington",
       "name": "Hemlington",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Hemlington and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -7062,7 +7062,7 @@
     {
       "id": "acklam",
       "name": "Acklam",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Acklam and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -7101,7 +7101,7 @@
     {
       "id": "linthorpe",
       "name": "Linthorpe",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Linthorpe and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -7140,7 +7140,7 @@
     {
       "id": "grove-hill",
       "name": "Grove Hill",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Grove Hill and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -7179,7 +7179,7 @@
     {
       "id": "north-ormesby",
       "name": "North Ormesby",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout North Ormesby and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -7218,7 +7218,7 @@
     {
       "id": "berwick-hills",
       "name": "Berwick Hills",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Berwick Hills and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -7257,7 +7257,7 @@
     {
       "id": "pallister",
       "name": "Pallister",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Pallister and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -7296,7 +7296,7 @@
     {
       "id": "thorntree",
       "name": "Thorntree",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Thorntree and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -7335,7 +7335,7 @@
     {
       "id": "brambles-farm",
       "name": "Brambles Farm",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Brambles Farm and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -7374,7 +7374,7 @@
     {
       "id": "park-end",
       "name": "Park End",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Park End and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -7413,7 +7413,7 @@
     {
       "id": "beckfield",
       "name": "Beckfield",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Beckfield and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -7452,7 +7452,7 @@
     {
       "id": "cargo-fleet",
       "name": "Cargo Fleet",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Cargo Fleet and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -7491,7 +7491,7 @@
     {
       "id": "southfield",
       "name": "Southfield",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Southfield and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -7530,7 +7530,7 @@
     {
       "id": "northfield",
       "name": "Northfield",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Northfield and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -7569,7 +7569,7 @@
     {
       "id": "eastfield",
       "name": "Eastfield",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Eastfield and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -7608,7 +7608,7 @@
     {
       "id": "westfield",
       "name": "Westfield",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Westfield and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -7647,7 +7647,7 @@
     {
       "id": "middlesbrough-centre",
       "name": "Middlesbrough Centre",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Middlesbrough Centre and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -7686,7 +7686,7 @@
     {
       "id": "newport",
       "name": "Newport",
-      "postcode": "VARIOUS",
+      "postcode": "NP1-NP20",
       "description": "Expert fire safety and protection services throughout Newport and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -7725,7 +7725,7 @@
     {
       "id": "ayresome",
       "name": "Ayresome",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Ayresome and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -7764,7 +7764,7 @@
     {
       "id": "whinney-banks",
       "name": "Whinney Banks",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Whinney Banks and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -7803,7 +7803,7 @@
     {
       "id": "longlands",
       "name": "Longlands",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Longlands and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -7842,7 +7842,7 @@
     {
       "id": "tollesby",
       "name": "Tollesby",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Tollesby and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -7881,7 +7881,7 @@
     {
       "id": "saltersgill",
       "name": "Saltersgill",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Saltersgill and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -7920,7 +7920,7 @@
     {
       "id": "easterside",
       "name": "Easterside",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Easterside and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -7959,7 +7959,7 @@
     {
       "id": "marton-manor",
       "name": "Marton Manor",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Marton Manor and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -7998,7 +7998,7 @@
     {
       "id": "stainton",
       "name": "Stainton",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Stainton and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -8037,7 +8037,7 @@
     {
       "id": "thornton",
       "name": "Thornton",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Thornton and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -8076,7 +8076,7 @@
     {
       "id": "maltby",
       "name": "Maltby",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Maltby and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -8115,7 +8115,7 @@
     {
       "id": "hilton",
       "name": "Hilton",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Hilton and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -8154,7 +8154,7 @@
     {
       "id": "seamer",
       "name": "Seamer",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Seamer and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -8193,7 +8193,7 @@
     {
       "id": "newby",
       "name": "Newby",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Newby and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -8232,7 +8232,7 @@
     {
       "id": "great-broughton",
       "name": "Great Broughton",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Great Broughton and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -8271,7 +8271,7 @@
     {
       "id": "swainby",
       "name": "Swainby",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Swainby and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -8310,7 +8310,7 @@
     {
       "id": "osmotherley",
       "name": "Osmotherley",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Osmotherley and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -8349,7 +8349,7 @@
     {
       "id": "borrowby",
       "name": "Borrowby",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Borrowby and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -8388,7 +8388,7 @@
     {
       "id": "knayton",
       "name": "Knayton",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Knayton and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -8427,7 +8427,7 @@
     {
       "id": "thirlby",
       "name": "Thirlby",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Thirlby and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -8466,7 +8466,7 @@
     {
       "id": "sutton-under-whitestonecliffe",
       "name": "Sutton-under-Whitestonecliffe",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Sutton-under-Whitestonecliffe and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -8505,7 +8505,7 @@
     {
       "id": "bagby",
       "name": "Bagby",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Bagby and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -8544,7 +8544,7 @@
     {
       "id": "sowerby",
       "name": "Sowerby",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Sowerby and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -8583,7 +8583,7 @@
     {
       "id": "thirsk-centre",
       "name": "Thirsk Centre",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Thirsk Centre and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -8622,7 +8622,7 @@
     {
       "id": "carlton-miniott",
       "name": "Carlton Miniott",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Carlton Miniott and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -8661,7 +8661,7 @@
     {
       "id": "sandhutton",
       "name": "Sandhutton",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Sandhutton and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -8700,7 +8700,7 @@
     {
       "id": "baldersby",
       "name": "Baldersby",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Baldersby and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -8739,7 +8739,7 @@
     {
       "id": "topcliffe",
       "name": "Topcliffe",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Topcliffe and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -8778,7 +8778,7 @@
     {
       "id": "asenby",
       "name": "Asenby",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Asenby and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -8817,7 +8817,7 @@
     {
       "id": "dalton",
       "name": "Dalton",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Dalton and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -8856,7 +8856,7 @@
     {
       "id": "sessay",
       "name": "Sessay",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Sessay and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -8895,7 +8895,7 @@
     {
       "id": "hutton-sessay",
       "name": "Hutton Sessay",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Hutton Sessay and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -8934,7 +8934,7 @@
     {
       "id": "raskelf",
       "name": "Raskelf",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Raskelf and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -8973,7 +8973,7 @@
     {
       "id": "easingwold",
       "name": "Easingwold",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Easingwold and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -9012,7 +9012,7 @@
     {
       "id": "stillington",
       "name": "Stillington",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Stillington and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -9051,7 +9051,7 @@
     {
       "id": "crayke",
       "name": "Crayke",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Crayke and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -9090,7 +9090,7 @@
     {
       "id": "brandsby",
       "name": "Brandsby",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Brandsby and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -9129,7 +9129,7 @@
     {
       "id": "sheriff-hutton",
       "name": "Sheriff Hutton",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Sheriff Hutton and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -9168,7 +9168,7 @@
     {
       "id": "strensall",
       "name": "Strensall",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Strensall and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -9207,7 +9207,7 @@
     {
       "id": "haxby",
       "name": "Haxby",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Haxby and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -9246,7 +9246,7 @@
     {
       "id": "wigginton",
       "name": "Wigginton",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Wigginton and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -9285,7 +9285,7 @@
     {
       "id": "new-earswick",
       "name": "New Earswick",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout New Earswick and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -9324,7 +9324,7 @@
     {
       "id": "huntington",
       "name": "Huntington",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Huntington and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -9363,7 +9363,7 @@
     {
       "id": "york-centre",
       "name": "York Centre",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout York Centre and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -9402,7 +9402,7 @@
     {
       "id": "acomb",
       "name": "Acomb",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Acomb and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -9441,7 +9441,7 @@
     {
       "id": "holgate",
       "name": "Holgate",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Holgate and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -9480,7 +9480,7 @@
     {
       "id": "clifton",
       "name": "Clifton",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Clifton and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -9519,7 +9519,7 @@
     {
       "id": "rawcliffe",
       "name": "Rawcliffe",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Rawcliffe and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -9558,7 +9558,7 @@
     {
       "id": "skelton",
       "name": "Skelton",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Skelton and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -9597,7 +9597,7 @@
     {
       "id": "poppleton",
       "name": "Poppleton",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Poppleton and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -9636,7 +9636,7 @@
     {
       "id": "nether-poppleton",
       "name": "Nether Poppleton",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Nether Poppleton and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -9675,7 +9675,7 @@
     {
       "id": "upper-poppleton",
       "name": "Upper Poppleton",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Upper Poppleton and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -9714,7 +9714,7 @@
     {
       "id": "rufforth",
       "name": "Rufforth",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Rufforth and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -9753,7 +9753,7 @@
     {
       "id": "askham-bryan",
       "name": "Askham Bryan",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Askham Bryan and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -9792,7 +9792,7 @@
     {
       "id": "askham-richard",
       "name": "Askham Richard",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Askham Richard and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -9831,7 +9831,7 @@
     {
       "id": "copmanthorpe",
       "name": "Copmanthorpe",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Copmanthorpe and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -9870,7 +9870,7 @@
     {
       "id": "bishopthorpe",
       "name": "Bishopthorpe",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Bishopthorpe and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -9909,7 +9909,7 @@
     {
       "id": "naburn",
       "name": "Naburn",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Naburn and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -9948,7 +9948,7 @@
     {
       "id": "acaster-malbis",
       "name": "Acaster Malbis",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Acaster Malbis and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -9987,7 +9987,7 @@
     {
       "id": "appleton-roebuck",
       "name": "Appleton Roebuck",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Appleton Roebuck and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -10026,7 +10026,7 @@
     {
       "id": "bolton-percy",
       "name": "Bolton Percy",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Bolton Percy and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -10065,7 +10065,7 @@
     {
       "id": "tadcaster",
       "name": "Tadcaster",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Tadcaster and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -10104,7 +10104,7 @@
     {
       "id": "boston-spa",
       "name": "Boston Spa",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Boston Spa and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -10143,7 +10143,7 @@
     {
       "id": "wetherby",
       "name": "Wetherby",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Wetherby and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -10182,7 +10182,7 @@
     {
       "id": "collingham",
       "name": "Collingham",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Collingham and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -10221,7 +10221,7 @@
     {
       "id": "bardsey",
       "name": "Bardsey",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Bardsey and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -10260,7 +10260,7 @@
     {
       "id": "thorner",
       "name": "Thorner",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Thorner and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -10299,7 +10299,7 @@
     {
       "id": "scarcroft",
       "name": "Scarcroft",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Scarcroft and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -10338,7 +10338,7 @@
     {
       "id": "shadwell",
       "name": "Shadwell",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Shadwell and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -10377,7 +10377,7 @@
     {
       "id": "alwoodley",
       "name": "Alwoodley",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Alwoodley and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -10416,7 +10416,7 @@
     {
       "id": "moortown",
       "name": "Moortown",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Moortown and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -10455,7 +10455,7 @@
     {
       "id": "roundhay",
       "name": "Roundhay",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Roundhay and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -10494,7 +10494,7 @@
     {
       "id": "oakwood",
       "name": "Oakwood",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Oakwood and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -10533,7 +10533,7 @@
     {
       "id": "harehills",
       "name": "Harehills",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Harehills and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -10572,7 +10572,7 @@
     {
       "id": "gipton",
       "name": "Gipton",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Gipton and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -10611,7 +10611,7 @@
     {
       "id": "seacroft",
       "name": "Seacroft",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Seacroft and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -10650,7 +10650,7 @@
     {
       "id": "cross-gates",
       "name": "Cross Gates",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Cross Gates and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -10689,7 +10689,7 @@
     {
       "id": "halton",
       "name": "Halton",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Halton and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -10728,7 +10728,7 @@
     {
       "id": "colton",
       "name": "Colton",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Colton and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -10767,7 +10767,7 @@
     {
       "id": "whitkirk",
       "name": "Whitkirk",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Whitkirk and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -10806,7 +10806,7 @@
     {
       "id": "garforth",
       "name": "Garforth",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Garforth and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -10845,7 +10845,7 @@
     {
       "id": "kippax",
       "name": "Kippax",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Kippax and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -10884,7 +10884,7 @@
     {
       "id": "allerton-bywater",
       "name": "Allerton Bywater",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Allerton Bywater and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -10923,7 +10923,7 @@
     {
       "id": "castleford-centre",
       "name": "Castleford Centre",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Castleford Centre and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -10962,7 +10962,7 @@
     {
       "id": "glasshoughton",
       "name": "Glasshoughton",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Glasshoughton and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -11001,7 +11001,7 @@
     {
       "id": "ferrybridge",
       "name": "Ferrybridge",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Ferrybridge and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -11040,7 +11040,7 @@
     {
       "id": "knottingley",
       "name": "Knottingley",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Knottingley and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -11079,7 +11079,7 @@
     {
       "id": "brotherton",
       "name": "Brotherton",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Brotherton and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -11118,7 +11118,7 @@
     {
       "id": "fairburn",
       "name": "Fairburn",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Fairburn and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -11157,7 +11157,7 @@
     {
       "id": "hillam",
       "name": "Hillam",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Hillam and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -11196,7 +11196,7 @@
     {
       "id": "monk-fryston",
       "name": "Monk Fryston",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Monk Fryston and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -11235,7 +11235,7 @@
     {
       "id": "south-milford",
       "name": "South Milford",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout South Milford and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -11274,7 +11274,7 @@
     {
       "id": "sherburn-in-elmet",
       "name": "Sherburn in Elmet",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Sherburn in Elmet and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -11313,7 +11313,7 @@
     {
       "id": "ulleskelf",
       "name": "Ulleskelf",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Ulleskelf and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -11352,7 +11352,7 @@
     {
       "id": "cawood",
       "name": "Cawood",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Cawood and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -11391,7 +11391,7 @@
     {
       "id": "riccall",
       "name": "Riccall",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Riccall and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -11430,7 +11430,7 @@
     {
       "id": "barlby",
       "name": "Barlby",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Barlby and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -11469,7 +11469,7 @@
     {
       "id": "selby-centre",
       "name": "Selby Centre",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Selby Centre and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -11508,7 +11508,7 @@
     {
       "id": "brayton",
       "name": "Brayton",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Brayton and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -11547,7 +11547,7 @@
     {
       "id": "thorpe-willoughby",
       "name": "Thorpe Willoughby",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Thorpe Willoughby and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -11586,7 +11586,7 @@
     {
       "id": "hambleton",
       "name": "Hambleton",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Hambleton and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -11625,7 +11625,7 @@
     {
       "id": "monk-fryston",
       "name": "Monk Fryston",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Monk Fryston and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -11664,7 +11664,7 @@
     {
       "id": "hillam",
       "name": "Hillam",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Hillam and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -11703,7 +11703,7 @@
     {
       "id": "burton-salmon",
       "name": "Burton Salmon",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Burton Salmon and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -11742,7 +11742,7 @@
     {
       "id": "brotherton",
       "name": "Brotherton",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Brotherton and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -11781,7 +11781,7 @@
     {
       "id": "fairburn",
       "name": "Fairburn",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Fairburn and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -11820,7 +11820,7 @@
     {
       "id": "ledsham",
       "name": "Ledsham",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Ledsham and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -11859,7 +11859,7 @@
     {
       "id": "ledston",
       "name": "Ledston",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Ledston and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -11898,7 +11898,7 @@
     {
       "id": "kippax",
       "name": "Kippax",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Kippax and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -11937,7 +11937,7 @@
     {
       "id": "garforth",
       "name": "Garforth",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Garforth and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -11976,7 +11976,7 @@
     {
       "id": "swillington",
       "name": "Swillington",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Swillington and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -12015,7 +12015,7 @@
     {
       "id": "great-preston",
       "name": "Great Preston",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Great Preston and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -12054,7 +12054,7 @@
     {
       "id": "allerton-bywater",
       "name": "Allerton Bywater",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Allerton Bywater and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -12093,7 +12093,7 @@
     {
       "id": "methley",
       "name": "Methley",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Methley and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -12132,7 +12132,7 @@
     {
       "id": "oulton",
       "name": "Oulton",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Oulton and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -12171,7 +12171,7 @@
     {
       "id": "woodlesford",
       "name": "Woodlesford",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Woodlesford and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -12210,7 +12210,7 @@
     {
       "id": "rothwell",
       "name": "Rothwell",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Rothwell and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -12249,7 +12249,7 @@
     {
       "id": "carlton",
       "name": "Carlton",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Carlton and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -12288,7 +12288,7 @@
     {
       "id": "lofthouse",
       "name": "Lofthouse",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Lofthouse and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -12327,7 +12327,7 @@
     {
       "id": "robin-hood",
       "name": "Robin Hood",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Robin Hood and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -12366,7 +12366,7 @@
     {
       "id": "east-ardsley",
       "name": "East Ardsley",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout East Ardsley and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -12405,7 +12405,7 @@
     {
       "id": "west-ardsley",
       "name": "West Ardsley",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout West Ardsley and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -12444,7 +12444,7 @@
     {
       "id": "tingley",
       "name": "Tingley",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Tingley and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -12483,7 +12483,7 @@
     {
       "id": "morley",
       "name": "Morley",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Morley and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -12522,7 +12522,7 @@
     {
       "id": "churwell",
       "name": "Churwell",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Churwell and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -12561,7 +12561,7 @@
     {
       "id": "gildersome",
       "name": "Gildersome",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Gildersome and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -12600,7 +12600,7 @@
     {
       "id": "drighlington",
       "name": "Drighlington",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Drighlington and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -12639,7 +12639,7 @@
     {
       "id": "birkenshaw",
       "name": "Birkenshaw",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Birkenshaw and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -12678,7 +12678,7 @@
     {
       "id": "birstall",
       "name": "Birstall",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Birstall and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -12717,7 +12717,7 @@
     {
       "id": "batley",
       "name": "Batley",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Batley and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -12756,7 +12756,7 @@
     {
       "id": "dewsbury",
       "name": "Dewsbury",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Dewsbury and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -12795,7 +12795,7 @@
     {
       "id": "ossett",
       "name": "Ossett",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Ossett and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -12834,7 +12834,7 @@
     {
       "id": "horbury",
       "name": "Horbury",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Horbury and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -12873,7 +12873,7 @@
     {
       "id": "wakefield-centre",
       "name": "Wakefield Centre",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Wakefield Centre and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -12912,7 +12912,7 @@
     {
       "id": "sandal",
       "name": "Sandal",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Sandal and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -12951,7 +12951,7 @@
     {
       "id": "walton",
       "name": "Walton",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Walton and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -12990,7 +12990,7 @@
     {
       "id": "crofton",
       "name": "Crofton",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Crofton and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -13029,7 +13029,7 @@
     {
       "id": "sharlston",
       "name": "Sharlston",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Sharlston and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -13068,7 +13068,7 @@
     {
       "id": "normanton",
       "name": "Normanton",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Normanton and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -13107,7 +13107,7 @@
     {
       "id": "altofts",
       "name": "Altofts",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Altofts and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -13146,7 +13146,7 @@
     {
       "id": "warmfield",
       "name": "Warmfield",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Warmfield and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -13185,7 +13185,7 @@
     {
       "id": "kirkthorpe",
       "name": "Kirkthorpe",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Kirkthorpe and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -13224,7 +13224,7 @@
     {
       "id": "stanley",
       "name": "Stanley",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Stanley and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -13263,7 +13263,7 @@
     {
       "id": "outwood",
       "name": "Outwood",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Outwood and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -13302,7 +13302,7 @@
     {
       "id": "wrenthorpe",
       "name": "Wrenthorpe",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Wrenthorpe and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -13341,7 +13341,7 @@
     {
       "id": "alverthorpe",
       "name": "Alverthorpe",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Alverthorpe and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -13380,7 +13380,7 @@
     {
       "id": "thornes",
       "name": "Thornes",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Thornes and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -13419,7 +13419,7 @@
     {
       "id": "lupset",
       "name": "Lupset",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Lupset and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -13458,7 +13458,7 @@
     {
       "id": "kettlethorpe",
       "name": "Kettlethorpe",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Kettlethorpe and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -13497,7 +13497,7 @@
     {
       "id": "hall-green",
       "name": "Hall Green",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Hall Green and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -13536,7 +13536,7 @@
     {
       "id": "crigglestone",
       "name": "Crigglestone",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Crigglestone and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -13575,7 +13575,7 @@
     {
       "id": "durkar",
       "name": "Durkar",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Durkar and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -13614,7 +13614,7 @@
     {
       "id": "calder-grove",
       "name": "Calder Grove",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Calder Grove and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -13653,7 +13653,7 @@
     {
       "id": "middlestown",
       "name": "Middlestown",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Middlestown and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -13692,7 +13692,7 @@
     {
       "id": "netherton",
       "name": "Netherton",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Netherton and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -13731,7 +13731,7 @@
     {
       "id": "horbury-bridge",
       "name": "Horbury Bridge",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Horbury Bridge and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -13770,7 +13770,7 @@
     {
       "id": "flockton",
       "name": "Flockton",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Flockton and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -13809,7 +13809,7 @@
     {
       "id": "grange-moor",
       "name": "Grange Moor",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Grange Moor and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -13848,7 +13848,7 @@
     {
       "id": "emley",
       "name": "Emley",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Emley and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -13887,7 +13887,7 @@
     {
       "id": "skelmanthorpe",
       "name": "Skelmanthorpe",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Skelmanthorpe and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -13926,7 +13926,7 @@
     {
       "id": "denby-dale",
       "name": "Denby Dale",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Denby Dale and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -13965,7 +13965,7 @@
     {
       "id": "clayton-west",
       "name": "Clayton West",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Clayton West and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -14004,7 +14004,7 @@
     {
       "id": "scissett",
       "name": "Scissett",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Scissett and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -14043,7 +14043,7 @@
     {
       "id": "shelley",
       "name": "Shelley",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Shelley and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -14082,7 +14082,7 @@
     {
       "id": "shepley",
       "name": "Shepley",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Shepley and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -14121,7 +14121,7 @@
     {
       "id": "stocksmoor",
       "name": "Stocksmoor",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Stocksmoor and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -14160,7 +14160,7 @@
     {
       "id": "thurstonland",
       "name": "Thurstonland",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Thurstonland and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -14199,7 +14199,7 @@
     {
       "id": "brockholes",
       "name": "Brockholes",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Brockholes and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -14238,7 +14238,7 @@
     {
       "id": "honley",
       "name": "Honley",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Honley and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -14277,7 +14277,7 @@
     {
       "id": "holmfirth",
       "name": "Holmfirth",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Holmfirth and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -14316,7 +14316,7 @@
     {
       "id": "new-mill",
       "name": "New Mill",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout New Mill and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -14355,7 +14355,7 @@
     {
       "id": "wooldale",
       "name": "Wooldale",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Wooldale and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -14394,7 +14394,7 @@
     {
       "id": "totties",
       "name": "Totties",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Totties and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -14433,7 +14433,7 @@
     {
       "id": "hepworth",
       "name": "Hepworth",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Hepworth and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -14472,7 +14472,7 @@
     {
       "id": "scholes",
       "name": "Scholes",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Scholes and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -14511,7 +14511,7 @@
     {
       "id": "jackson-bridge",
       "name": "Jackson Bridge",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Jackson Bridge and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -14550,7 +14550,7 @@
     {
       "id": "hade-edge",
       "name": "Hade Edge",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Hade Edge and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -14589,7 +14589,7 @@
     {
       "id": "holmbridge",
       "name": "Holmbridge",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Holmbridge and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -14628,7 +14628,7 @@
     {
       "id": "cartworth-moor",
       "name": "Cartworth Moor",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Cartworth Moor and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -14667,7 +14667,7 @@
     {
       "id": "upperthong",
       "name": "Upperthong",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Upperthong and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -14706,7 +14706,7 @@
     {
       "id": "netherthong",
       "name": "Netherthong",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Netherthong and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -14745,7 +14745,7 @@
     {
       "id": "thongsbridge",
       "name": "Thongsbridge",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Thongsbridge and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -14784,7 +14784,7 @@
     {
       "id": "wilshaw",
       "name": "Wilshaw",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Wilshaw and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -14823,7 +14823,7 @@
     {
       "id": "meltham",
       "name": "Meltham",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Meltham and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -14862,7 +14862,7 @@
     {
       "id": "marsden",
       "name": "Marsden",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Marsden and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -14901,7 +14901,7 @@
     {
       "id": "slaithwaite",
       "name": "Slaithwaite",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Slaithwaite and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -14940,7 +14940,7 @@
     {
       "id": "linthwaite",
       "name": "Linthwaite",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Linthwaite and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -14979,7 +14979,7 @@
     {
       "id": "golcar",
       "name": "Golcar",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Golcar and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -15018,7 +15018,7 @@
     {
       "id": "milnsbridge",
       "name": "Milnsbridge",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Milnsbridge and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -15057,7 +15057,7 @@
     {
       "id": "paddock",
       "name": "Paddock",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Paddock and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -15096,7 +15096,7 @@
     {
       "id": "marsh",
       "name": "Marsh",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Marsh and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -15135,7 +15135,7 @@
     {
       "id": "edgerton",
       "name": "Edgerton",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Edgerton and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -15174,7 +15174,7 @@
     {
       "id": "birkby",
       "name": "Birkby",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Birkby and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -15213,7 +15213,7 @@
     {
       "id": "fartown",
       "name": "Fartown",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Fartown and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -15252,7 +15252,7 @@
     {
       "id": "bradley",
       "name": "Bradley",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Bradley and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -15291,7 +15291,7 @@
     {
       "id": "brackenhall",
       "name": "Brackenhall",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Brackenhall and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -15330,7 +15330,7 @@
     {
       "id": "deighton",
       "name": "Deighton",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Deighton and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -15369,7 +15369,7 @@
     {
       "id": "sheepridge",
       "name": "Sheepridge",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Sheepridge and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -15408,7 +15408,7 @@
     {
       "id": "cowcliffe",
       "name": "Cowcliffe",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Cowcliffe and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -15447,7 +15447,7 @@
     {
       "id": "fixby",
       "name": "Fixby",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Fixby and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -15486,7 +15486,7 @@
     {
       "id": "rastrick",
       "name": "Rastrick",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Rastrick and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -15525,7 +15525,7 @@
     {
       "id": "brighouse",
       "name": "Brighouse",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Brighouse and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -15564,7 +15564,7 @@
     {
       "id": "clifton",
       "name": "Clifton",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Clifton and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -15603,7 +15603,7 @@
     {
       "id": "hartshead",
       "name": "Hartshead",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Hartshead and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -15642,7 +15642,7 @@
     {
       "id": "roberttown",
       "name": "Roberttown",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Roberttown and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -15681,7 +15681,7 @@
     {
       "id": "liversedge",
       "name": "Liversedge",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Liversedge and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -15720,7 +15720,7 @@
     {
       "id": "heckmondwike",
       "name": "Heckmondwike",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Heckmondwike and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -15759,7 +15759,7 @@
     {
       "id": "norristhorpe",
       "name": "Norristhorpe",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Norristhorpe and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -15798,7 +15798,7 @@
     {
       "id": "gomersal",
       "name": "Gomersal",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Gomersal and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -15837,7 +15837,7 @@
     {
       "id": "birkenshaw",
       "name": "Birkenshaw",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Birkenshaw and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -15876,7 +15876,7 @@
     {
       "id": "drighlington",
       "name": "Drighlington",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Drighlington and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -15915,7 +15915,7 @@
     {
       "id": "tong",
       "name": "Tong",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Tong and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -15954,7 +15954,7 @@
     {
       "id": "bierley",
       "name": "Bierley",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Bierley and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -15993,7 +15993,7 @@
     {
       "id": "east-bowling",
       "name": "East Bowling",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout East Bowling and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -16032,7 +16032,7 @@
     {
       "id": "west-bowling",
       "name": "West Bowling",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout West Bowling and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -16071,7 +16071,7 @@
     {
       "id": "little-horton",
       "name": "Little Horton",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Little Horton and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -16110,7 +16110,7 @@
     {
       "id": "great-horton",
       "name": "Great Horton",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Great Horton and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -16149,7 +16149,7 @@
     {
       "id": "wibsey",
       "name": "Wibsey",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Wibsey and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -16188,7 +16188,7 @@
     {
       "id": "buttershaw",
       "name": "Buttershaw",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Buttershaw and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -16227,7 +16227,7 @@
     {
       "id": "low-moor",
       "name": "Low Moor",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Low Moor and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -16266,7 +16266,7 @@
     {
       "id": "wyke",
       "name": "Wyke",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Wyke and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -16305,7 +16305,7 @@
     {
       "id": "oakenshaw",
       "name": "Oakenshaw",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Oakenshaw and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -16344,7 +16344,7 @@
     {
       "id": "shelf",
       "name": "Shelf",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Shelf and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
@@ -16383,7 +16383,7 @@
     {
       "id": "northowram",
       "name": "Northowram",
-      "postcode": "VARIOUS",
+      "postcode": "Various UK postcodes",
       "description": "Expert fire safety and protection services throughout Northowram and surrounding areas, with specialized expertise in local premises.",
       "coverage": {
         "districts": [
