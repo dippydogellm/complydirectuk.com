@@ -5,7 +5,7 @@ import locationsData from '@/data/locations.json'
 import servicesData from '@/data/services.json'
 import areaContent from '@/data/area-content.json'
 
-// Add type for the areas content
+// Define types for the data structures
 type AreaContent = {
   title: string;
   description: string;
@@ -23,16 +23,36 @@ type AreaContent = {
 };
 
 type AreasContent = {
-  areas: {
-    [key: string]: AreaContent;
-  };
+  areas: Record<string, AreaContent>;
 };
 
-// Type assertion for the imported JSON
+type LocationArea = {
+  id: string;
+  name: string;
+  postcode: string;
+  description: string;
+  coverage: {
+    districts: string[];
+    response_times: {
+      emergency: string;
+      standard: string;
+      planned: string;
+    };
+  };
+  key_industries: string[];
+  local_regulations: string[];
+};
+
+type LocationsData = {
+  areas: LocationArea[];
+};
+
+// Type assertions for the imported JSON
 const typedAreaContent = areaContent as AreasContent;
+const typedLocationsData = locationsData as LocationsData;
 
 export async function generateStaticParams() {
-  return locationsData.areas.map((area) => ({
+  return typedLocationsData.areas.map((area) => ({
     area: area.id,
   }))
 }
@@ -62,7 +82,7 @@ export default function AreaPage({
 }: {
   params: { area: string }
 }) {
-  const area = locationsData.areas.find((a) => a.id === params.area)
+  const area = typedLocationsData.areas.find((a) => a.id === params.area)
   const areaSpecificContent = typedAreaContent.areas[params.area]
 
   if (!area || !areaSpecificContent) {

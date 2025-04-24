@@ -6,10 +6,61 @@ import Breadcrumbs from '@/components/Breadcrumbs'
 import locationsData from '@/data/locations.json'
 import servicesData from '@/data/services.json'
 
+// Define types for the data structures
+type LocationArea = {
+  id: string;
+  name: string;
+  postcode: string;
+  description: string;
+  coverage: {
+    districts: string[];
+    response_times: {
+      emergency: string;
+      standard: string;
+      planned: string;
+    };
+  };
+  key_industries: string[];
+  local_regulations: string[];
+};
+
+type LocationsData = {
+  areas: LocationArea[];
+};
+
+// Define a more flexible type for technical details
+type TechnicalDetails = {
+  [key: string]: any;
+};
+
+type Service = {
+  id: string;
+  name: string;
+  description: string;
+  features: string[];
+  technical_details: TechnicalDetails;
+  service_process: string[];
+};
+
+type Category = {
+  id: string;
+  name: string;
+  description: string;
+  services: Service[];
+};
+
+type ServicesData = {
+  categories: Category[];
+};
+
+// Type assertions for the imported JSON
+const typedLocationsData = locationsData as LocationsData;
+const typedServicesData = servicesData as ServicesData;
+
 export default function ServicePage() {
   const { area, service } = useParams()
-  const areaData = locationsData.areas.find(a => a.id === area)
-  const serviceData = servicesData.categories
+  const areaData = typedLocationsData.areas.find(a => a.id === area)
+  const serviceData = typedServicesData.categories
     .flatMap(category => category.services)
     .find(s => s.id === service)
 
