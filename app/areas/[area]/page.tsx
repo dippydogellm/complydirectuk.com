@@ -116,14 +116,6 @@ export default function AreaPage({
               <div key={service.id} className="service-card">
                 <h3 className="text-xl font-bold mb-4">{service.name}</h3>
                 <p className="mb-4">{service.description}</p>
-                <ul className="space-y-2 mb-4">
-                  {service.features.map((feature, index) => (
-                    <li key={index} className="flex items-start">
-                      <span className="text-blue-600 mr-2">•</span>
-                      {feature}
-                    </li>
-                  ))}
-                </ul>
                 <Link
                   href={`/services/fire-protection/${service.id}`}
                   className="text-blue-600 hover:text-blue-800"
@@ -146,14 +138,6 @@ export default function AreaPage({
               <div key={service.id} className="service-card">
                 <h3 className="text-xl font-bold mb-4">{service.name}</h3>
                 <p className="mb-4">{service.description}</p>
-                <ul className="space-y-2 mb-4">
-                  {service.features.map((feature, index) => (
-                    <li key={index} className="flex items-start">
-                      <span className="text-blue-600 mr-2">•</span>
-                      {feature}
-                    </li>
-                  ))}
-                </ul>
                 <Link
                   href={`/services/safety-training/${service.id}`}
                   className="text-blue-600 hover:text-blue-800"

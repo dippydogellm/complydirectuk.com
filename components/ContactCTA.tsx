@@ -30,6 +30,12 @@ export function ContactCTA({
             >
               Contact Us
             </Link>
+            <a 
+              href="mailto:info@complydirect.com"
+              className="text-sm font-semibold leading-6 text-white hover:text-blue-100"
+            >
+              info@complydirect.com
+            </a>
             <Link href="/services" className="text-sm font-semibold leading-6 text-white">
               Learn more <span aria-hidden="true">→</span>
             </Link>
