@@ -44,15 +44,13 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: 'yearly' as const,
       priority: 0.3,
     },
+    {
+      url: `${baseUrl}/sitemap.html`,
+      lastModified: new Date(),
+      changeFrequency: 'monthly' as const,
+      priority: 0.2,
+    },
   ]
-
-  // Generate area routes
-  const areaRoutes = locationsData.areas.map((area) => ({
-    url: `${baseUrl}/areas/${area.id}`,
-    lastModified: new Date(),
-    changeFrequency: 'weekly' as const,
-    priority: 0.8,
-  }))
 
   // Generate service area routes
   const serviceAreaRoutes = locationsData.areas.map((area) => ({
@@ -95,7 +93,6 @@ export default function sitemap(): MetadataRoute.Sitemap {
   // Combine all routes
   return [
     ...staticRoutes,
-    ...areaRoutes,
     ...serviceAreaRoutes,
     ...serviceCategoryRoutes,
     ...serviceRoutes,
