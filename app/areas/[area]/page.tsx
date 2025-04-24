@@ -5,6 +5,32 @@ import locationsData from '@/data/locations.json'
 import servicesData from '@/data/services.json'
 import areaContent from '@/data/area-content.json'
 
+// Add type for the areas content
+type AreaContent = {
+  title: string;
+  description: string;
+  content: {
+    intro: string;
+    local_expertise: string;
+    services_highlight: string;
+    training_services: string;
+    compliance: string;
+    testimonials: Array<{
+      quote: string;
+      author: string;
+    }>;
+  };
+};
+
+type AreasContent = {
+  areas: {
+    [key: string]: AreaContent;
+  };
+};
+
+// Type assertion for the imported JSON
+const typedAreaContent = areaContent as AreasContent;
+
 export async function generateStaticParams() {
   return locationsData.areas.map((area) => ({
     area: area.id,
@@ -16,7 +42,7 @@ export async function generateMetadata({
 }: {
   params: { area: string }
 }): Promise<Metadata> {
-  const area = areaContent.areas[params.area]
+  const area = typedAreaContent.areas[params.area]
   if (!area) {
     return {
       title: 'Area Not Found',
@@ -37,7 +63,7 @@ export default function AreaPage({
   params: { area: string }
 }) {
   const area = locationsData.areas.find((a) => a.id === params.area)
-  const areaSpecificContent = areaContent.areas[params.area]
+  const areaSpecificContent = typedAreaContent.areas[params.area]
 
   if (!area || !areaSpecificContent) {
     notFound()
