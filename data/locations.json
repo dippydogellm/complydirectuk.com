@@ -30312,5 +30312,3833 @@
         ]
       }
     }
-  ]
+  
+{
+  "id": "ancoats",
+  "name": "Ancoats",
+  "postcode": "",
+  "description": "Expert fire safety and protection services throughout Ancoats and surrounding areas, with specialized expertise in local premises.",
+  "coverage": {
+    "districts": [
+      "Ancoats"
+    ],
+    "response_times": {
+      "emergency": "1-2 hours",
+      "standard": "Same day",
+      "planned": "Scheduled"
+    }
+  },
+  "key_industries": [
+    "Retail",
+    "Healthcare",
+    "Education",
+    "Professional Services"
+  ],
+  "local_regulations": [
+    "Local Authority Requirements",
+    "Building Control Regulations",
+    "Compliance Requirements",
+    "Environmental Regulations"
+  ],
+  "emergency_services": {
+    "fire_station_proximity": "Multiple stations within 5 miles",
+    "emergency_support": "24/7 coverage",
+    "backup_services": "Available on demand"
+  },
+  "waste_management": {
+    "services": [
+      "Commercial Waste Collection",
+      "Industrial Waste Collection",
+      "Recycling Services",
+      "Hazardous Waste Disposal",
+      "Waste Management Consulting"
+    ],
+    "collection_frequency": {
+      "standard": "Weekly",
+      "high_volume": "Daily",
+      "low_volume": "Bi-weekly"
+    },
+    "waste_types": [
+      "General Waste",
+      "Recyclables",
+      "Organic Waste",
+      "Construction Waste",
+      "Hazardous Materials"
+    ],
+    "compliance": [
+      "Waste Management Regulations",
+      "Environmental Protection Act",
+      "Duty of Care Requirements",
+      "Waste Hierarchy Compliance"
+    ],
+    "specialized_services": [
+      "Waste Audits",
+      "Waste Reduction Strategies",
+      "Sustainability Consulting",
+      "Zero Waste Initiatives"
+    ]
+  }
+},
+{
+  "id": "ardwick",
+  "name": "Ardwick",
+  "postcode": "",
+  "description": "Expert fire safety and protection services throughout Ardwick and surrounding areas, with specialized expertise in local premises.",
+  "coverage": {
+    "districts": [
+      "Ardwick"
+    ],
+    "response_times": {
+      "emergency": "1-2 hours",
+      "standard": "Same day",
+      "planned": "Scheduled"
+    }
+  },
+  "key_industries": [
+    "Retail",
+    "Healthcare",
+    "Education",
+    "Professional Services"
+  ],
+  "local_regulations": [
+    "Local Authority Requirements",
+    "Building Control Regulations",
+    "Compliance Requirements",
+    "Environmental Regulations"
+  ],
+  "emergency_services": {
+    "fire_station_proximity": "Multiple stations within 5 miles",
+    "emergency_support": "24/7 coverage",
+    "backup_services": "Available on demand"
+  },
+  "waste_management": {
+    "services": [
+      "Commercial Waste Collection",
+      "Industrial Waste Collection",
+      "Recycling Services",
+      "Hazardous Waste Disposal",
+      "Waste Management Consulting"
+    ],
+    "collection_frequency": {
+      "standard": "Weekly",
+      "high_volume": "Daily",
+      "low_volume": "Bi-weekly"
+    },
+    "waste_types": [
+      "General Waste",
+      "Recyclables",
+      "Organic Waste",
+      "Construction Waste",
+      "Hazardous Materials"
+    ],
+    "compliance": [
+      "Waste Management Regulations",
+      "Environmental Protection Act",
+      "Duty of Care Requirements",
+      "Waste Hierarchy Compliance"
+    ],
+    "specialized_services": [
+      "Waste Audits",
+      "Waste Reduction Strategies",
+      "Sustainability Consulting",
+      "Zero Waste Initiatives"
+    ]
+  }
+},
+{
+  "id": "beswick",
+  "name": "Beswick",
+  "postcode": "",
+  "description": "Expert fire safety and protection services throughout Beswick and surrounding areas, with specialized expertise in local premises.",
+  "coverage": {
+    "districts": [
+      "Beswick"
+    ],
+    "response_times": {
+      "emergency": "1-2 hours",
+      "standard": "Same day",
+      "planned": "Scheduled"
+    }
+  },
+  "key_industries": [
+    "Retail",
+    "Healthcare",
+    "Education",
+    "Professional Services"
+  ],
+  "local_regulations": [
+    "Local Authority Requirements",
+    "Building Control Regulations",
+    "Compliance Requirements",
+    "Environmental Regulations"
+  ],
+  "emergency_services": {
+    "fire_station_proximity": "Multiple stations within 5 miles",
+    "emergency_support": "24/7 coverage",
+    "backup_services": "Available on demand"
+  },
+  "waste_management": {
+    "services": [
+      "Commercial Waste Collection",
+      "Industrial Waste Collection",
+      "Recycling Services",
+      "Hazardous Waste Disposal",
+      "Waste Management Consulting"
+    ],
+    "collection_frequency": {
+      "standard": "Weekly",
+      "high_volume": "Daily",
+      "low_volume": "Bi-weekly"
+    },
+    "waste_types": [
+      "General Waste",
+      "Recyclables",
+      "Organic Waste",
+      "Construction Waste",
+      "Hazardous Materials"
+    ],
+    "compliance": [
+      "Waste Management Regulations",
+      "Environmental Protection Act",
+      "Duty of Care Requirements",
+      "Waste Hierarchy Compliance"
+    ],
+    "specialized_services": [
+      "Waste Audits",
+      "Waste Reduction Strategies",
+      "Sustainability Consulting",
+      "Zero Waste Initiatives"
+    ]
+  }
+},
+{
+  "id": "blackley",
+  "name": "Blackley",
+  "postcode": "",
+  "description": "Expert fire safety and protection services throughout Blackley and surrounding areas, with specialized expertise in local premises.",
+  "coverage": {
+    "districts": [
+      "Blackley"
+    ],
+    "response_times": {
+      "emergency": "1-2 hours",
+      "standard": "Same day",
+      "planned": "Scheduled"
+    }
+  },
+  "key_industries": [
+    "Retail",
+    "Healthcare",
+    "Education",
+    "Professional Services"
+  ],
+  "local_regulations": [
+    "Local Authority Requirements",
+    "Building Control Regulations",
+    "Compliance Requirements",
+    "Environmental Regulations"
+  ],
+  "emergency_services": {
+    "fire_station_proximity": "Multiple stations within 5 miles",
+    "emergency_support": "24/7 coverage",
+    "backup_services": "Available on demand"
+  },
+  "waste_management": {
+    "services": [
+      "Commercial Waste Collection",
+      "Industrial Waste Collection",
+      "Recycling Services",
+      "Hazardous Waste Disposal",
+      "Waste Management Consulting"
+    ],
+    "collection_frequency": {
+      "standard": "Weekly",
+      "high_volume": "Daily",
+      "low_volume": "Bi-weekly"
+    },
+    "waste_types": [
+      "General Waste",
+      "Recyclables",
+      "Organic Waste",
+      "Construction Waste",
+      "Hazardous Materials"
+    ],
+    "compliance": [
+      "Waste Management Regulations",
+      "Environmental Protection Act",
+      "Duty of Care Requirements",
+      "Waste Hierarchy Compliance"
+    ],
+    "specialized_services": [
+      "Waste Audits",
+      "Waste Reduction Strategies",
+      "Sustainability Consulting",
+      "Zero Waste Initiatives"
+    ]
+  }
+},
+{
+  "id": "burnage",
+  "name": "Burnage",
+  "postcode": "",
+  "description": "Expert fire safety and protection services throughout Burnage and surrounding areas, with specialized expertise in local premises.",
+  "coverage": {
+    "districts": [
+      "Burnage"
+    ],
+    "response_times": {
+      "emergency": "1-2 hours",
+      "standard": "Same day",
+      "planned": "Scheduled"
+    }
+  },
+  "key_industries": [
+    "Retail",
+    "Healthcare",
+    "Education",
+    "Professional Services"
+  ],
+  "local_regulations": [
+    "Local Authority Requirements",
+    "Building Control Regulations",
+    "Compliance Requirements",
+    "Environmental Regulations"
+  ],
+  "emergency_services": {
+    "fire_station_proximity": "Multiple stations within 5 miles",
+    "emergency_support": "24/7 coverage",
+    "backup_services": "Available on demand"
+  },
+  "waste_management": {
+    "services": [
+      "Commercial Waste Collection",
+      "Industrial Waste Collection",
+      "Recycling Services",
+      "Hazardous Waste Disposal",
+      "Waste Management Consulting"
+    ],
+    "collection_frequency": {
+      "standard": "Weekly",
+      "high_volume": "Daily",
+      "low_volume": "Bi-weekly"
+    },
+    "waste_types": [
+      "General Waste",
+      "Recyclables",
+      "Organic Waste",
+      "Construction Waste",
+      "Hazardous Materials"
+    ],
+    "compliance": [
+      "Waste Management Regulations",
+      "Environmental Protection Act",
+      "Duty of Care Requirements",
+      "Waste Hierarchy Compliance"
+    ],
+    "specialized_services": [
+      "Waste Audits",
+      "Waste Reduction Strategies",
+      "Sustainability Consulting",
+      "Zero Waste Initiatives"
+    ]
+  }
+},
+{
+  "id": "cheetham-hill",
+  "name": "Cheetham Hill",
+  "postcode": "",
+  "description": "Expert fire safety and protection services throughout Cheetham Hill and surrounding areas, with specialized expertise in local premises.",
+  "coverage": {
+    "districts": [
+      "Cheetham Hill"
+    ],
+    "response_times": {
+      "emergency": "1-2 hours",
+      "standard": "Same day",
+      "planned": "Scheduled"
+    }
+  },
+  "key_industries": [
+    "Retail",
+    "Healthcare",
+    "Education",
+    "Professional Services"
+  ],
+  "local_regulations": [
+    "Local Authority Requirements",
+    "Building Control Regulations",
+    "Compliance Requirements",
+    "Environmental Regulations"
+  ],
+  "emergency_services": {
+    "fire_station_proximity": "Multiple stations within 5 miles",
+    "emergency_support": "24/7 coverage",
+    "backup_services": "Available on demand"
+  },
+  "waste_management": {
+    "services": [
+      "Commercial Waste Collection",
+      "Industrial Waste Collection",
+      "Recycling Services",
+      "Hazardous Waste Disposal",
+      "Waste Management Consulting"
+    ],
+    "collection_frequency": {
+      "standard": "Weekly",
+      "high_volume": "Daily",
+      "low_volume": "Bi-weekly"
+    },
+    "waste_types": [
+      "General Waste",
+      "Recyclables",
+      "Organic Waste",
+      "Construction Waste",
+      "Hazardous Materials"
+    ],
+    "compliance": [
+      "Waste Management Regulations",
+      "Environmental Protection Act",
+      "Duty of Care Requirements",
+      "Waste Hierarchy Compliance"
+    ],
+    "specialized_services": [
+      "Waste Audits",
+      "Waste Reduction Strategies",
+      "Sustainability Consulting",
+      "Zero Waste Initiatives"
+    ]
+  }
+},
+{
+  "id": "chorlton-cum-hardy",
+  "name": "Chorlton Cum Hardy",
+  "postcode": "",
+  "description": "Expert fire safety and protection services throughout Chorlton Cum Hardy and surrounding areas, with specialized expertise in local premises.",
+  "coverage": {
+    "districts": [
+      "Chorlton Cum Hardy"
+    ],
+    "response_times": {
+      "emergency": "1-2 hours",
+      "standard": "Same day",
+      "planned": "Scheduled"
+    }
+  },
+  "key_industries": [
+    "Retail",
+    "Healthcare",
+    "Education",
+    "Professional Services"
+  ],
+  "local_regulations": [
+    "Local Authority Requirements",
+    "Building Control Regulations",
+    "Compliance Requirements",
+    "Environmental Regulations"
+  ],
+  "emergency_services": {
+    "fire_station_proximity": "Multiple stations within 5 miles",
+    "emergency_support": "24/7 coverage",
+    "backup_services": "Available on demand"
+  },
+  "waste_management": {
+    "services": [
+      "Commercial Waste Collection",
+      "Industrial Waste Collection",
+      "Recycling Services",
+      "Hazardous Waste Disposal",
+      "Waste Management Consulting"
+    ],
+    "collection_frequency": {
+      "standard": "Weekly",
+      "high_volume": "Daily",
+      "low_volume": "Bi-weekly"
+    },
+    "waste_types": [
+      "General Waste",
+      "Recyclables",
+      "Organic Waste",
+      "Construction Waste",
+      "Hazardous Materials"
+    ],
+    "compliance": [
+      "Waste Management Regulations",
+      "Environmental Protection Act",
+      "Duty of Care Requirements",
+      "Waste Hierarchy Compliance"
+    ],
+    "specialized_services": [
+      "Waste Audits",
+      "Waste Reduction Strategies",
+      "Sustainability Consulting",
+      "Zero Waste Initiatives"
+    ]
+  }
+},
+{
+  "id": "chorlton-park",
+  "name": "Chorlton Park",
+  "postcode": "",
+  "description": "Expert fire safety and protection services throughout Chorlton Park and surrounding areas, with specialized expertise in local premises.",
+  "coverage": {
+    "districts": [
+      "Chorlton Park"
+    ],
+    "response_times": {
+      "emergency": "1-2 hours",
+      "standard": "Same day",
+      "planned": "Scheduled"
+    }
+  },
+  "key_industries": [
+    "Retail",
+    "Healthcare",
+    "Education",
+    "Professional Services"
+  ],
+  "local_regulations": [
+    "Local Authority Requirements",
+    "Building Control Regulations",
+    "Compliance Requirements",
+    "Environmental Regulations"
+  ],
+  "emergency_services": {
+    "fire_station_proximity": "Multiple stations within 5 miles",
+    "emergency_support": "24/7 coverage",
+    "backup_services": "Available on demand"
+  },
+  "waste_management": {
+    "services": [
+      "Commercial Waste Collection",
+      "Industrial Waste Collection",
+      "Recycling Services",
+      "Hazardous Waste Disposal",
+      "Waste Management Consulting"
+    ],
+    "collection_frequency": {
+      "standard": "Weekly",
+      "high_volume": "Daily",
+      "low_volume": "Bi-weekly"
+    },
+    "waste_types": [
+      "General Waste",
+      "Recyclables",
+      "Organic Waste",
+      "Construction Waste",
+      "Hazardous Materials"
+    ],
+    "compliance": [
+      "Waste Management Regulations",
+      "Environmental Protection Act",
+      "Duty of Care Requirements",
+      "Waste Hierarchy Compliance"
+    ],
+    "specialized_services": [
+      "Waste Audits",
+      "Waste Reduction Strategies",
+      "Sustainability Consulting",
+      "Zero Waste Initiatives"
+    ]
+  }
+},
+{
+  "id": "clayton",
+  "name": "Clayton",
+  "postcode": "",
+  "description": "Expert fire safety and protection services throughout Clayton and surrounding areas, with specialized expertise in local premises.",
+  "coverage": {
+    "districts": [
+      "Clayton"
+    ],
+    "response_times": {
+      "emergency": "1-2 hours",
+      "standard": "Same day",
+      "planned": "Scheduled"
+    }
+  },
+  "key_industries": [
+    "Retail",
+    "Healthcare",
+    "Education",
+    "Professional Services"
+  ],
+  "local_regulations": [
+    "Local Authority Requirements",
+    "Building Control Regulations",
+    "Compliance Requirements",
+    "Environmental Regulations"
+  ],
+  "emergency_services": {
+    "fire_station_proximity": "Multiple stations within 5 miles",
+    "emergency_support": "24/7 coverage",
+    "backup_services": "Available on demand"
+  },
+  "waste_management": {
+    "services": [
+      "Commercial Waste Collection",
+      "Industrial Waste Collection",
+      "Recycling Services",
+      "Hazardous Waste Disposal",
+      "Waste Management Consulting"
+    ],
+    "collection_frequency": {
+      "standard": "Weekly",
+      "high_volume": "Daily",
+      "low_volume": "Bi-weekly"
+    },
+    "waste_types": [
+      "General Waste",
+      "Recyclables",
+      "Organic Waste",
+      "Construction Waste",
+      "Hazardous Materials"
+    ],
+    "compliance": [
+      "Waste Management Regulations",
+      "Environmental Protection Act",
+      "Duty of Care Requirements",
+      "Waste Hierarchy Compliance"
+    ],
+    "specialized_services": [
+      "Waste Audits",
+      "Waste Reduction Strategies",
+      "Sustainability Consulting",
+      "Zero Waste Initiatives"
+    ]
+  }
+},
+{
+  "id": "collyhurst",
+  "name": "Collyhurst",
+  "postcode": "",
+  "description": "Expert fire safety and protection services throughout Collyhurst and surrounding areas, with specialized expertise in local premises.",
+  "coverage": {
+    "districts": [
+      "Collyhurst"
+    ],
+    "response_times": {
+      "emergency": "1-2 hours",
+      "standard": "Same day",
+      "planned": "Scheduled"
+    }
+  },
+  "key_industries": [
+    "Retail",
+    "Healthcare",
+    "Education",
+    "Professional Services"
+  ],
+  "local_regulations": [
+    "Local Authority Requirements",
+    "Building Control Regulations",
+    "Compliance Requirements",
+    "Environmental Regulations"
+  ],
+  "emergency_services": {
+    "fire_station_proximity": "Multiple stations within 5 miles",
+    "emergency_support": "24/7 coverage",
+    "backup_services": "Available on demand"
+  },
+  "waste_management": {
+    "services": [
+      "Commercial Waste Collection",
+      "Industrial Waste Collection",
+      "Recycling Services",
+      "Hazardous Waste Disposal",
+      "Waste Management Consulting"
+    ],
+    "collection_frequency": {
+      "standard": "Weekly",
+      "high_volume": "Daily",
+      "low_volume": "Bi-weekly"
+    },
+    "waste_types": [
+      "General Waste",
+      "Recyclables",
+      "Organic Waste",
+      "Construction Waste",
+      "Hazardous Materials"
+    ],
+    "compliance": [
+      "Waste Management Regulations",
+      "Environmental Protection Act",
+      "Duty of Care Requirements",
+      "Waste Hierarchy Compliance"
+    ],
+    "specialized_services": [
+      "Waste Audits",
+      "Waste Reduction Strategies",
+      "Sustainability Consulting",
+      "Zero Waste Initiatives"
+    ]
+  }
+},
+{
+  "id": "didsbury",
+  "name": "Didsbury",
+  "postcode": "",
+  "description": "Expert fire safety and protection services throughout Didsbury and surrounding areas, with specialized expertise in local premises.",
+  "coverage": {
+    "districts": [
+      "Didsbury"
+    ],
+    "response_times": {
+      "emergency": "1-2 hours",
+      "standard": "Same day",
+      "planned": "Scheduled"
+    }
+  },
+  "key_industries": [
+    "Retail",
+    "Healthcare",
+    "Education",
+    "Professional Services"
+  ],
+  "local_regulations": [
+    "Local Authority Requirements",
+    "Building Control Regulations",
+    "Compliance Requirements",
+    "Environmental Regulations"
+  ],
+  "emergency_services": {
+    "fire_station_proximity": "Multiple stations within 5 miles",
+    "emergency_support": "24/7 coverage",
+    "backup_services": "Available on demand"
+  },
+  "waste_management": {
+    "services": [
+      "Commercial Waste Collection",
+      "Industrial Waste Collection",
+      "Recycling Services",
+      "Hazardous Waste Disposal",
+      "Waste Management Consulting"
+    ],
+    "collection_frequency": {
+      "standard": "Weekly",
+      "high_volume": "Daily",
+      "low_volume": "Bi-weekly"
+    },
+    "waste_types": [
+      "General Waste",
+      "Recyclables",
+      "Organic Waste",
+      "Construction Waste",
+      "Hazardous Materials"
+    ],
+    "compliance": [
+      "Waste Management Regulations",
+      "Environmental Protection Act",
+      "Duty of Care Requirements",
+      "Waste Hierarchy Compliance"
+    ],
+    "specialized_services": [
+      "Waste Audits",
+      "Waste Reduction Strategies",
+      "Sustainability Consulting",
+      "Zero Waste Initiatives"
+    ]
+  }
+},
+{
+  "id": "fallowfield",
+  "name": "Fallowfield",
+  "postcode": "",
+  "description": "Expert fire safety and protection services throughout Fallowfield and surrounding areas, with specialized expertise in local premises.",
+  "coverage": {
+    "districts": [
+      "Fallowfield"
+    ],
+    "response_times": {
+      "emergency": "1-2 hours",
+      "standard": "Same day",
+      "planned": "Scheduled"
+    }
+  },
+  "key_industries": [
+    "Retail",
+    "Healthcare",
+    "Education",
+    "Professional Services"
+  ],
+  "local_regulations": [
+    "Local Authority Requirements",
+    "Building Control Regulations",
+    "Compliance Requirements",
+    "Environmental Regulations"
+  ],
+  "emergency_services": {
+    "fire_station_proximity": "Multiple stations within 5 miles",
+    "emergency_support": "24/7 coverage",
+    "backup_services": "Available on demand"
+  },
+  "waste_management": {
+    "services": [
+      "Commercial Waste Collection",
+      "Industrial Waste Collection",
+      "Recycling Services",
+      "Hazardous Waste Disposal",
+      "Waste Management Consulting"
+    ],
+    "collection_frequency": {
+      "standard": "Weekly",
+      "high_volume": "Daily",
+      "low_volume": "Bi-weekly"
+    },
+    "waste_types": [
+      "General Waste",
+      "Recyclables",
+      "Organic Waste",
+      "Construction Waste",
+      "Hazardous Materials"
+    ],
+    "compliance": [
+      "Waste Management Regulations",
+      "Environmental Protection Act",
+      "Duty of Care Requirements",
+      "Waste Hierarchy Compliance"
+    ],
+    "specialized_services": [
+      "Waste Audits",
+      "Waste Reduction Strategies",
+      "Sustainability Consulting",
+      "Zero Waste Initiatives"
+    ]
+  }
+},
+{
+  "id": "gorton",
+  "name": "Gorton",
+  "postcode": "",
+  "description": "Expert fire safety and protection services throughout Gorton and surrounding areas, with specialized expertise in local premises.",
+  "coverage": {
+    "districts": [
+      "Gorton"
+    ],
+    "response_times": {
+      "emergency": "1-2 hours",
+      "standard": "Same day",
+      "planned": "Scheduled"
+    }
+  },
+  "key_industries": [
+    "Retail",
+    "Healthcare",
+    "Education",
+    "Professional Services"
+  ],
+  "local_regulations": [
+    "Local Authority Requirements",
+    "Building Control Regulations",
+    "Compliance Requirements",
+    "Environmental Regulations"
+  ],
+  "emergency_services": {
+    "fire_station_proximity": "Multiple stations within 5 miles",
+    "emergency_support": "24/7 coverage",
+    "backup_services": "Available on demand"
+  },
+  "waste_management": {
+    "services": [
+      "Commercial Waste Collection",
+      "Industrial Waste Collection",
+      "Recycling Services",
+      "Hazardous Waste Disposal",
+      "Waste Management Consulting"
+    ],
+    "collection_frequency": {
+      "standard": "Weekly",
+      "high_volume": "Daily",
+      "low_volume": "Bi-weekly"
+    },
+    "waste_types": [
+      "General Waste",
+      "Recyclables",
+      "Organic Waste",
+      "Construction Waste",
+      "Hazardous Materials"
+    ],
+    "compliance": [
+      "Waste Management Regulations",
+      "Environmental Protection Act",
+      "Duty of Care Requirements",
+      "Waste Hierarchy Compliance"
+    ],
+    "specialized_services": [
+      "Waste Audits",
+      "Waste Reduction Strategies",
+      "Sustainability Consulting",
+      "Zero Waste Initiatives"
+    ]
+  }
+},
+{
+  "id": "harpurhey",
+  "name": "Harpurhey",
+  "postcode": "",
+  "description": "Expert fire safety and protection services throughout Harpurhey and surrounding areas, with specialized expertise in local premises.",
+  "coverage": {
+    "districts": [
+      "Harpurhey"
+    ],
+    "response_times": {
+      "emergency": "1-2 hours",
+      "standard": "Same day",
+      "planned": "Scheduled"
+    }
+  },
+  "key_industries": [
+    "Retail",
+    "Healthcare",
+    "Education",
+    "Professional Services"
+  ],
+  "local_regulations": [
+    "Local Authority Requirements",
+    "Building Control Regulations",
+    "Compliance Requirements",
+    "Environmental Regulations"
+  ],
+  "emergency_services": {
+    "fire_station_proximity": "Multiple stations within 5 miles",
+    "emergency_support": "24/7 coverage",
+    "backup_services": "Available on demand"
+  },
+  "waste_management": {
+    "services": [
+      "Commercial Waste Collection",
+      "Industrial Waste Collection",
+      "Recycling Services",
+      "Hazardous Waste Disposal",
+      "Waste Management Consulting"
+    ],
+    "collection_frequency": {
+      "standard": "Weekly",
+      "high_volume": "Daily",
+      "low_volume": "Bi-weekly"
+    },
+    "waste_types": [
+      "General Waste",
+      "Recyclables",
+      "Organic Waste",
+      "Construction Waste",
+      "Hazardous Materials"
+    ],
+    "compliance": [
+      "Waste Management Regulations",
+      "Environmental Protection Act",
+      "Duty of Care Requirements",
+      "Waste Hierarchy Compliance"
+    ],
+    "specialized_services": [
+      "Waste Audits",
+      "Waste Reduction Strategies",
+      "Sustainability Consulting",
+      "Zero Waste Initiatives"
+    ]
+  }
+},
+{
+  "id": "hulme",
+  "name": "Hulme",
+  "postcode": "",
+  "description": "Expert fire safety and protection services throughout Hulme and surrounding areas, with specialized expertise in local premises.",
+  "coverage": {
+    "districts": [
+      "Hulme"
+    ],
+    "response_times": {
+      "emergency": "1-2 hours",
+      "standard": "Same day",
+      "planned": "Scheduled"
+    }
+  },
+  "key_industries": [
+    "Retail",
+    "Healthcare",
+    "Education",
+    "Professional Services"
+  ],
+  "local_regulations": [
+    "Local Authority Requirements",
+    "Building Control Regulations",
+    "Compliance Requirements",
+    "Environmental Regulations"
+  ],
+  "emergency_services": {
+    "fire_station_proximity": "Multiple stations within 5 miles",
+    "emergency_support": "24/7 coverage",
+    "backup_services": "Available on demand"
+  },
+  "waste_management": {
+    "services": [
+      "Commercial Waste Collection",
+      "Industrial Waste Collection",
+      "Recycling Services",
+      "Hazardous Waste Disposal",
+      "Waste Management Consulting"
+    ],
+    "collection_frequency": {
+      "standard": "Weekly",
+      "high_volume": "Daily",
+      "low_volume": "Bi-weekly"
+    },
+    "waste_types": [
+      "General Waste",
+      "Recyclables",
+      "Organic Waste",
+      "Construction Waste",
+      "Hazardous Materials"
+    ],
+    "compliance": [
+      "Waste Management Regulations",
+      "Environmental Protection Act",
+      "Duty of Care Requirements",
+      "Waste Hierarchy Compliance"
+    ],
+    "specialized_services": [
+      "Waste Audits",
+      "Waste Reduction Strategies",
+      "Sustainability Consulting",
+      "Zero Waste Initiatives"
+    ]
+  }
+},
+{
+  "id": "levenshulme",
+  "name": "Levenshulme",
+  "postcode": "",
+  "description": "Expert fire safety and protection services throughout Levenshulme and surrounding areas, with specialized expertise in local premises.",
+  "coverage": {
+    "districts": [
+      "Levenshulme"
+    ],
+    "response_times": {
+      "emergency": "1-2 hours",
+      "standard": "Same day",
+      "planned": "Scheduled"
+    }
+  },
+  "key_industries": [
+    "Retail",
+    "Healthcare",
+    "Education",
+    "Professional Services"
+  ],
+  "local_regulations": [
+    "Local Authority Requirements",
+    "Building Control Regulations",
+    "Compliance Requirements",
+    "Environmental Regulations"
+  ],
+  "emergency_services": {
+    "fire_station_proximity": "Multiple stations within 5 miles",
+    "emergency_support": "24/7 coverage",
+    "backup_services": "Available on demand"
+  },
+  "waste_management": {
+    "services": [
+      "Commercial Waste Collection",
+      "Industrial Waste Collection",
+      "Recycling Services",
+      "Hazardous Waste Disposal",
+      "Waste Management Consulting"
+    ],
+    "collection_frequency": {
+      "standard": "Weekly",
+      "high_volume": "Daily",
+      "low_volume": "Bi-weekly"
+    },
+    "waste_types": [
+      "General Waste",
+      "Recyclables",
+      "Organic Waste",
+      "Construction Waste",
+      "Hazardous Materials"
+    ],
+    "compliance": [
+      "Waste Management Regulations",
+      "Environmental Protection Act",
+      "Duty of Care Requirements",
+      "Waste Hierarchy Compliance"
+    ],
+    "specialized_services": [
+      "Waste Audits",
+      "Waste Reduction Strategies",
+      "Sustainability Consulting",
+      "Zero Waste Initiatives"
+    ]
+  }
+},
+{
+  "id": "longsight",
+  "name": "Longsight",
+  "postcode": "",
+  "description": "Expert fire safety and protection services throughout Longsight and surrounding areas, with specialized expertise in local premises.",
+  "coverage": {
+    "districts": [
+      "Longsight"
+    ],
+    "response_times": {
+      "emergency": "1-2 hours",
+      "standard": "Same day",
+      "planned": "Scheduled"
+    }
+  },
+  "key_industries": [
+    "Retail",
+    "Healthcare",
+    "Education",
+    "Professional Services"
+  ],
+  "local_regulations": [
+    "Local Authority Requirements",
+    "Building Control Regulations",
+    "Compliance Requirements",
+    "Environmental Regulations"
+  ],
+  "emergency_services": {
+    "fire_station_proximity": "Multiple stations within 5 miles",
+    "emergency_support": "24/7 coverage",
+    "backup_services": "Available on demand"
+  },
+  "waste_management": {
+    "services": [
+      "Commercial Waste Collection",
+      "Industrial Waste Collection",
+      "Recycling Services",
+      "Hazardous Waste Disposal",
+      "Waste Management Consulting"
+    ],
+    "collection_frequency": {
+      "standard": "Weekly",
+      "high_volume": "Daily",
+      "low_volume": "Bi-weekly"
+    },
+    "waste_types": [
+      "General Waste",
+      "Recyclables",
+      "Organic Waste",
+      "Construction Waste",
+      "Hazardous Materials"
+    ],
+    "compliance": [
+      "Waste Management Regulations",
+      "Environmental Protection Act",
+      "Duty of Care Requirements",
+      "Waste Hierarchy Compliance"
+    ],
+    "specialized_services": [
+      "Waste Audits",
+      "Waste Reduction Strategies",
+      "Sustainability Consulting",
+      "Zero Waste Initiatives"
+    ]
+  }
+},
+{
+  "id": "miles-platting",
+  "name": "Miles Platting",
+  "postcode": "",
+  "description": "Expert fire safety and protection services throughout Miles Platting and surrounding areas, with specialized expertise in local premises.",
+  "coverage": {
+    "districts": [
+      "Miles Platting"
+    ],
+    "response_times": {
+      "emergency": "1-2 hours",
+      "standard": "Same day",
+      "planned": "Scheduled"
+    }
+  },
+  "key_industries": [
+    "Retail",
+    "Healthcare",
+    "Education",
+    "Professional Services"
+  ],
+  "local_regulations": [
+    "Local Authority Requirements",
+    "Building Control Regulations",
+    "Compliance Requirements",
+    "Environmental Regulations"
+  ],
+  "emergency_services": {
+    "fire_station_proximity": "Multiple stations within 5 miles",
+    "emergency_support": "24/7 coverage",
+    "backup_services": "Available on demand"
+  },
+  "waste_management": {
+    "services": [
+      "Commercial Waste Collection",
+      "Industrial Waste Collection",
+      "Recycling Services",
+      "Hazardous Waste Disposal",
+      "Waste Management Consulting"
+    ],
+    "collection_frequency": {
+      "standard": "Weekly",
+      "high_volume": "Daily",
+      "low_volume": "Bi-weekly"
+    },
+    "waste_types": [
+      "General Waste",
+      "Recyclables",
+      "Organic Waste",
+      "Construction Waste",
+      "Hazardous Materials"
+    ],
+    "compliance": [
+      "Waste Management Regulations",
+      "Environmental Protection Act",
+      "Duty of Care Requirements",
+      "Waste Hierarchy Compliance"
+    ],
+    "specialized_services": [
+      "Waste Audits",
+      "Waste Reduction Strategies",
+      "Sustainability Consulting",
+      "Zero Waste Initiatives"
+    ]
+  }
+},
+{
+  "id": "moss-side",
+  "name": "Moss Side",
+  "postcode": "",
+  "description": "Expert fire safety and protection services throughout Moss Side and surrounding areas, with specialized expertise in local premises.",
+  "coverage": {
+    "districts": [
+      "Moss Side"
+    ],
+    "response_times": {
+      "emergency": "1-2 hours",
+      "standard": "Same day",
+      "planned": "Scheduled"
+    }
+  },
+  "key_industries": [
+    "Retail",
+    "Healthcare",
+    "Education",
+    "Professional Services"
+  ],
+  "local_regulations": [
+    "Local Authority Requirements",
+    "Building Control Regulations",
+    "Compliance Requirements",
+    "Environmental Regulations"
+  ],
+  "emergency_services": {
+    "fire_station_proximity": "Multiple stations within 5 miles",
+    "emergency_support": "24/7 coverage",
+    "backup_services": "Available on demand"
+  },
+  "waste_management": {
+    "services": [
+      "Commercial Waste Collection",
+      "Industrial Waste Collection",
+      "Recycling Services",
+      "Hazardous Waste Disposal",
+      "Waste Management Consulting"
+    ],
+    "collection_frequency": {
+      "standard": "Weekly",
+      "high_volume": "Daily",
+      "low_volume": "Bi-weekly"
+    },
+    "waste_types": [
+      "General Waste",
+      "Recyclables",
+      "Organic Waste",
+      "Construction Waste",
+      "Hazardous Materials"
+    ],
+    "compliance": [
+      "Waste Management Regulations",
+      "Environmental Protection Act",
+      "Duty of Care Requirements",
+      "Waste Hierarchy Compliance"
+    ],
+    "specialized_services": [
+      "Waste Audits",
+      "Waste Reduction Strategies",
+      "Sustainability Consulting",
+      "Zero Waste Initiatives"
+    ]
+  }
+},
+{
+  "id": "moston",
+  "name": "Moston",
+  "postcode": "",
+  "description": "Expert fire safety and protection services throughout Moston and surrounding areas, with specialized expertise in local premises.",
+  "coverage": {
+    "districts": [
+      "Moston"
+    ],
+    "response_times": {
+      "emergency": "1-2 hours",
+      "standard": "Same day",
+      "planned": "Scheduled"
+    }
+  },
+  "key_industries": [
+    "Retail",
+    "Healthcare",
+    "Education",
+    "Professional Services"
+  ],
+  "local_regulations": [
+    "Local Authority Requirements",
+    "Building Control Regulations",
+    "Compliance Requirements",
+    "Environmental Regulations"
+  ],
+  "emergency_services": {
+    "fire_station_proximity": "Multiple stations within 5 miles",
+    "emergency_support": "24/7 coverage",
+    "backup_services": "Available on demand"
+  },
+  "waste_management": {
+    "services": [
+      "Commercial Waste Collection",
+      "Industrial Waste Collection",
+      "Recycling Services",
+      "Hazardous Waste Disposal",
+      "Waste Management Consulting"
+    ],
+    "collection_frequency": {
+      "standard": "Weekly",
+      "high_volume": "Daily",
+      "low_volume": "Bi-weekly"
+    },
+    "waste_types": [
+      "General Waste",
+      "Recyclables",
+      "Organic Waste",
+      "Construction Waste",
+      "Hazardous Materials"
+    ],
+    "compliance": [
+      "Waste Management Regulations",
+      "Environmental Protection Act",
+      "Duty of Care Requirements",
+      "Waste Hierarchy Compliance"
+    ],
+    "specialized_services": [
+      "Waste Audits",
+      "Waste Reduction Strategies",
+      "Sustainability Consulting",
+      "Zero Waste Initiatives"
+    ]
+  }
+},
+{
+  "id": "newton-heath",
+  "name": "Newton Heath",
+  "postcode": "",
+  "description": "Expert fire safety and protection services throughout Newton Heath and surrounding areas, with specialized expertise in local premises.",
+  "coverage": {
+    "districts": [
+      "Newton Heath"
+    ],
+    "response_times": {
+      "emergency": "1-2 hours",
+      "standard": "Same day",
+      "planned": "Scheduled"
+    }
+  },
+  "key_industries": [
+    "Retail",
+    "Healthcare",
+    "Education",
+    "Professional Services"
+  ],
+  "local_regulations": [
+    "Local Authority Requirements",
+    "Building Control Regulations",
+    "Compliance Requirements",
+    "Environmental Regulations"
+  ],
+  "emergency_services": {
+    "fire_station_proximity": "Multiple stations within 5 miles",
+    "emergency_support": "24/7 coverage",
+    "backup_services": "Available on demand"
+  },
+  "waste_management": {
+    "services": [
+      "Commercial Waste Collection",
+      "Industrial Waste Collection",
+      "Recycling Services",
+      "Hazardous Waste Disposal",
+      "Waste Management Consulting"
+    ],
+    "collection_frequency": {
+      "standard": "Weekly",
+      "high_volume": "Daily",
+      "low_volume": "Bi-weekly"
+    },
+    "waste_types": [
+      "General Waste",
+      "Recyclables",
+      "Organic Waste",
+      "Construction Waste",
+      "Hazardous Materials"
+    ],
+    "compliance": [
+      "Waste Management Regulations",
+      "Environmental Protection Act",
+      "Duty of Care Requirements",
+      "Waste Hierarchy Compliance"
+    ],
+    "specialized_services": [
+      "Waste Audits",
+      "Waste Reduction Strategies",
+      "Sustainability Consulting",
+      "Zero Waste Initiatives"
+    ]
+  }
+},
+{
+  "id": "northenden",
+  "name": "Northenden",
+  "postcode": "",
+  "description": "Expert fire safety and protection services throughout Northenden and surrounding areas, with specialized expertise in local premises.",
+  "coverage": {
+    "districts": [
+      "Northenden"
+    ],
+    "response_times": {
+      "emergency": "1-2 hours",
+      "standard": "Same day",
+      "planned": "Scheduled"
+    }
+  },
+  "key_industries": [
+    "Retail",
+    "Healthcare",
+    "Education",
+    "Professional Services"
+  ],
+  "local_regulations": [
+    "Local Authority Requirements",
+    "Building Control Regulations",
+    "Compliance Requirements",
+    "Environmental Regulations"
+  ],
+  "emergency_services": {
+    "fire_station_proximity": "Multiple stations within 5 miles",
+    "emergency_support": "24/7 coverage",
+    "backup_services": "Available on demand"
+  },
+  "waste_management": {
+    "services": [
+      "Commercial Waste Collection",
+      "Industrial Waste Collection",
+      "Recycling Services",
+      "Hazardous Waste Disposal",
+      "Waste Management Consulting"
+    ],
+    "collection_frequency": {
+      "standard": "Weekly",
+      "high_volume": "Daily",
+      "low_volume": "Bi-weekly"
+    },
+    "waste_types": [
+      "General Waste",
+      "Recyclables",
+      "Organic Waste",
+      "Construction Waste",
+      "Hazardous Materials"
+    ],
+    "compliance": [
+      "Waste Management Regulations",
+      "Environmental Protection Act",
+      "Duty of Care Requirements",
+      "Waste Hierarchy Compliance"
+    ],
+    "specialized_services": [
+      "Waste Audits",
+      "Waste Reduction Strategies",
+      "Sustainability Consulting",
+      "Zero Waste Initiatives"
+    ]
+  }
+},
+{
+  "id": "openshaw",
+  "name": "Openshaw",
+  "postcode": "",
+  "description": "Expert fire safety and protection services throughout Openshaw and surrounding areas, with specialized expertise in local premises.",
+  "coverage": {
+    "districts": [
+      "Openshaw"
+    ],
+    "response_times": {
+      "emergency": "1-2 hours",
+      "standard": "Same day",
+      "planned": "Scheduled"
+    }
+  },
+  "key_industries": [
+    "Retail",
+    "Healthcare",
+    "Education",
+    "Professional Services"
+  ],
+  "local_regulations": [
+    "Local Authority Requirements",
+    "Building Control Regulations",
+    "Compliance Requirements",
+    "Environmental Regulations"
+  ],
+  "emergency_services": {
+    "fire_station_proximity": "Multiple stations within 5 miles",
+    "emergency_support": "24/7 coverage",
+    "backup_services": "Available on demand"
+  },
+  "waste_management": {
+    "services": [
+      "Commercial Waste Collection",
+      "Industrial Waste Collection",
+      "Recycling Services",
+      "Hazardous Waste Disposal",
+      "Waste Management Consulting"
+    ],
+    "collection_frequency": {
+      "standard": "Weekly",
+      "high_volume": "Daily",
+      "low_volume": "Bi-weekly"
+    },
+    "waste_types": [
+      "General Waste",
+      "Recyclables",
+      "Organic Waste",
+      "Construction Waste",
+      "Hazardous Materials"
+    ],
+    "compliance": [
+      "Waste Management Regulations",
+      "Environmental Protection Act",
+      "Duty of Care Requirements",
+      "Waste Hierarchy Compliance"
+    ],
+    "specialized_services": [
+      "Waste Audits",
+      "Waste Reduction Strategies",
+      "Sustainability Consulting",
+      "Zero Waste Initiatives"
+    ]
+  }
+},
+{
+  "id": "rusholme",
+  "name": "Rusholme",
+  "postcode": "",
+  "description": "Expert fire safety and protection services throughout Rusholme and surrounding areas, with specialized expertise in local premises.",
+  "coverage": {
+    "districts": [
+      "Rusholme"
+    ],
+    "response_times": {
+      "emergency": "1-2 hours",
+      "standard": "Same day",
+      "planned": "Scheduled"
+    }
+  },
+  "key_industries": [
+    "Retail",
+    "Healthcare",
+    "Education",
+    "Professional Services"
+  ],
+  "local_regulations": [
+    "Local Authority Requirements",
+    "Building Control Regulations",
+    "Compliance Requirements",
+    "Environmental Regulations"
+  ],
+  "emergency_services": {
+    "fire_station_proximity": "Multiple stations within 5 miles",
+    "emergency_support": "24/7 coverage",
+    "backup_services": "Available on demand"
+  },
+  "waste_management": {
+    "services": [
+      "Commercial Waste Collection",
+      "Industrial Waste Collection",
+      "Recycling Services",
+      "Hazardous Waste Disposal",
+      "Waste Management Consulting"
+    ],
+    "collection_frequency": {
+      "standard": "Weekly",
+      "high_volume": "Daily",
+      "low_volume": "Bi-weekly"
+    },
+    "waste_types": [
+      "General Waste",
+      "Recyclables",
+      "Organic Waste",
+      "Construction Waste",
+      "Hazardous Materials"
+    ],
+    "compliance": [
+      "Waste Management Regulations",
+      "Environmental Protection Act",
+      "Duty of Care Requirements",
+      "Waste Hierarchy Compliance"
+    ],
+    "specialized_services": [
+      "Waste Audits",
+      "Waste Reduction Strategies",
+      "Sustainability Consulting",
+      "Zero Waste Initiatives"
+    ]
+  }
+},
+{
+  "id": "withington",
+  "name": "Withington",
+  "postcode": "",
+  "description": "Expert fire safety and protection services throughout Withington and surrounding areas, with specialized expertise in local premises.",
+  "coverage": {
+    "districts": [
+      "Withington"
+    ],
+    "response_times": {
+      "emergency": "1-2 hours",
+      "standard": "Same day",
+      "planned": "Scheduled"
+    }
+  },
+  "key_industries": [
+    "Retail",
+    "Healthcare",
+    "Education",
+    "Professional Services"
+  ],
+  "local_regulations": [
+    "Local Authority Requirements",
+    "Building Control Regulations",
+    "Compliance Requirements",
+    "Environmental Regulations"
+  ],
+  "emergency_services": {
+    "fire_station_proximity": "Multiple stations within 5 miles",
+    "emergency_support": "24/7 coverage",
+    "backup_services": "Available on demand"
+  },
+  "waste_management": {
+    "services": [
+      "Commercial Waste Collection",
+      "Industrial Waste Collection",
+      "Recycling Services",
+      "Hazardous Waste Disposal",
+      "Waste Management Consulting"
+    ],
+    "collection_frequency": {
+      "standard": "Weekly",
+      "high_volume": "Daily",
+      "low_volume": "Bi-weekly"
+    },
+    "waste_types": [
+      "General Waste",
+      "Recyclables",
+      "Organic Waste",
+      "Construction Waste",
+      "Hazardous Materials"
+    ],
+    "compliance": [
+      "Waste Management Regulations",
+      "Environmental Protection Act",
+      "Duty of Care Requirements",
+      "Waste Hierarchy Compliance"
+    ],
+    "specialized_services": [
+      "Waste Audits",
+      "Waste Reduction Strategies",
+      "Sustainability Consulting",
+      "Zero Waste Initiatives"
+    ]
+  }
+},
+{
+  "id": "wythenshawe",
+  "name": "Wythenshawe",
+  "postcode": "",
+  "description": "Expert fire safety and protection services throughout Wythenshawe and surrounding areas, with specialized expertise in local premises.",
+  "coverage": {
+    "districts": [
+      "Wythenshawe"
+    ],
+    "response_times": {
+      "emergency": "1-2 hours",
+      "standard": "Same day",
+      "planned": "Scheduled"
+    }
+  },
+  "key_industries": [
+    "Retail",
+    "Healthcare",
+    "Education",
+    "Professional Services"
+  ],
+  "local_regulations": [
+    "Local Authority Requirements",
+    "Building Control Regulations",
+    "Compliance Requirements",
+    "Environmental Regulations"
+  ],
+  "emergency_services": {
+    "fire_station_proximity": "Multiple stations within 5 miles",
+    "emergency_support": "24/7 coverage",
+    "backup_services": "Available on demand"
+  },
+  "waste_management": {
+    "services": [
+      "Commercial Waste Collection",
+      "Industrial Waste Collection",
+      "Recycling Services",
+      "Hazardous Waste Disposal",
+      "Waste Management Consulting"
+    ],
+    "collection_frequency": {
+      "standard": "Weekly",
+      "high_volume": "Daily",
+      "low_volume": "Bi-weekly"
+    },
+    "waste_types": [
+      "General Waste",
+      "Recyclables",
+      "Organic Waste",
+      "Construction Waste",
+      "Hazardous Materials"
+    ],
+    "compliance": [
+      "Waste Management Regulations",
+      "Environmental Protection Act",
+      "Duty of Care Requirements",
+      "Waste Hierarchy Compliance"
+    ],
+    "specialized_services": [
+      "Waste Audits",
+      "Waste Reduction Strategies",
+      "Sustainability Consulting",
+      "Zero Waste Initiatives"
+    ]
+  }
+},
+{
+  "id": "aigburth",
+  "name": "Aigburth",
+  "postcode": "",
+  "description": "Expert fire safety and protection services throughout Aigburth and surrounding areas, with specialized expertise in local premises.",
+  "coverage": {
+    "districts": [
+      "Aigburth"
+    ],
+    "response_times": {
+      "emergency": "1-2 hours",
+      "standard": "Same day",
+      "planned": "Scheduled"
+    }
+  },
+  "key_industries": [
+    "Retail",
+    "Healthcare",
+    "Education",
+    "Professional Services"
+  ],
+  "local_regulations": [
+    "Local Authority Requirements",
+    "Building Control Regulations",
+    "Compliance Requirements",
+    "Environmental Regulations"
+  ],
+  "emergency_services": {
+    "fire_station_proximity": "Multiple stations within 5 miles",
+    "emergency_support": "24/7 coverage",
+    "backup_services": "Available on demand"
+  },
+  "waste_management": {
+    "services": [
+      "Commercial Waste Collection",
+      "Industrial Waste Collection",
+      "Recycling Services",
+      "Hazardous Waste Disposal",
+      "Waste Management Consulting"
+    ],
+    "collection_frequency": {
+      "standard": "Weekly",
+      "high_volume": "Daily",
+      "low_volume": "Bi-weekly"
+    },
+    "waste_types": [
+      "General Waste",
+      "Recyclables",
+      "Organic Waste",
+      "Construction Waste",
+      "Hazardous Materials"
+    ],
+    "compliance": [
+      "Waste Management Regulations",
+      "Environmental Protection Act",
+      "Duty of Care Requirements",
+      "Waste Hierarchy Compliance"
+    ],
+    "specialized_services": [
+      "Waste Audits",
+      "Waste Reduction Strategies",
+      "Sustainability Consulting",
+      "Zero Waste Initiatives"
+    ]
+  }
+},
+{
+  "id": "allerton",
+  "name": "Allerton",
+  "postcode": "",
+  "description": "Expert fire safety and protection services throughout Allerton and surrounding areas, with specialized expertise in local premises.",
+  "coverage": {
+    "districts": [
+      "Allerton"
+    ],
+    "response_times": {
+      "emergency": "1-2 hours",
+      "standard": "Same day",
+      "planned": "Scheduled"
+    }
+  },
+  "key_industries": [
+    "Retail",
+    "Healthcare",
+    "Education",
+    "Professional Services"
+  ],
+  "local_regulations": [
+    "Local Authority Requirements",
+    "Building Control Regulations",
+    "Compliance Requirements",
+    "Environmental Regulations"
+  ],
+  "emergency_services": {
+    "fire_station_proximity": "Multiple stations within 5 miles",
+    "emergency_support": "24/7 coverage",
+    "backup_services": "Available on demand"
+  },
+  "waste_management": {
+    "services": [
+      "Commercial Waste Collection",
+      "Industrial Waste Collection",
+      "Recycling Services",
+      "Hazardous Waste Disposal",
+      "Waste Management Consulting"
+    ],
+    "collection_frequency": {
+      "standard": "Weekly",
+      "high_volume": "Daily",
+      "low_volume": "Bi-weekly"
+    },
+    "waste_types": [
+      "General Waste",
+      "Recyclables",
+      "Organic Waste",
+      "Construction Waste",
+      "Hazardous Materials"
+    ],
+    "compliance": [
+      "Waste Management Regulations",
+      "Environmental Protection Act",
+      "Duty of Care Requirements",
+      "Waste Hierarchy Compliance"
+    ],
+    "specialized_services": [
+      "Waste Audits",
+      "Waste Reduction Strategies",
+      "Sustainability Consulting",
+      "Zero Waste Initiatives"
+    ]
+  }
+},
+{
+  "id": "anfield",
+  "name": "Anfield",
+  "postcode": "",
+  "description": "Expert fire safety and protection services throughout Anfield and surrounding areas, with specialized expertise in local premises.",
+  "coverage": {
+    "districts": [
+      "Anfield"
+    ],
+    "response_times": {
+      "emergency": "1-2 hours",
+      "standard": "Same day",
+      "planned": "Scheduled"
+    }
+  },
+  "key_industries": [
+    "Retail",
+    "Healthcare",
+    "Education",
+    "Professional Services"
+  ],
+  "local_regulations": [
+    "Local Authority Requirements",
+    "Building Control Regulations",
+    "Compliance Requirements",
+    "Environmental Regulations"
+  ],
+  "emergency_services": {
+    "fire_station_proximity": "Multiple stations within 5 miles",
+    "emergency_support": "24/7 coverage",
+    "backup_services": "Available on demand"
+  },
+  "waste_management": {
+    "services": [
+      "Commercial Waste Collection",
+      "Industrial Waste Collection",
+      "Recycling Services",
+      "Hazardous Waste Disposal",
+      "Waste Management Consulting"
+    ],
+    "collection_frequency": {
+      "standard": "Weekly",
+      "high_volume": "Daily",
+      "low_volume": "Bi-weekly"
+    },
+    "waste_types": [
+      "General Waste",
+      "Recyclables",
+      "Organic Waste",
+      "Construction Waste",
+      "Hazardous Materials"
+    ],
+    "compliance": [
+      "Waste Management Regulations",
+      "Environmental Protection Act",
+      "Duty of Care Requirements",
+      "Waste Hierarchy Compliance"
+    ],
+    "specialized_services": [
+      "Waste Audits",
+      "Waste Reduction Strategies",
+      "Sustainability Consulting",
+      "Zero Waste Initiatives"
+    ]
+  }
+},
+{
+  "id": "belle-vale",
+  "name": "Belle Vale",
+  "postcode": "",
+  "description": "Expert fire safety and protection services throughout Belle Vale and surrounding areas, with specialized expertise in local premises.",
+  "coverage": {
+    "districts": [
+      "Belle Vale"
+    ],
+    "response_times": {
+      "emergency": "1-2 hours",
+      "standard": "Same day",
+      "planned": "Scheduled"
+    }
+  },
+  "key_industries": [
+    "Retail",
+    "Healthcare",
+    "Education",
+    "Professional Services"
+  ],
+  "local_regulations": [
+    "Local Authority Requirements",
+    "Building Control Regulations",
+    "Compliance Requirements",
+    "Environmental Regulations"
+  ],
+  "emergency_services": {
+    "fire_station_proximity": "Multiple stations within 5 miles",
+    "emergency_support": "24/7 coverage",
+    "backup_services": "Available on demand"
+  },
+  "waste_management": {
+    "services": [
+      "Commercial Waste Collection",
+      "Industrial Waste Collection",
+      "Recycling Services",
+      "Hazardous Waste Disposal",
+      "Waste Management Consulting"
+    ],
+    "collection_frequency": {
+      "standard": "Weekly",
+      "high_volume": "Daily",
+      "low_volume": "Bi-weekly"
+    },
+    "waste_types": [
+      "General Waste",
+      "Recyclables",
+      "Organic Waste",
+      "Construction Waste",
+      "Hazardous Materials"
+    ],
+    "compliance": [
+      "Waste Management Regulations",
+      "Environmental Protection Act",
+      "Duty of Care Requirements",
+      "Waste Hierarchy Compliance"
+    ],
+    "specialized_services": [
+      "Waste Audits",
+      "Waste Reduction Strategies",
+      "Sustainability Consulting",
+      "Zero Waste Initiatives"
+    ]
+  }
+},
+{
+  "id": "broadgreen",
+  "name": "Broadgreen",
+  "postcode": "",
+  "description": "Expert fire safety and protection services throughout Broadgreen and surrounding areas, with specialized expertise in local premises.",
+  "coverage": {
+    "districts": [
+      "Broadgreen"
+    ],
+    "response_times": {
+      "emergency": "1-2 hours",
+      "standard": "Same day",
+      "planned": "Scheduled"
+    }
+  },
+  "key_industries": [
+    "Retail",
+    "Healthcare",
+    "Education",
+    "Professional Services"
+  ],
+  "local_regulations": [
+    "Local Authority Requirements",
+    "Building Control Regulations",
+    "Compliance Requirements",
+    "Environmental Regulations"
+  ],
+  "emergency_services": {
+    "fire_station_proximity": "Multiple stations within 5 miles",
+    "emergency_support": "24/7 coverage",
+    "backup_services": "Available on demand"
+  },
+  "waste_management": {
+    "services": [
+      "Commercial Waste Collection",
+      "Industrial Waste Collection",
+      "Recycling Services",
+      "Hazardous Waste Disposal",
+      "Waste Management Consulting"
+    ],
+    "collection_frequency": {
+      "standard": "Weekly",
+      "high_volume": "Daily",
+      "low_volume": "Bi-weekly"
+    },
+    "waste_types": [
+      "General Waste",
+      "Recyclables",
+      "Organic Waste",
+      "Construction Waste",
+      "Hazardous Materials"
+    ],
+    "compliance": [
+      "Waste Management Regulations",
+      "Environmental Protection Act",
+      "Duty of Care Requirements",
+      "Waste Hierarchy Compliance"
+    ],
+    "specialized_services": [
+      "Waste Audits",
+      "Waste Reduction Strategies",
+      "Sustainability Consulting",
+      "Zero Waste Initiatives"
+    ]
+  }
+},
+{
+  "id": "cressington",
+  "name": "Cressington",
+  "postcode": "",
+  "description": "Expert fire safety and protection services throughout Cressington and surrounding areas, with specialized expertise in local premises.",
+  "coverage": {
+    "districts": [
+      "Cressington"
+    ],
+    "response_times": {
+      "emergency": "1-2 hours",
+      "standard": "Same day",
+      "planned": "Scheduled"
+    }
+  },
+  "key_industries": [
+    "Retail",
+    "Healthcare",
+    "Education",
+    "Professional Services"
+  ],
+  "local_regulations": [
+    "Local Authority Requirements",
+    "Building Control Regulations",
+    "Compliance Requirements",
+    "Environmental Regulations"
+  ],
+  "emergency_services": {
+    "fire_station_proximity": "Multiple stations within 5 miles",
+    "emergency_support": "24/7 coverage",
+    "backup_services": "Available on demand"
+  },
+  "waste_management": {
+    "services": [
+      "Commercial Waste Collection",
+      "Industrial Waste Collection",
+      "Recycling Services",
+      "Hazardous Waste Disposal",
+      "Waste Management Consulting"
+    ],
+    "collection_frequency": {
+      "standard": "Weekly",
+      "high_volume": "Daily",
+      "low_volume": "Bi-weekly"
+    },
+    "waste_types": [
+      "General Waste",
+      "Recyclables",
+      "Organic Waste",
+      "Construction Waste",
+      "Hazardous Materials"
+    ],
+    "compliance": [
+      "Waste Management Regulations",
+      "Environmental Protection Act",
+      "Duty of Care Requirements",
+      "Waste Hierarchy Compliance"
+    ],
+    "specialized_services": [
+      "Waste Audits",
+      "Waste Reduction Strategies",
+      "Sustainability Consulting",
+      "Zero Waste Initiatives"
+    ]
+  }
+},
+{
+  "id": "croxteth",
+  "name": "Croxteth",
+  "postcode": "",
+  "description": "Expert fire safety and protection services throughout Croxteth and surrounding areas, with specialized expertise in local premises.",
+  "coverage": {
+    "districts": [
+      "Croxteth"
+    ],
+    "response_times": {
+      "emergency": "1-2 hours",
+      "standard": "Same day",
+      "planned": "Scheduled"
+    }
+  },
+  "key_industries": [
+    "Retail",
+    "Healthcare",
+    "Education",
+    "Professional Services"
+  ],
+  "local_regulations": [
+    "Local Authority Requirements",
+    "Building Control Regulations",
+    "Compliance Requirements",
+    "Environmental Regulations"
+  ],
+  "emergency_services": {
+    "fire_station_proximity": "Multiple stations within 5 miles",
+    "emergency_support": "24/7 coverage",
+    "backup_services": "Available on demand"
+  },
+  "waste_management": {
+    "services": [
+      "Commercial Waste Collection",
+      "Industrial Waste Collection",
+      "Recycling Services",
+      "Hazardous Waste Disposal",
+      "Waste Management Consulting"
+    ],
+    "collection_frequency": {
+      "standard": "Weekly",
+      "high_volume": "Daily",
+      "low_volume": "Bi-weekly"
+    },
+    "waste_types": [
+      "General Waste",
+      "Recyclables",
+      "Organic Waste",
+      "Construction Waste",
+      "Hazardous Materials"
+    ],
+    "compliance": [
+      "Waste Management Regulations",
+      "Environmental Protection Act",
+      "Duty of Care Requirements",
+      "Waste Hierarchy Compliance"
+    ],
+    "specialized_services": [
+      "Waste Audits",
+      "Waste Reduction Strategies",
+      "Sustainability Consulting",
+      "Zero Waste Initiatives"
+    ]
+  }
+},
+{
+  "id": "dingle",
+  "name": "Dingle",
+  "postcode": "",
+  "description": "Expert fire safety and protection services throughout Dingle and surrounding areas, with specialized expertise in local premises.",
+  "coverage": {
+    "districts": [
+      "Dingle"
+    ],
+    "response_times": {
+      "emergency": "1-2 hours",
+      "standard": "Same day",
+      "planned": "Scheduled"
+    }
+  },
+  "key_industries": [
+    "Retail",
+    "Healthcare",
+    "Education",
+    "Professional Services"
+  ],
+  "local_regulations": [
+    "Local Authority Requirements",
+    "Building Control Regulations",
+    "Compliance Requirements",
+    "Environmental Regulations"
+  ],
+  "emergency_services": {
+    "fire_station_proximity": "Multiple stations within 5 miles",
+    "emergency_support": "24/7 coverage",
+    "backup_services": "Available on demand"
+  },
+  "waste_management": {
+    "services": [
+      "Commercial Waste Collection",
+      "Industrial Waste Collection",
+      "Recycling Services",
+      "Hazardous Waste Disposal",
+      "Waste Management Consulting"
+    ],
+    "collection_frequency": {
+      "standard": "Weekly",
+      "high_volume": "Daily",
+      "low_volume": "Bi-weekly"
+    },
+    "waste_types": [
+      "General Waste",
+      "Recyclables",
+      "Organic Waste",
+      "Construction Waste",
+      "Hazardous Materials"
+    ],
+    "compliance": [
+      "Waste Management Regulations",
+      "Environmental Protection Act",
+      "Duty of Care Requirements",
+      "Waste Hierarchy Compliance"
+    ],
+    "specialized_services": [
+      "Waste Audits",
+      "Waste Reduction Strategies",
+      "Sustainability Consulting",
+      "Zero Waste Initiatives"
+    ]
+  }
+},
+{
+  "id": "edge-hill",
+  "name": "Edge Hill",
+  "postcode": "",
+  "description": "Expert fire safety and protection services throughout Edge Hill and surrounding areas, with specialized expertise in local premises.",
+  "coverage": {
+    "districts": [
+      "Edge Hill"
+    ],
+    "response_times": {
+      "emergency": "1-2 hours",
+      "standard": "Same day",
+      "planned": "Scheduled"
+    }
+  },
+  "key_industries": [
+    "Retail",
+    "Healthcare",
+    "Education",
+    "Professional Services"
+  ],
+  "local_regulations": [
+    "Local Authority Requirements",
+    "Building Control Regulations",
+    "Compliance Requirements",
+    "Environmental Regulations"
+  ],
+  "emergency_services": {
+    "fire_station_proximity": "Multiple stations within 5 miles",
+    "emergency_support": "24/7 coverage",
+    "backup_services": "Available on demand"
+  },
+  "waste_management": {
+    "services": [
+      "Commercial Waste Collection",
+      "Industrial Waste Collection",
+      "Recycling Services",
+      "Hazardous Waste Disposal",
+      "Waste Management Consulting"
+    ],
+    "collection_frequency": {
+      "standard": "Weekly",
+      "high_volume": "Daily",
+      "low_volume": "Bi-weekly"
+    },
+    "waste_types": [
+      "General Waste",
+      "Recyclables",
+      "Organic Waste",
+      "Construction Waste",
+      "Hazardous Materials"
+    ],
+    "compliance": [
+      "Waste Management Regulations",
+      "Environmental Protection Act",
+      "Duty of Care Requirements",
+      "Waste Hierarchy Compliance"
+    ],
+    "specialized_services": [
+      "Waste Audits",
+      "Waste Reduction Strategies",
+      "Sustainability Consulting",
+      "Zero Waste Initiatives"
+    ]
+  }
+},
+{
+  "id": "everton",
+  "name": "Everton",
+  "postcode": "",
+  "description": "Expert fire safety and protection services throughout Everton and surrounding areas, with specialized expertise in local premises.",
+  "coverage": {
+    "districts": [
+      "Everton"
+    ],
+    "response_times": {
+      "emergency": "1-2 hours",
+      "standard": "Same day",
+      "planned": "Scheduled"
+    }
+  },
+  "key_industries": [
+    "Retail",
+    "Healthcare",
+    "Education",
+    "Professional Services"
+  ],
+  "local_regulations": [
+    "Local Authority Requirements",
+    "Building Control Regulations",
+    "Compliance Requirements",
+    "Environmental Regulations"
+  ],
+  "emergency_services": {
+    "fire_station_proximity": "Multiple stations within 5 miles",
+    "emergency_support": "24/7 coverage",
+    "backup_services": "Available on demand"
+  },
+  "waste_management": {
+    "services": [
+      "Commercial Waste Collection",
+      "Industrial Waste Collection",
+      "Recycling Services",
+      "Hazardous Waste Disposal",
+      "Waste Management Consulting"
+    ],
+    "collection_frequency": {
+      "standard": "Weekly",
+      "high_volume": "Daily",
+      "low_volume": "Bi-weekly"
+    },
+    "waste_types": [
+      "General Waste",
+      "Recyclables",
+      "Organic Waste",
+      "Construction Waste",
+      "Hazardous Materials"
+    ],
+    "compliance": [
+      "Waste Management Regulations",
+      "Environmental Protection Act",
+      "Duty of Care Requirements",
+      "Waste Hierarchy Compliance"
+    ],
+    "specialized_services": [
+      "Waste Audits",
+      "Waste Reduction Strategies",
+      "Sustainability Consulting",
+      "Zero Waste Initiatives"
+    ]
+  }
+},
+{
+  "id": "fairfield",
+  "name": "Fairfield",
+  "postcode": "",
+  "description": "Expert fire safety and protection services throughout Fairfield and surrounding areas, with specialized expertise in local premises.",
+  "coverage": {
+    "districts": [
+      "Fairfield"
+    ],
+    "response_times": {
+      "emergency": "1-2 hours",
+      "standard": "Same day",
+      "planned": "Scheduled"
+    }
+  },
+  "key_industries": [
+    "Retail",
+    "Healthcare",
+    "Education",
+    "Professional Services"
+  ],
+  "local_regulations": [
+    "Local Authority Requirements",
+    "Building Control Regulations",
+    "Compliance Requirements",
+    "Environmental Regulations"
+  ],
+  "emergency_services": {
+    "fire_station_proximity": "Multiple stations within 5 miles",
+    "emergency_support": "24/7 coverage",
+    "backup_services": "Available on demand"
+  },
+  "waste_management": {
+    "services": [
+      "Commercial Waste Collection",
+      "Industrial Waste Collection",
+      "Recycling Services",
+      "Hazardous Waste Disposal",
+      "Waste Management Consulting"
+    ],
+    "collection_frequency": {
+      "standard": "Weekly",
+      "high_volume": "Daily",
+      "low_volume": "Bi-weekly"
+    },
+    "waste_types": [
+      "General Waste",
+      "Recyclables",
+      "Organic Waste",
+      "Construction Waste",
+      "Hazardous Materials"
+    ],
+    "compliance": [
+      "Waste Management Regulations",
+      "Environmental Protection Act",
+      "Duty of Care Requirements",
+      "Waste Hierarchy Compliance"
+    ],
+    "specialized_services": [
+      "Waste Audits",
+      "Waste Reduction Strategies",
+      "Sustainability Consulting",
+      "Zero Waste Initiatives"
+    ]
+  }
+},
+{
+  "id": "fazakerley",
+  "name": "Fazakerley",
+  "postcode": "",
+  "description": "Expert fire safety and protection services throughout Fazakerley and surrounding areas, with specialized expertise in local premises.",
+  "coverage": {
+    "districts": [
+      "Fazakerley"
+    ],
+    "response_times": {
+      "emergency": "1-2 hours",
+      "standard": "Same day",
+      "planned": "Scheduled"
+    }
+  },
+  "key_industries": [
+    "Retail",
+    "Healthcare",
+    "Education",
+    "Professional Services"
+  ],
+  "local_regulations": [
+    "Local Authority Requirements",
+    "Building Control Regulations",
+    "Compliance Requirements",
+    "Environmental Regulations"
+  ],
+  "emergency_services": {
+    "fire_station_proximity": "Multiple stations within 5 miles",
+    "emergency_support": "24/7 coverage",
+    "backup_services": "Available on demand"
+  },
+  "waste_management": {
+    "services": [
+      "Commercial Waste Collection",
+      "Industrial Waste Collection",
+      "Recycling Services",
+      "Hazardous Waste Disposal",
+      "Waste Management Consulting"
+    ],
+    "collection_frequency": {
+      "standard": "Weekly",
+      "high_volume": "Daily",
+      "low_volume": "Bi-weekly"
+    },
+    "waste_types": [
+      "General Waste",
+      "Recyclables",
+      "Organic Waste",
+      "Construction Waste",
+      "Hazardous Materials"
+    ],
+    "compliance": [
+      "Waste Management Regulations",
+      "Environmental Protection Act",
+      "Duty of Care Requirements",
+      "Waste Hierarchy Compliance"
+    ],
+    "specialized_services": [
+      "Waste Audits",
+      "Waste Reduction Strategies",
+      "Sustainability Consulting",
+      "Zero Waste Initiatives"
+    ]
+  }
+},
+{
+  "id": "garston",
+  "name": "Garston",
+  "postcode": "",
+  "description": "Expert fire safety and protection services throughout Garston and surrounding areas, with specialized expertise in local premises.",
+  "coverage": {
+    "districts": [
+      "Garston"
+    ],
+    "response_times": {
+      "emergency": "1-2 hours",
+      "standard": "Same day",
+      "planned": "Scheduled"
+    }
+  },
+  "key_industries": [
+    "Retail",
+    "Healthcare",
+    "Education",
+    "Professional Services"
+  ],
+  "local_regulations": [
+    "Local Authority Requirements",
+    "Building Control Regulations",
+    "Compliance Requirements",
+    "Environmental Regulations"
+  ],
+  "emergency_services": {
+    "fire_station_proximity": "Multiple stations within 5 miles",
+    "emergency_support": "24/7 coverage",
+    "backup_services": "Available on demand"
+  },
+  "waste_management": {
+    "services": [
+      "Commercial Waste Collection",
+      "Industrial Waste Collection",
+      "Recycling Services",
+      "Hazardous Waste Disposal",
+      "Waste Management Consulting"
+    ],
+    "collection_frequency": {
+      "standard": "Weekly",
+      "high_volume": "Daily",
+      "low_volume": "Bi-weekly"
+    },
+    "waste_types": [
+      "General Waste",
+      "Recyclables",
+      "Organic Waste",
+      "Construction Waste",
+      "Hazardous Materials"
+    ],
+    "compliance": [
+      "Waste Management Regulations",
+      "Environmental Protection Act",
+      "Duty of Care Requirements",
+      "Waste Hierarchy Compliance"
+    ],
+    "specialized_services": [
+      "Waste Audits",
+      "Waste Reduction Strategies",
+      "Sustainability Consulting",
+      "Zero Waste Initiatives"
+    ]
+  }
+},
+{
+  "id": "gateacre",
+  "name": "Gateacre",
+  "postcode": "",
+  "description": "Expert fire safety and protection services throughout Gateacre and surrounding areas, with specialized expertise in local premises.",
+  "coverage": {
+    "districts": [
+      "Gateacre"
+    ],
+    "response_times": {
+      "emergency": "1-2 hours",
+      "standard": "Same day",
+      "planned": "Scheduled"
+    }
+  },
+  "key_industries": [
+    "Retail",
+    "Healthcare",
+    "Education",
+    "Professional Services"
+  ],
+  "local_regulations": [
+    "Local Authority Requirements",
+    "Building Control Regulations",
+    "Compliance Requirements",
+    "Environmental Regulations"
+  ],
+  "emergency_services": {
+    "fire_station_proximity": "Multiple stations within 5 miles",
+    "emergency_support": "24/7 coverage",
+    "backup_services": "Available on demand"
+  },
+  "waste_management": {
+    "services": [
+      "Commercial Waste Collection",
+      "Industrial Waste Collection",
+      "Recycling Services",
+      "Hazardous Waste Disposal",
+      "Waste Management Consulting"
+    ],
+    "collection_frequency": {
+      "standard": "Weekly",
+      "high_volume": "Daily",
+      "low_volume": "Bi-weekly"
+    },
+    "waste_types": [
+      "General Waste",
+      "Recyclables",
+      "Organic Waste",
+      "Construction Waste",
+      "Hazardous Materials"
+    ],
+    "compliance": [
+      "Waste Management Regulations",
+      "Environmental Protection Act",
+      "Duty of Care Requirements",
+      "Waste Hierarchy Compliance"
+    ],
+    "specialized_services": [
+      "Waste Audits",
+      "Waste Reduction Strategies",
+      "Sustainability Consulting",
+      "Zero Waste Initiatives"
+    ]
+  }
+},
+{
+  "id": "gillmoss",
+  "name": "Gillmoss",
+  "postcode": "",
+  "description": "Expert fire safety and protection services throughout Gillmoss and surrounding areas, with specialized expertise in local premises.",
+  "coverage": {
+    "districts": [
+      "Gillmoss"
+    ],
+    "response_times": {
+      "emergency": "1-2 hours",
+      "standard": "Same day",
+      "planned": "Scheduled"
+    }
+  },
+  "key_industries": [
+    "Retail",
+    "Healthcare",
+    "Education",
+    "Professional Services"
+  ],
+  "local_regulations": [
+    "Local Authority Requirements",
+    "Building Control Regulations",
+    "Compliance Requirements",
+    "Environmental Regulations"
+  ],
+  "emergency_services": {
+    "fire_station_proximity": "Multiple stations within 5 miles",
+    "emergency_support": "24/7 coverage",
+    "backup_services": "Available on demand"
+  },
+  "waste_management": {
+    "services": [
+      "Commercial Waste Collection",
+      "Industrial Waste Collection",
+      "Recycling Services",
+      "Hazardous Waste Disposal",
+      "Waste Management Consulting"
+    ],
+    "collection_frequency": {
+      "standard": "Weekly",
+      "high_volume": "Daily",
+      "low_volume": "Bi-weekly"
+    },
+    "waste_types": [
+      "General Waste",
+      "Recyclables",
+      "Organic Waste",
+      "Construction Waste",
+      "Hazardous Materials"
+    ],
+    "compliance": [
+      "Waste Management Regulations",
+      "Environmental Protection Act",
+      "Duty of Care Requirements",
+      "Waste Hierarchy Compliance"
+    ],
+    "specialized_services": [
+      "Waste Audits",
+      "Waste Reduction Strategies",
+      "Sustainability Consulting",
+      "Zero Waste Initiatives"
+    ]
+  }
+},
+{
+  "id": "grassendale",
+  "name": "Grassendale",
+  "postcode": "",
+  "description": "Expert fire safety and protection services throughout Grassendale and surrounding areas, with specialized expertise in local premises.",
+  "coverage": {
+    "districts": [
+      "Grassendale"
+    ],
+    "response_times": {
+      "emergency": "1-2 hours",
+      "standard": "Same day",
+      "planned": "Scheduled"
+    }
+  },
+  "key_industries": [
+    "Retail",
+    "Healthcare",
+    "Education",
+    "Professional Services"
+  ],
+  "local_regulations": [
+    "Local Authority Requirements",
+    "Building Control Regulations",
+    "Compliance Requirements",
+    "Environmental Regulations"
+  ],
+  "emergency_services": {
+    "fire_station_proximity": "Multiple stations within 5 miles",
+    "emergency_support": "24/7 coverage",
+    "backup_services": "Available on demand"
+  },
+  "waste_management": {
+    "services": [
+      "Commercial Waste Collection",
+      "Industrial Waste Collection",
+      "Recycling Services",
+      "Hazardous Waste Disposal",
+      "Waste Management Consulting"
+    ],
+    "collection_frequency": {
+      "standard": "Weekly",
+      "high_volume": "Daily",
+      "low_volume": "Bi-weekly"
+    },
+    "waste_types": [
+      "General Waste",
+      "Recyclables",
+      "Organic Waste",
+      "Construction Waste",
+      "Hazardous Materials"
+    ],
+    "compliance": [
+      "Waste Management Regulations",
+      "Environmental Protection Act",
+      "Duty of Care Requirements",
+      "Waste Hierarchy Compliance"
+    ],
+    "specialized_services": [
+      "Waste Audits",
+      "Waste Reduction Strategies",
+      "Sustainability Consulting",
+      "Zero Waste Initiatives"
+    ]
+  }
+},
+{
+  "id": "hunts-cross",
+  "name": "Hunts Cross",
+  "postcode": "",
+  "description": "Expert fire safety and protection services throughout Hunts Cross and surrounding areas, with specialized expertise in local premises.",
+  "coverage": {
+    "districts": [
+      "Hunts Cross"
+    ],
+    "response_times": {
+      "emergency": "1-2 hours",
+      "standard": "Same day",
+      "planned": "Scheduled"
+    }
+  },
+  "key_industries": [
+    "Retail",
+    "Healthcare",
+    "Education",
+    "Professional Services"
+  ],
+  "local_regulations": [
+    "Local Authority Requirements",
+    "Building Control Regulations",
+    "Compliance Requirements",
+    "Environmental Regulations"
+  ],
+  "emergency_services": {
+    "fire_station_proximity": "Multiple stations within 5 miles",
+    "emergency_support": "24/7 coverage",
+    "backup_services": "Available on demand"
+  },
+  "waste_management": {
+    "services": [
+      "Commercial Waste Collection",
+      "Industrial Waste Collection",
+      "Recycling Services",
+      "Hazardous Waste Disposal",
+      "Waste Management Consulting"
+    ],
+    "collection_frequency": {
+      "standard": "Weekly",
+      "high_volume": "Daily",
+      "low_volume": "Bi-weekly"
+    },
+    "waste_types": [
+      "General Waste",
+      "Recyclables",
+      "Organic Waste",
+      "Construction Waste",
+      "Hazardous Materials"
+    ],
+    "compliance": [
+      "Waste Management Regulations",
+      "Environmental Protection Act",
+      "Duty of Care Requirements",
+      "Waste Hierarchy Compliance"
+    ],
+    "specialized_services": [
+      "Waste Audits",
+      "Waste Reduction Strategies",
+      "Sustainability Consulting",
+      "Zero Waste Initiatives"
+    ]
+  }
+},
+{
+  "id": "kensington",
+  "name": "Kensington",
+  "postcode": "",
+  "description": "Expert fire safety and protection services throughout Kensington and surrounding areas, with specialized expertise in local premises.",
+  "coverage": {
+    "districts": [
+      "Kensington"
+    ],
+    "response_times": {
+      "emergency": "1-2 hours",
+      "standard": "Same day",
+      "planned": "Scheduled"
+    }
+  },
+  "key_industries": [
+    "Retail",
+    "Healthcare",
+    "Education",
+    "Professional Services"
+  ],
+  "local_regulations": [
+    "Local Authority Requirements",
+    "Building Control Regulations",
+    "Compliance Requirements",
+    "Environmental Regulations"
+  ],
+  "emergency_services": {
+    "fire_station_proximity": "Multiple stations within 5 miles",
+    "emergency_support": "24/7 coverage",
+    "backup_services": "Available on demand"
+  },
+  "waste_management": {
+    "services": [
+      "Commercial Waste Collection",
+      "Industrial Waste Collection",
+      "Recycling Services",
+      "Hazardous Waste Disposal",
+      "Waste Management Consulting"
+    ],
+    "collection_frequency": {
+      "standard": "Weekly",
+      "high_volume": "Daily",
+      "low_volume": "Bi-weekly"
+    },
+    "waste_types": [
+      "General Waste",
+      "Recyclables",
+      "Organic Waste",
+      "Construction Waste",
+      "Hazardous Materials"
+    ],
+    "compliance": [
+      "Waste Management Regulations",
+      "Environmental Protection Act",
+      "Duty of Care Requirements",
+      "Waste Hierarchy Compliance"
+    ],
+    "specialized_services": [
+      "Waste Audits",
+      "Waste Reduction Strategies",
+      "Sustainability Consulting",
+      "Zero Waste Initiatives"
+    ]
+  }
+},
+{
+  "id": "kirkdale",
+  "name": "Kirkdale",
+  "postcode": "",
+  "description": "Expert fire safety and protection services throughout Kirkdale and surrounding areas, with specialized expertise in local premises.",
+  "coverage": {
+    "districts": [
+      "Kirkdale"
+    ],
+    "response_times": {
+      "emergency": "1-2 hours",
+      "standard": "Same day",
+      "planned": "Scheduled"
+    }
+  },
+  "key_industries": [
+    "Retail",
+    "Healthcare",
+    "Education",
+    "Professional Services"
+  ],
+  "local_regulations": [
+    "Local Authority Requirements",
+    "Building Control Regulations",
+    "Compliance Requirements",
+    "Environmental Regulations"
+  ],
+  "emergency_services": {
+    "fire_station_proximity": "Multiple stations within 5 miles",
+    "emergency_support": "24/7 coverage",
+    "backup_services": "Available on demand"
+  },
+  "waste_management": {
+    "services": [
+      "Commercial Waste Collection",
+      "Industrial Waste Collection",
+      "Recycling Services",
+      "Hazardous Waste Disposal",
+      "Waste Management Consulting"
+    ],
+    "collection_frequency": {
+      "standard": "Weekly",
+      "high_volume": "Daily",
+      "low_volume": "Bi-weekly"
+    },
+    "waste_types": [
+      "General Waste",
+      "Recyclables",
+      "Organic Waste",
+      "Construction Waste",
+      "Hazardous Materials"
+    ],
+    "compliance": [
+      "Waste Management Regulations",
+      "Environmental Protection Act",
+      "Duty of Care Requirements",
+      "Waste Hierarchy Compliance"
+    ],
+    "specialized_services": [
+      "Waste Audits",
+      "Waste Reduction Strategies",
+      "Sustainability Consulting",
+      "Zero Waste Initiatives"
+    ]
+  }
+},
+{
+  "id": "knotty-ash",
+  "name": "Knotty Ash",
+  "postcode": "",
+  "description": "Expert fire safety and protection services throughout Knotty Ash and surrounding areas, with specialized expertise in local premises.",
+  "coverage": {
+    "districts": [
+      "Knotty Ash"
+    ],
+    "response_times": {
+      "emergency": "1-2 hours",
+      "standard": "Same day",
+      "planned": "Scheduled"
+    }
+  },
+  "key_industries": [
+    "Retail",
+    "Healthcare",
+    "Education",
+    "Professional Services"
+  ],
+  "local_regulations": [
+    "Local Authority Requirements",
+    "Building Control Regulations",
+    "Compliance Requirements",
+    "Environmental Regulations"
+  ],
+  "emergency_services": {
+    "fire_station_proximity": "Multiple stations within 5 miles",
+    "emergency_support": "24/7 coverage",
+    "backup_services": "Available on demand"
+  },
+  "waste_management": {
+    "services": [
+      "Commercial Waste Collection",
+      "Industrial Waste Collection",
+      "Recycling Services",
+      "Hazardous Waste Disposal",
+      "Waste Management Consulting"
+    ],
+    "collection_frequency": {
+      "standard": "Weekly",
+      "high_volume": "Daily",
+      "low_volume": "Bi-weekly"
+    },
+    "waste_types": [
+      "General Waste",
+      "Recyclables",
+      "Organic Waste",
+      "Construction Waste",
+      "Hazardous Materials"
+    ],
+    "compliance": [
+      "Waste Management Regulations",
+      "Environmental Protection Act",
+      "Duty of Care Requirements",
+      "Waste Hierarchy Compliance"
+    ],
+    "specialized_services": [
+      "Waste Audits",
+      "Waste Reduction Strategies",
+      "Sustainability Consulting",
+      "Zero Waste Initiatives"
+    ]
+  }
+},
+{
+  "id": "mossley-hill",
+  "name": "Mossley Hill",
+  "postcode": "",
+  "description": "Expert fire safety and protection services throughout Mossley Hill and surrounding areas, with specialized expertise in local premises.",
+  "coverage": {
+    "districts": [
+      "Mossley Hill"
+    ],
+    "response_times": {
+      "emergency": "1-2 hours",
+      "standard": "Same day",
+      "planned": "Scheduled"
+    }
+  },
+  "key_industries": [
+    "Retail",
+    "Healthcare",
+    "Education",
+    "Professional Services"
+  ],
+  "local_regulations": [
+    "Local Authority Requirements",
+    "Building Control Regulations",
+    "Compliance Requirements",
+    "Environmental Regulations"
+  ],
+  "emergency_services": {
+    "fire_station_proximity": "Multiple stations within 5 miles",
+    "emergency_support": "24/7 coverage",
+    "backup_services": "Available on demand"
+  },
+  "waste_management": {
+    "services": [
+      "Commercial Waste Collection",
+      "Industrial Waste Collection",
+      "Recycling Services",
+      "Hazardous Waste Disposal",
+      "Waste Management Consulting"
+    ],
+    "collection_frequency": {
+      "standard": "Weekly",
+      "high_volume": "Daily",
+      "low_volume": "Bi-weekly"
+    },
+    "waste_types": [
+      "General Waste",
+      "Recyclables",
+      "Organic Waste",
+      "Construction Waste",
+      "Hazardous Materials"
+    ],
+    "compliance": [
+      "Waste Management Regulations",
+      "Environmental Protection Act",
+      "Duty of Care Requirements",
+      "Waste Hierarchy Compliance"
+    ],
+    "specialized_services": [
+      "Waste Audits",
+      "Waste Reduction Strategies",
+      "Sustainability Consulting",
+      "Zero Waste Initiatives"
+    ]
+  }
+},
+{
+  "id": "norris-green",
+  "name": "Norris Green",
+  "postcode": "",
+  "description": "Expert fire safety and protection services throughout Norris Green and surrounding areas, with specialized expertise in local premises.",
+  "coverage": {
+    "districts": [
+      "Norris Green"
+    ],
+    "response_times": {
+      "emergency": "1-2 hours",
+      "standard": "Same day",
+      "planned": "Scheduled"
+    }
+  },
+  "key_industries": [
+    "Retail",
+    "Healthcare",
+    "Education",
+    "Professional Services"
+  ],
+  "local_regulations": [
+    "Local Authority Requirements",
+    "Building Control Regulations",
+    "Compliance Requirements",
+    "Environmental Regulations"
+  ],
+  "emergency_services": {
+    "fire_station_proximity": "Multiple stations within 5 miles",
+    "emergency_support": "24/7 coverage",
+    "backup_services": "Available on demand"
+  },
+  "waste_management": {
+    "services": [
+      "Commercial Waste Collection",
+      "Industrial Waste Collection",
+      "Recycling Services",
+      "Hazardous Waste Disposal",
+      "Waste Management Consulting"
+    ],
+    "collection_frequency": {
+      "standard": "Weekly",
+      "high_volume": "Daily",
+      "low_volume": "Bi-weekly"
+    },
+    "waste_types": [
+      "General Waste",
+      "Recyclables",
+      "Organic Waste",
+      "Construction Waste",
+      "Hazardous Materials"
+    ],
+    "compliance": [
+      "Waste Management Regulations",
+      "Environmental Protection Act",
+      "Duty of Care Requirements",
+      "Waste Hierarchy Compliance"
+    ],
+    "specialized_services": [
+      "Waste Audits",
+      "Waste Reduction Strategies",
+      "Sustainability Consulting",
+      "Zero Waste Initiatives"
+    ]
+  }
+},
+{
+  "id": "old-swan",
+  "name": "Old Swan",
+  "postcode": "",
+  "description": "Expert fire safety and protection services throughout Old Swan and surrounding areas, with specialized expertise in local premises.",
+  "coverage": {
+    "districts": [
+      "Old Swan"
+    ],
+    "response_times": {
+      "emergency": "1-2 hours",
+      "standard": "Same day",
+      "planned": "Scheduled"
+    }
+  },
+  "key_industries": [
+    "Retail",
+    "Healthcare",
+    "Education",
+    "Professional Services"
+  ],
+  "local_regulations": [
+    "Local Authority Requirements",
+    "Building Control Regulations",
+    "Compliance Requirements",
+    "Environmental Regulations"
+  ],
+  "emergency_services": {
+    "fire_station_proximity": "Multiple stations within 5 miles",
+    "emergency_support": "24/7 coverage",
+    "backup_services": "Available on demand"
+  },
+  "waste_management": {
+    "services": [
+      "Commercial Waste Collection",
+      "Industrial Waste Collection",
+      "Recycling Services",
+      "Hazardous Waste Disposal",
+      "Waste Management Consulting"
+    ],
+    "collection_frequency": {
+      "standard": "Weekly",
+      "high_volume": "Daily",
+      "low_volume": "Bi-weekly"
+    },
+    "waste_types": [
+      "General Waste",
+      "Recyclables",
+      "Organic Waste",
+      "Construction Waste",
+      "Hazardous Materials"
+    ],
+    "compliance": [
+      "Waste Management Regulations",
+      "Environmental Protection Act",
+      "Duty of Care Requirements",
+      "Waste Hierarchy Compliance"
+    ],
+    "specialized_services": [
+      "Waste Audits",
+      "Waste Reduction Strategies",
+      "Sustainability Consulting",
+      "Zero Waste Initiatives"
+    ]
+  }
+},
+{
+  "id": "st-michaels-hamlet",
+  "name": "St Michaels Hamlet",
+  "postcode": "",
+  "description": "Expert fire safety and protection services throughout St Michaels Hamlet and surrounding areas, with specialized expertise in local premises.",
+  "coverage": {
+    "districts": [
+      "St Michaels Hamlet"
+    ],
+    "response_times": {
+      "emergency": "1-2 hours",
+      "standard": "Same day",
+      "planned": "Scheduled"
+    }
+  },
+  "key_industries": [
+    "Retail",
+    "Healthcare",
+    "Education",
+    "Professional Services"
+  ],
+  "local_regulations": [
+    "Local Authority Requirements",
+    "Building Control Regulations",
+    "Compliance Requirements",
+    "Environmental Regulations"
+  ],
+  "emergency_services": {
+    "fire_station_proximity": "Multiple stations within 5 miles",
+    "emergency_support": "24/7 coverage",
+    "backup_services": "Available on demand"
+  },
+  "waste_management": {
+    "services": [
+      "Commercial Waste Collection",
+      "Industrial Waste Collection",
+      "Recycling Services",
+      "Hazardous Waste Disposal",
+      "Waste Management Consulting"
+    ],
+    "collection_frequency": {
+      "standard": "Weekly",
+      "high_volume": "Daily",
+      "low_volume": "Bi-weekly"
+    },
+    "waste_types": [
+      "General Waste",
+      "Recyclables",
+      "Organic Waste",
+      "Construction Waste",
+      "Hazardous Materials"
+    ],
+    "compliance": [
+      "Waste Management Regulations",
+      "Environmental Protection Act",
+      "Duty of Care Requirements",
+      "Waste Hierarchy Compliance"
+    ],
+    "specialized_services": [
+      "Waste Audits",
+      "Waste Reduction Strategies",
+      "Sustainability Consulting",
+      "Zero Waste Initiatives"
+    ]
+  }
+},
+{
+  "id": "speke",
+  "name": "Speke",
+  "postcode": "",
+  "description": "Expert fire safety and protection services throughout Speke and surrounding areas, with specialized expertise in local premises.",
+  "coverage": {
+    "districts": [
+      "Speke"
+    ],
+    "response_times": {
+      "emergency": "1-2 hours",
+      "standard": "Same day",
+      "planned": "Scheduled"
+    }
+  },
+  "key_industries": [
+    "Retail",
+    "Healthcare",
+    "Education",
+    "Professional Services"
+  ],
+  "local_regulations": [
+    "Local Authority Requirements",
+    "Building Control Regulations",
+    "Compliance Requirements",
+    "Environmental Regulations"
+  ],
+  "emergency_services": {
+    "fire_station_proximity": "Multiple stations within 5 miles",
+    "emergency_support": "24/7 coverage",
+    "backup_services": "Available on demand"
+  },
+  "waste_management": {
+    "services": [
+      "Commercial Waste Collection",
+      "Industrial Waste Collection",
+      "Recycling Services",
+      "Hazardous Waste Disposal",
+      "Waste Management Consulting"
+    ],
+    "collection_frequency": {
+      "standard": "Weekly",
+      "high_volume": "Daily",
+      "low_volume": "Bi-weekly"
+    },
+    "waste_types": [
+      "General Waste",
+      "Recyclables",
+      "Organic Waste",
+      "Construction Waste",
+      "Hazardous Materials"
+    ],
+    "compliance": [
+      "Waste Management Regulations",
+      "Environmental Protection Act",
+      "Duty of Care Requirements",
+      "Waste Hierarchy Compliance"
+    ],
+    "specialized_services": [
+      "Waste Audits",
+      "Waste Reduction Strategies",
+      "Sustainability Consulting",
+      "Zero Waste Initiatives"
+    ]
+  }
+},
+{
+  "id": "toxteth",
+  "name": "Toxteth",
+  "postcode": "",
+  "description": "Expert fire safety and protection services throughout Toxteth and surrounding areas, with specialized expertise in local premises.",
+  "coverage": {
+    "districts": [
+      "Toxteth"
+    ],
+    "response_times": {
+      "emergency": "1-2 hours",
+      "standard": "Same day",
+      "planned": "Scheduled"
+    }
+  },
+  "key_industries": [
+    "Retail",
+    "Healthcare",
+    "Education",
+    "Professional Services"
+  ],
+  "local_regulations": [
+    "Local Authority Requirements",
+    "Building Control Regulations",
+    "Compliance Requirements",
+    "Environmental Regulations"
+  ],
+  "emergency_services": {
+    "fire_station_proximity": "Multiple stations within 5 miles",
+    "emergency_support": "24/7 coverage",
+    "backup_services": "Available on demand"
+  },
+  "waste_management": {
+    "services": [
+      "Commercial Waste Collection",
+      "Industrial Waste Collection",
+      "Recycling Services",
+      "Hazardous Waste Disposal",
+      "Waste Management Consulting"
+    ],
+    "collection_frequency": {
+      "standard": "Weekly",
+      "high_volume": "Daily",
+      "low_volume": "Bi-weekly"
+    },
+    "waste_types": [
+      "General Waste",
+      "Recyclables",
+      "Organic Waste",
+      "Construction Waste",
+      "Hazardous Materials"
+    ],
+    "compliance": [
+      "Waste Management Regulations",
+      "Environmental Protection Act",
+      "Duty of Care Requirements",
+      "Waste Hierarchy Compliance"
+    ],
+    "specialized_services": [
+      "Waste Audits",
+      "Waste Reduction Strategies",
+      "Sustainability Consulting",
+      "Zero Waste Initiatives"
+    ]
+  }
+},
+{
+  "id": "tuebrook",
+  "name": "Tuebrook",
+  "postcode": "",
+  "description": "Expert fire safety and protection services throughout Tuebrook and surrounding areas, with specialized expertise in local premises.",
+  "coverage": {
+    "districts": [
+      "Tuebrook"
+    ],
+    "response_times": {
+      "emergency": "1-2 hours",
+      "standard": "Same day",
+      "planned": "Scheduled"
+    }
+  },
+  "key_industries": [
+    "Retail",
+    "Healthcare",
+    "Education",
+    "Professional Services"
+  ],
+  "local_regulations": [
+    "Local Authority Requirements",
+    "Building Control Regulations",
+    "Compliance Requirements",
+    "Environmental Regulations"
+  ],
+  "emergency_services": {
+    "fire_station_proximity": "Multiple stations within 5 miles",
+    "emergency_support": "24/7 coverage",
+    "backup_services": "Available on demand"
+  },
+  "waste_management": {
+    "services": [
+      "Commercial Waste Collection",
+      "Industrial Waste Collection",
+      "Recycling Services",
+      "Hazardous Waste Disposal",
+      "Waste Management Consulting"
+    ],
+    "collection_frequency": {
+      "standard": "Weekly",
+      "high_volume": "Daily",
+      "low_volume": "Bi-weekly"
+    },
+    "waste_types": [
+      "General Waste",
+      "Recyclables",
+      "Organic Waste",
+      "Construction Waste",
+      "Hazardous Materials"
+    ],
+    "compliance": [
+      "Waste Management Regulations",
+      "Environmental Protection Act",
+      "Duty of Care Requirements",
+      "Waste Hierarchy Compliance"
+    ],
+    "specialized_services": [
+      "Waste Audits",
+      "Waste Reduction Strategies",
+      "Sustainability Consulting",
+      "Zero Waste Initiatives"
+    ]
+  }
+},
+{
+  "id": "vauxhall",
+  "name": "Vauxhall",
+  "postcode": "",
+  "description": "Expert fire safety and protection services throughout Vauxhall and surrounding areas, with specialized expertise in local premises.",
+  "coverage": {
+    "districts": [
+      "Vauxhall"
+    ],
+    "response_times": {
+      "emergency": "1-2 hours",
+      "standard": "Same day",
+      "planned": "Scheduled"
+    }
+  },
+  "key_industries": [
+    "Retail",
+    "Healthcare",
+    "Education",
+    "Professional Services"
+  ],
+  "local_regulations": [
+    "Local Authority Requirements",
+    "Building Control Regulations",
+    "Compliance Requirements",
+    "Environmental Regulations"
+  ],
+  "emergency_services": {
+    "fire_station_proximity": "Multiple stations within 5 miles",
+    "emergency_support": "24/7 coverage",
+    "backup_services": "Available on demand"
+  },
+  "waste_management": {
+    "services": [
+      "Commercial Waste Collection",
+      "Industrial Waste Collection",
+      "Recycling Services",
+      "Hazardous Waste Disposal",
+      "Waste Management Consulting"
+    ],
+    "collection_frequency": {
+      "standard": "Weekly",
+      "high_volume": "Daily",
+      "low_volume": "Bi-weekly"
+    },
+    "waste_types": [
+      "General Waste",
+      "Recyclables",
+      "Organic Waste",
+      "Construction Waste",
+      "Hazardous Materials"
+    ],
+    "compliance": [
+      "Waste Management Regulations",
+      "Environmental Protection Act",
+      "Duty of Care Requirements",
+      "Waste Hierarchy Compliance"
+    ],
+    "specialized_services": [
+      "Waste Audits",
+      "Waste Reduction Strategies",
+      "Sustainability Consulting",
+      "Zero Waste Initiatives"
+    ]
+  }
+},
+{
+  "id": "walton",
+  "name": "Walton",
+  "postcode": "",
+  "description": "Expert fire safety and protection services throughout Walton and surrounding areas, with specialized expertise in local premises.",
+  "coverage": {
+    "districts": [
+      "Walton"
+    ],
+    "response_times": {
+      "emergency": "1-2 hours",
+      "standard": "Same day",
+      "planned": "Scheduled"
+    }
+  },
+  "key_industries": [
+    "Retail",
+    "Healthcare",
+    "Education",
+    "Professional Services"
+  ],
+  "local_regulations": [
+    "Local Authority Requirements",
+    "Building Control Regulations",
+    "Compliance Requirements",
+    "Environmental Regulations"
+  ],
+  "emergency_services": {
+    "fire_station_proximity": "Multiple stations within 5 miles",
+    "emergency_support": "24/7 coverage",
+    "backup_services": "Available on demand"
+  },
+  "waste_management": {
+    "services": [
+      "Commercial Waste Collection",
+      "Industrial Waste Collection",
+      "Recycling Services",
+      "Hazardous Waste Disposal",
+      "Waste Management Consulting"
+    ],
+    "collection_frequency": {
+      "standard": "Weekly",
+      "high_volume": "Daily",
+      "low_volume": "Bi-weekly"
+    },
+    "waste_types": [
+      "General Waste",
+      "Recyclables",
+      "Organic Waste",
+      "Construction Waste",
+      "Hazardous Materials"
+    ],
+    "compliance": [
+      "Waste Management Regulations",
+      "Environmental Protection Act",
+      "Duty of Care Requirements",
+      "Waste Hierarchy Compliance"
+    ],
+    "specialized_services": [
+      "Waste Audits",
+      "Waste Reduction Strategies",
+      "Sustainability Consulting",
+      "Zero Waste Initiatives"
+    ]
+  }
+},
+{
+  "id": "wavertree",
+  "name": "Wavertree",
+  "postcode": "",
+  "description": "Expert fire safety and protection services throughout Wavertree and surrounding areas, with specialized expertise in local premises.",
+  "coverage": {
+    "districts": [
+      "Wavertree"
+    ],
+    "response_times": {
+      "emergency": "1-2 hours",
+      "standard": "Same day",
+      "planned": "Scheduled"
+    }
+  },
+  "key_industries": [
+    "Retail",
+    "Healthcare",
+    "Education",
+    "Professional Services"
+  ],
+  "local_regulations": [
+    "Local Authority Requirements",
+    "Building Control Regulations",
+    "Compliance Requirements",
+    "Environmental Regulations"
+  ],
+  "emergency_services": {
+    "fire_station_proximity": "Multiple stations within 5 miles",
+    "emergency_support": "24/7 coverage",
+    "backup_services": "Available on demand"
+  },
+  "waste_management": {
+    "services": [
+      "Commercial Waste Collection",
+      "Industrial Waste Collection",
+      "Recycling Services",
+      "Hazardous Waste Disposal",
+      "Waste Management Consulting"
+    ],
+    "collection_frequency": {
+      "standard": "Weekly",
+      "high_volume": "Daily",
+      "low_volume": "Bi-weekly"
+    },
+    "waste_types": [
+      "General Waste",
+      "Recyclables",
+      "Organic Waste",
+      "Construction Waste",
+      "Hazardous Materials"
+    ],
+    "compliance": [
+      "Waste Management Regulations",
+      "Environmental Protection Act",
+      "Duty of Care Requirements",
+      "Waste Hierarchy Compliance"
+    ],
+    "specialized_services": [
+      "Waste Audits",
+      "Waste Reduction Strategies",
+      "Sustainability Consulting",
+      "Zero Waste Initiatives"
+    ]
+  }
+},
+{
+  "id": "west-derby",
+  "name": "West Derby",
+  "postcode": "",
+  "description": "Expert fire safety and protection services throughout West Derby and surrounding areas, with specialized expertise in local premises.",
+  "coverage": {
+    "districts": [
+      "West Derby"
+    ],
+    "response_times": {
+      "emergency": "1-2 hours",
+      "standard": "Same day",
+      "planned": "Scheduled"
+    }
+  },
+  "key_industries": [
+    "Retail",
+    "Healthcare",
+    "Education",
+    "Professional Services"
+  ],
+  "local_regulations": [
+    "Local Authority Requirements",
+    "Building Control Regulations",
+    "Compliance Requirements",
+    "Environmental Regulations"
+  ],
+  "emergency_services": {
+    "fire_station_proximity": "Multiple stations within 5 miles",
+    "emergency_support": "24/7 coverage",
+    "backup_services": "Available on demand"
+  },
+  "waste_management": {
+    "services": [
+      "Commercial Waste Collection",
+      "Industrial Waste Collection",
+      "Recycling Services",
+      "Hazardous Waste Disposal",
+      "Waste Management Consulting"
+    ],
+    "collection_frequency": {
+      "standard": "Weekly",
+      "high_volume": "Daily",
+      "low_volume": "Bi-weekly"
+    },
+    "waste_types": [
+      "General Waste",
+      "Recyclables",
+      "Organic Waste",
+      "Construction Waste",
+      "Hazardous Materials"
+    ],
+    "compliance": [
+      "Waste Management Regulations",
+      "Environmental Protection Act",
+      "Duty of Care Requirements",
+      "Waste Hierarchy Compliance"
+    ],
+    "specialized_services": [
+      "Waste Audits",
+      "Waste Reduction Strategies",
+      "Sustainability Consulting",
+      "Zero Waste Initiatives"
+    ]
+  }
+},
+{
+  "id": "woolton",
+  "name": "Woolton",
+  "postcode": "",
+  "description": "Expert fire safety and protection services throughout Woolton and surrounding areas, with specialized expertise in local premises.",
+  "coverage": {
+    "districts": [
+      "Woolton"
+    ],
+    "response_times": {
+      "emergency": "1-2 hours",
+      "standard": "Same day",
+      "planned": "Scheduled"
+    }
+  },
+  "key_industries": [
+    "Retail",
+    "Healthcare",
+    "Education",
+    "Professional Services"
+  ],
+  "local_regulations": [
+    "Local Authority Requirements",
+    "Building Control Regulations",
+    "Compliance Requirements",
+    "Environmental Regulations"
+  ],
+  "emergency_services": {
+    "fire_station_proximity": "Multiple stations within 5 miles",
+    "emergency_support": "24/7 coverage",
+    "backup_services": "Available on demand"
+  },
+  "waste_management": {
+    "services": [
+      "Commercial Waste Collection",
+      "Industrial Waste Collection",
+      "Recycling Services",
+      "Hazardous Waste Disposal",
+      "Waste Management Consulting"
+    ],
+    "collection_frequency": {
+      "standard": "Weekly",
+      "high_volume": "Daily",
+      "low_volume": "Bi-weekly"
+    },
+    "waste_types": [
+      "General Waste",
+      "Recyclables",
+      "Organic Waste",
+      "Construction Waste",
+      "Hazardous Materials"
+    ],
+    "compliance": [
+      "Waste Management Regulations",
+      "Environmental Protection Act",
+      "Duty of Care Requirements",
+      "Waste Hierarchy Compliance"
+    ],
+    "specialized_services": [
+      "Waste Audits",
+      "Waste Reduction Strategies",
+      "Sustainability Consulting",
+      "Zero Waste Initiatives"
+    ]
+  }
 }
+]
