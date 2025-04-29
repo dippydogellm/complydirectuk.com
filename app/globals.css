@@ -90,4 +90,212 @@
 
 .animate-fade-in {
   animation: fadeIn 0.5s ease-out forwards;
+}
+
+/* Service Area Page Styles */
+.service-area-intro {
+  margin-bottom: 2rem;
+  padding: 1.5rem;
+  background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+  border-radius: 8px;
+}
+
+.service-area-intro h1 {
+  color: #2c3e50;
+  margin-bottom: 1rem;
+  font-size: 2.5rem;
+}
+
+.service-area-overview,
+.service-area-coverage,
+.service-area-response,
+.service-area-industries,
+.service-area-regulations,
+.service-area-contact {
+  margin: 2rem 0;
+  padding: 1.5rem;
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.service-area-overview h2,
+.service-area-coverage h2,
+.service-area-response h2,
+.service-area-industries h2,
+.service-area-regulations h2,
+.service-area-contact h2 {
+  color: #2c3e50;
+  margin-bottom: 1rem;
+  font-size: 1.8rem;
+}
+
+.service-area-overview ul,
+.service-area-coverage ul,
+.service-area-response ul,
+.service-area-industries ul,
+.service-area-regulations ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.service-area-overview li,
+.service-area-coverage li,
+.service-area-response li,
+.service-area-industries li,
+.service-area-regulations li {
+  padding: 0.5rem 0;
+  border-bottom: 1px solid #eee;
+}
+
+.service-area-overview li:last-child,
+.service-area-coverage li:last-child,
+.service-area-response li:last-child,
+.service-area-industries li:last-child,
+.service-area-regulations li:last-child {
+  border-bottom: none;
+}
+
+.service-area-contact {
+  background: #2c3e50;
+  color: white;
+}
+
+.service-area-contact h2 {
+  color: white;
+}
+
+.service-area-contact p {
+  margin: 0.5rem 0;
+}
+
+/* Area Links Organization */
+.area-links-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 1rem;
+  margin: 2rem 0;
+}
+
+.area-link {
+  display: block;
+  padding: 1rem;
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  text-align: center;
+  text-decoration: none;
+  color: #2c3e50;
+  transition: all 0.3s ease;
+}
+
+.area-link:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+  background: #f8f9fa;
+}
+
+.area-link.active {
+  background: #2c3e50;
+  color: white;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .service-area-intro h1 {
+    font-size: 2rem;
+  }
+  
+  .area-links-container {
+    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+  }
+}
+
+@media (max-width: 480px) {
+  .service-area-intro h1 {
+    font-size: 1.8rem;
+  }
+  
+  .area-links-container {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* Trade Training Courses Styles */
+.trade-training-section {
+  @apply py-12;
+}
+
+.trade-training-grid {
+  @apply grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8;
+}
+
+.trade-card {
+  @apply bg-white p-6 rounded-lg shadow-lg hover:shadow-xl transition-shadow;
+}
+
+.trade-card h3 {
+  @apply text-2xl font-bold mb-4 text-blue-600;
+}
+
+.trade-courses-list {
+  @apply list-disc pl-5 space-y-2;
+}
+
+.trade-courses-list li {
+  @apply text-gray-700;
+}
+
+.trade-card:hover {
+  @apply transform -translate-y-1;
+}
+
+/* Course Categories */
+.course-category {
+  @apply mb-8;
+}
+
+.course-category h2 {
+  @apply text-3xl font-bold mb-6 text-gray-800;
+}
+
+.course-category-grid {
+  @apply grid grid-cols-1 md:grid-cols-2 gap-6;
+}
+
+/* Course Details */
+.course-details {
+  @apply bg-gray-50 p-6 rounded-lg;
+}
+
+.course-details h4 {
+  @apply text-xl font-semibold mb-3 text-gray-800;
+}
+
+.course-details p {
+  @apply text-gray-600 mb-4;
+}
+
+.course-features {
+  @apply space-y-2;
+}
+
+.course-features li {
+  @apply flex items-center text-gray-700;
+}
+
+.course-features li::before {
+  content: "✓";
+  @apply text-green-500 mr-2;
+}
+
+/* Responsive Adjustments */
+@media (max-width: 768px) {
+  .trade-training-grid {
+    @apply grid-cols-1;
+  }
+  
+  .course-category-grid {
+    @apply grid-cols-1;
+  }
 } 

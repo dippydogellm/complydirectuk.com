@@ -1,6 +1,7 @@
 'use client'
 
-import { useParams } from 'next/navigation'
+import { Metadata } from 'next'
+import { useParams, notFound } from 'next/navigation'
 import Image from 'next/image'
 import Link from 'next/link'
 import { Container } from '@/components/Container'
@@ -11,9 +12,9 @@ import { AreaMap } from '@/components/AreaMap'
 import { AreaTestimonials } from '@/components/AreaTestimonials'
 import { AreaFAQ } from '@/components/AreaFAQ'
 import areaContent from '@/data/area-content.json'
-import servicesData from '@/data/services.json'
+import { mergedServicesData } from '@/data/merged-services'
 import locationsData from '@/data/locations.json'
-import { AreaContent, Area, LocationsData, ServicesData } from '@/types'
+import { AreaContent, Area, LocationsData } from '@/types'
 import { Service } from '@/types/services'
 
 export default function ServiceAreaPage() {
@@ -41,7 +42,7 @@ export default function ServiceAreaPage() {
   const areaName = area.title.split(' in ')[1] || areaId
 
   // Get all service categories
-  const categories = (servicesData as ServicesData).categories
+  const categories = (mergedServicesData as ServicesData).categories
 
   return (
     <>

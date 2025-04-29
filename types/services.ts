@@ -38,6 +38,22 @@ export interface TechnicalDetails {
     quarterly?: string;
     annual?: string;
   };
+  coverage?: {
+    districts: string[];
+    response_times: {
+      emergency: string;
+      standard: string;
+      planned: string;
+    };
+  };
+  local_regulations?: string[];
+  key_industries?: string[];
+  assessor_qualifications?: string[];
+  certifications?: string[];
+  equipment: string[];
+  prerequisites: string[];
+  assessment_method: string;
+  renewal_period: string;
 }
 
 export interface Service {
@@ -96,6 +112,21 @@ export interface Area {
 
 export interface ServicesData {
   categories: Category[];
+  area_content?: Record<string, {
+    title: string;
+    description: string;
+    content: {
+      intro: string;
+      local_expertise: string;
+      services_highlight: string;
+      training_services: string;
+      compliance: string;
+      testimonials: Array<{
+        quote: string;
+        author: string;
+      }>;
+    };
+  }>;
 }
 
 export interface LocationsData {

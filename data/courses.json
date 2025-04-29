@@ -1,0 +1,539 @@
+{
+  "courses": [
+    {
+      "id": "am2",
+      "name": "AM2 Assessment",
+      "description": "The AM2 assessment is the final practical assessment for electrical installation apprentices.",
+      "duration": "3-4 days",
+      "level": "Level 3",
+      "requirements": "Completion of Level 3 NVQ Diploma in Electrical Installation",
+      "content": [
+        "Safe isolation procedures",
+        "Inspection and testing",
+        "Fault finding and diagnosis",
+        "Installation of wiring systems",
+        "Final practical assessment"
+      ],
+      "price": "£450",
+      "certification": "City & Guilds AM2",
+      "next_dates": ["2024-05-15", "2024-06-12", "2024-07-10"]
+    },
+    {
+      "id": "electrical-installation",
+      "name": "City & Guilds 2365",
+      "description": "Level 2 & 3 Diploma in Electrical Installation",
+      "duration": "12-24 months",
+      "level": "Level 2 & 3",
+      "requirements": "No formal requirements for Level 2",
+      "content": [
+        "Electrical science",
+        "Installation of wiring systems",
+        "Inspection and testing",
+        "Health and safety",
+        "Electrical principles"
+      ],
+      "price": "£2,500",
+      "certification": "City & Guilds 2365",
+      "next_dates": ["2024-05-20", "2024-06-17", "2024-07-15"]
+    },
+    {
+      "id": "inspection-testing",
+      "name": "City & Guilds 2391",
+      "description": "Inspection and Testing of Electrical Installations",
+      "duration": "5 days",
+      "level": "Level 3",
+      "requirements": "Electrical installation experience",
+      "content": [
+        "Initial verification",
+        "Periodic inspection",
+        "Testing procedures",
+        "Documentation",
+        "Practical assessment"
+      ],
+      "price": "£600",
+      "certification": "City & Guilds 2391",
+      "next_dates": ["2024-05-25", "2024-06-22", "2024-07-20"]
+    },
+    {
+      "id": "18th-edition",
+      "name": "City & Guilds 2382",
+      "description": "18th Edition Wiring Regulations",
+      "duration": "3 days",
+      "level": "Level 3",
+      "requirements": "Basic electrical knowledge",
+      "content": [
+        "BS 7671 requirements",
+        "Electrical installation design",
+        "Selection and erection of equipment",
+        "Inspection and testing",
+        "Special locations"
+      ],
+      "price": "£350",
+      "certification": "City & Guilds 2382",
+      "next_dates": ["2024-05-30", "2024-06-27", "2024-07-25"]
+    },
+    {
+      "id": "electrical-maintenance",
+      "name": "City & Guilds 2396",
+      "description": "Design and Verification of Electrical Installations",
+      "duration": "5 days",
+      "level": "Level 4",
+      "requirements": "Level 3 electrical qualification",
+      "content": [
+        "Design principles",
+        "Verification methods",
+        "Documentation",
+        "Regulatory requirements"
+      ],
+      "price": "£650",
+      "certification": "City & Guilds 2396",
+      "next_dates": ["2024-05-20", "2024-06-17", "2024-07-15"]
+    },
+    {
+      "id": "electrical-testing",
+      "name": "City & Guilds 2391-52",
+      "description": "Initial Verification and Periodic Inspection",
+      "duration": "4 days",
+      "level": "Level 3",
+      "requirements": "Electrical installation experience",
+      "content": [
+        "Initial verification",
+        "Periodic inspection",
+        "Testing procedures",
+        "Documentation"
+      ],
+      "price": "£550",
+      "certification": "City & Guilds 2391-52",
+      "next_dates": ["2024-05-25", "2024-06-22", "2024-07-20"]
+    },
+    {
+      "id": "electrical-installation-2365",
+      "name": "City & Guilds 2365",
+      "description": "Level 2 Diploma in Electrical Installations",
+      "duration": "12 months",
+      "level": "Level 2",
+      "requirements": "No formal requirements",
+      "content": [
+        "Electrical science",
+        "Installation methods",
+        "Health and safety",
+        "Basic electrical principles"
+      ],
+      "price": "£1,200",
+      "certification": "City & Guilds 2365",
+      "next_dates": ["2024-05-30", "2024-06-27", "2024-07-25"]
+    },
+    {
+      "id": "electrical-installation-2365-2",
+      "name": "City & Guilds 2365 Level 2",
+      "description": "Level 2 Diploma in Electrical Installations (Buildings and Structures)",
+      "duration": "12 months",
+      "level": "Level 2",
+      "requirements": "No formal requirements",
+      "content": [
+        "Electrical installation theory",
+        "Health and safety",
+        "Electrical science",
+        "Installation of wiring systems",
+        "Basic electrical principles"
+      ],
+      "price": "£1,200",
+      "certification": "City & Guilds 2365",
+      "next_dates": ["2024-06-10", "2024-07-08", "2024-08-05"]
+    },
+    {
+      "id": "electrical-installation-2365-3",
+      "name": "City & Guilds 2365 Level 3",
+      "description": "Level 3 Diploma in Electrical Installations (Buildings and Structures)",
+      "duration": "12 months",
+      "level": "Level 3",
+      "requirements": "Level 2 electrical qualification",
+      "content": [
+        "Advanced electrical science",
+        "Inspection and testing",
+        "Fault diagnosis",
+        "Electrical design",
+        "Regulations and standards"
+      ],
+      "price": "£1,500",
+      "certification": "City & Guilds 2365",
+      "next_dates": ["2024-06-15", "2024-07-13", "2024-08-10"]
+    },
+    {
+      "id": "electrical-installation-2357",
+      "name": "City & Guilds 2357",
+      "description": "Level 3 NVQ Diploma in Installing Electrotechnical Systems",
+      "duration": "12-24 months",
+      "level": "Level 3",
+      "requirements": "Level 3 electrical qualification",
+      "content": [
+        "Installation methods",
+        "Inspection and testing",
+        "Fault finding",
+        "Health and safety"
+      ],
+      "price": "£1,800",
+      "certification": "City & Guilds 2357",
+      "next_dates": ["2024-06-10", "2024-07-08", "2024-08-05"]
+    },
+    {
+      "id": "electrical-installation-5357",
+      "name": "City & Guilds 5357",
+      "description": "Level 3 Diploma in Electrotechnical Technology",
+      "duration": "12 months",
+      "level": "Level 3",
+      "requirements": "Level 2 electrical qualification",
+      "content": [
+        "Electrical science",
+        "Installation methods",
+        "Inspection and testing",
+        "Health and safety"
+      ],
+      "price": "£1,600",
+      "certification": "City & Guilds 5357",
+      "next_dates": ["2024-06-15", "2024-07-13", "2024-08-10"]
+    },
+    {
+      "id": "electrical-installation-5357-2",
+      "name": "City & Guilds 5357 Level 2",
+      "description": "Level 2 Diploma in Electrotechnical Technology",
+      "duration": "12 months",
+      "level": "Level 2",
+      "requirements": "No formal requirements",
+      "content": [
+        "Basic electrical science",
+        "Installation methods",
+        "Health and safety",
+        "Electrical principles"
+      ],
+      "price": "£1,200",
+      "certification": "City & Guilds 5357",
+      "next_dates": ["2024-07-20", "2024-08-17", "2024-09-14"]
+    },
+    {
+      "id": "electrical-installation-5357-3",
+      "name": "City & Guilds 5357 Level 3",
+      "description": "Level 3 Diploma in Electrotechnical Technology",
+      "duration": "12 months",
+      "level": "Level 3",
+      "requirements": "Level 2 electrical qualification",
+      "content": [
+        "Advanced electrical science",
+        "Inspection and testing",
+        "Fault diagnosis",
+        "Electrical design"
+      ],
+      "price": "£1,500",
+      "certification": "City & Guilds 5357",
+      "next_dates": ["2024-07-25", "2024-08-22", "2024-09-19"]
+    },
+    {
+      "id": "electrical-installation-5357-4",
+      "name": "City & Guilds 5357 Level 4",
+      "description": "Level 4 Diploma in Electrotechnical Technology",
+      "duration": "12 months",
+      "level": "Level 4",
+      "requirements": "Level 3 electrical qualification",
+      "content": [
+        "Advanced electrical design",
+        "Project management",
+        "Quality assurance",
+        "Technical supervision"
+      ],
+      "price": "£1,800",
+      "certification": "City & Guilds 5357",
+      "next_dates": ["2024-07-30", "2024-08-27", "2024-09-24"]
+    },
+    {
+      "id": "electrical-installation-5357-5",
+      "name": "City & Guilds 5357 Level 5",
+      "description": "Level 5 Diploma in Electrotechnical Technology",
+      "duration": "12 months",
+      "level": "Level 5",
+      "requirements": "Level 4 electrical qualification",
+      "content": [
+        "Advanced project management",
+        "Technical consultancy",
+        "Quality management",
+        "Business development"
+      ],
+      "price": "£2,000",
+      "certification": "City & Guilds 5357",
+      "next_dates": ["2024-08-05", "2024-09-02", "2024-09-30"]
+    },
+    {
+      "id": "electrical-installation-5357-6",
+      "name": "City & Guilds 5357 Level 6",
+      "description": "Level 6 Diploma in Electrotechnical Technology",
+      "duration": "12 months",
+      "level": "Level 6",
+      "requirements": "Level 5 electrical qualification",
+      "content": [
+        "Strategic management",
+        "Technical leadership",
+        "Innovation and development",
+        "Business strategy"
+      ],
+      "price": "£2,200",
+      "certification": "City & Guilds 5357",
+      "next_dates": ["2024-08-10", "2024-09-07", "2024-10-05"]
+    },
+    {
+      "id": "electrical-installation-5357-7",
+      "name": "City & Guilds 5357 Level 7",
+      "description": "Level 7 Diploma in Electrotechnical Technology",
+      "duration": "12 months",
+      "level": "Level 7",
+      "requirements": "Level 6 electrical qualification",
+      "content": [
+        "Advanced strategic management",
+        "Technical innovation",
+        "Business transformation",
+        "Leadership and change"
+      ],
+      "price": "£2,400",
+      "certification": "City & Guilds 5357",
+      "next_dates": ["2024-08-15", "2024-09-12", "2024-10-10"]
+    },
+    {
+      "id": "electrical-installation-5357-8",
+      "name": "City & Guilds 5357 Level 8",
+      "description": "Level 8 Diploma in Electrotechnical Technology",
+      "duration": "12 months",
+      "level": "Level 8",
+      "requirements": "Level 7 electrical qualification",
+      "content": [
+        "Executive leadership",
+        "Strategic innovation",
+        "Business excellence",
+        "Global perspective"
+      ],
+      "price": "£2,600",
+      "certification": "City & Guilds 5357",
+      "next_dates": ["2024-08-20", "2024-09-17", "2024-10-15"]
+    },
+    {
+      "id": "inspection-testing-2391",
+      "name": "City & Guilds 2391",
+      "description": "Inspection and Testing of Electrical Installations",
+      "duration": "5 days",
+      "level": "Level 3",
+      "requirements": "Electrical installation experience",
+      "content": [
+        "Initial verification",
+        "Periodic inspection",
+        "Testing procedures",
+        "Documentation",
+        "Practical assessment"
+      ],
+      "price": "£600",
+      "certification": "City & Guilds 2391",
+      "next_dates": ["2024-06-20", "2024-07-18", "2024-08-15"]
+    },
+    {
+      "id": "18th-edition-2382",
+      "name": "City & Guilds 2382",
+      "description": "18th Edition Wiring Regulations",
+      "duration": "3 days",
+      "level": "Level 3",
+      "requirements": "Basic electrical knowledge",
+      "content": [
+        "BS 7671 requirements",
+        "Electrical installation design",
+        "Selection and erection of equipment",
+        "Inspection and testing",
+        "Special locations"
+      ],
+      "price": "£350",
+      "certification": "City & Guilds 2382",
+      "next_dates": ["2024-06-25", "2024-07-23", "2024-08-20"]
+    },
+    {
+      "id": "electrical-design-2396",
+      "name": "City & Guilds 2396",
+      "description": "Design and Verification of Electrical Installations",
+      "duration": "5 days",
+      "level": "Level 4",
+      "requirements": "Level 3 electrical qualification",
+      "content": [
+        "Design principles",
+        "Verification methods",
+        "Documentation",
+        "Regulatory requirements"
+      ],
+      "price": "£650",
+      "certification": "City & Guilds 2396",
+      "next_dates": ["2024-06-30", "2024-07-28", "2024-08-25"]
+    },
+    {
+      "id": "electrical-maintenance-2395",
+      "name": "City & Guilds 2395",
+      "description": "Periodic Inspection and Testing",
+      "duration": "4 days",
+      "level": "Level 3",
+      "requirements": "Electrical installation experience",
+      "content": [
+        "Periodic inspection",
+        "Testing procedures",
+        "Documentation",
+        "Practical assessment"
+      ],
+      "price": "£550",
+      "certification": "City & Guilds 2395",
+      "next_dates": ["2024-07-05", "2024-08-02", "2024-08-30"]
+    },
+    {
+      "id": "electrical-installation-2357",
+      "name": "City & Guilds 2357",
+      "description": "Level 3 NVQ Diploma in Installing Electrotechnical Systems",
+      "duration": "12-24 months",
+      "level": "Level 3",
+      "requirements": "Level 3 electrical qualification",
+      "content": [
+        "Installation methods",
+        "Inspection and testing",
+        "Fault finding",
+        "Health and safety"
+      ],
+      "price": "£1,800",
+      "certification": "City & Guilds 2357",
+      "next_dates": ["2024-07-10", "2024-08-07", "2024-09-04"]
+    },
+    {
+      "id": "electrical-installation-5357",
+      "name": "City & Guilds 5357",
+      "description": "Level 3 Diploma in Electrotechnical Technology",
+      "duration": "12 months",
+      "level": "Level 3",
+      "requirements": "Level 2 electrical qualification",
+      "content": [
+        "Electrical science",
+        "Installation methods",
+        "Inspection and testing",
+        "Health and safety"
+      ],
+      "price": "£1,600",
+      "certification": "City & Guilds 5357",
+      "next_dates": ["2024-07-15", "2024-08-12", "2024-09-09"]
+    },
+    {
+      "id": "electrical-installation-5357-2",
+      "name": "City & Guilds 5357 Level 2",
+      "description": "Level 2 Diploma in Electrotechnical Technology",
+      "duration": "12 months",
+      "level": "Level 2",
+      "requirements": "No formal requirements",
+      "content": [
+        "Basic electrical science",
+        "Installation methods",
+        "Health and safety",
+        "Electrical principles"
+      ],
+      "price": "£1,200",
+      "certification": "City & Guilds 5357",
+      "next_dates": ["2024-07-20", "2024-08-17", "2024-09-14"]
+    },
+    {
+      "id": "electrical-installation-5357-3",
+      "name": "City & Guilds 5357 Level 3",
+      "description": "Level 3 Diploma in Electrotechnical Technology",
+      "duration": "12 months",
+      "level": "Level 3",
+      "requirements": "Level 2 electrical qualification",
+      "content": [
+        "Advanced electrical science",
+        "Inspection and testing",
+        "Fault diagnosis",
+        "Electrical design"
+      ],
+      "price": "£1,500",
+      "certification": "City & Guilds 5357",
+      "next_dates": ["2024-07-25", "2024-08-22", "2024-09-19"]
+    },
+    {
+      "id": "electrical-installation-5357-4",
+      "name": "City & Guilds 5357 Level 4",
+      "description": "Level 4 Diploma in Electrotechnical Technology",
+      "duration": "12 months",
+      "level": "Level 4",
+      "requirements": "Level 3 electrical qualification",
+      "content": [
+        "Advanced electrical design",
+        "Project management",
+        "Quality assurance",
+        "Technical supervision"
+      ],
+      "price": "£1,800",
+      "certification": "City & Guilds 5357",
+      "next_dates": ["2024-07-30", "2024-08-27", "2024-09-24"]
+    },
+    {
+      "id": "electrical-installation-5357-5",
+      "name": "City & Guilds 5357 Level 5",
+      "description": "Level 5 Diploma in Electrotechnical Technology",
+      "duration": "12 months",
+      "level": "Level 5",
+      "requirements": "Level 4 electrical qualification",
+      "content": [
+        "Advanced project management",
+        "Technical consultancy",
+        "Quality management",
+        "Business development"
+      ],
+      "price": "£2,000",
+      "certification": "City & Guilds 5357",
+      "next_dates": ["2024-08-05", "2024-09-02", "2024-09-30"]
+    },
+    {
+      "id": "electrical-installation-5357-6",
+      "name": "City & Guilds 5357 Level 6",
+      "description": "Level 6 Diploma in Electrotechnical Technology",
+      "duration": "12 months",
+      "level": "Level 6",
+      "requirements": "Level 5 electrical qualification",
+      "content": [
+        "Strategic management",
+        "Technical leadership",
+        "Innovation and development",
+        "Business strategy"
+      ],
+      "price": "£2,200",
+      "certification": "City & Guilds 5357",
+      "next_dates": ["2024-08-10", "2024-09-07", "2024-10-05"]
+    },
+    {
+      "id": "electrical-installation-5357-7",
+      "name": "City & Guilds 5357 Level 7",
+      "description": "Level 7 Diploma in Electrotechnical Technology",
+      "duration": "12 months",
+      "level": "Level 7",
+      "requirements": "Level 6 electrical qualification",
+      "content": [
+        "Advanced strategic management",
+        "Technical innovation",
+        "Business transformation",
+        "Leadership and change"
+      ],
+      "price": "£2,400",
+      "certification": "City & Guilds 5357",
+      "next_dates": ["2024-08-15", "2024-09-12", "2024-10-10"]
+    },
+    {
+      "id": "electrical-installation-5357-8",
+      "name": "City & Guilds 5357 Level 8",
+      "description": "Level 8 Diploma in Electrotechnical Technology",
+      "duration": "12 months",
+      "level": "Level 8",
+      "requirements": "Level 7 electrical qualification",
+      "content": [
+        "Executive leadership",
+        "Strategic innovation",
+        "Business excellence",
+        "Global perspective"
+      ],
+      "price": "£2,600",
+      "certification": "City & Guilds 5357",
+      "next_dates": ["2024-08-20", "2024-09-17", "2024-10-15"]
+    }
+  ]
+} 

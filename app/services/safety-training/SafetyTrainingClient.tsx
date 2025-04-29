@@ -1,17 +1,82 @@
 'use client'
 
 import React from 'react';
-import { ServiceList } from '@/components/ServiceList';
+import { Container } from '@/components/Container';
 import ServiceAreas from '@/components/ServiceAreas';
 import Breadcrumbs from '@/components/Breadcrumbs';
-import servicesData from '@/data/services.json';
+import { mergedServicesData } from '@/data/merged-services';
 import { ServicesData } from '@/types/services';
+import { ServiceList } from '@/components/ServiceList';
 
 export default function SafetyTrainingClient() {
-  const safetyTrainingServices = (servicesData as ServicesData).categories.find(cat => cat.id === 'safety-training')?.services || [];
+  const safetyTrainingCategory = mergedServicesData.categories.find(cat => cat.id === 'safety-training');
+  const safetyTrainingServices = safetyTrainingCategory?.services || [];
+
+  const tradeTrainingCourses = [
+    {
+      id: 'electrical-safety',
+      name: 'Electrical Safety Training',
+      courses: [
+        'Basic Electrical Safety Awareness',
+        'Electrical Safety for Non-Electricians',
+        'High Voltage Safety Training',
+        'Electrical Risk Assessment',
+        'Electrical Maintenance Safety',
+        'Portable Appliance Testing (PAT) Training'
+      ]
+    },
+    {
+      id: 'construction-safety',
+      name: 'Construction Safety Training',
+      courses: [
+        'Site Safety Awareness',
+        'Working at Height Training',
+        'Scaffolding Safety',
+        'Excavation Safety',
+        'Confined Spaces Training',
+        'Construction Site Management'
+      ]
+    },
+    {
+      id: 'mechanical-safety',
+      name: 'Mechanical Safety Training',
+      courses: [
+        'Machine Safety Awareness',
+        'Lifting Operations Safety',
+        'Pressure Systems Safety',
+        'Mechanical Maintenance Safety',
+        'Forklift Safety Training',
+        'Crane Operations Safety'
+      ]
+    },
+    {
+      id: 'chemical-safety',
+      name: 'Chemical Safety Training',
+      courses: [
+        'COSHH Awareness',
+        'Chemical Handling Safety',
+        'Hazardous Substances Training',
+        'Chemical Spill Response',
+        'Laboratory Safety',
+        'Chemical Storage Safety'
+      ]
+    },
+    {
+      id: 'health-safety',
+      name: 'Health & Safety Training',
+      courses: [
+        'Health & Safety Awareness',
+        'Risk Assessment Training',
+        'Manual Handling Training',
+        'Fire Safety Training',
+        'First Aid Training',
+        'Health & Safety Management'
+      ]
+    }
+  ];
 
   return (
-    <div className="max-w-7xl mx-auto">
+    <Container>
       <Breadcrumbs className="mb-8" />
       
       <div className="mb-8">
@@ -32,10 +97,9 @@ export default function SafetyTrainingClient() {
       </section>
 
       {/* Service Areas */}
-      <section>
-        <h2 className="text-3xl font-bold mb-6">Available in These Areas</h2>
+      <section className="mb-16">
         <ServiceAreas />
       </section>
-    </div>
+    </Container>
   );
 } 

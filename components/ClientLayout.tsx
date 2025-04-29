@@ -3,15 +3,14 @@
 import Link from 'next/link'
 import Image from 'next/image'
 import MobileNav from '@/components/MobileNav'
-import servicesData from '@/data/services.json'
-import { ServicesData } from '@/types'
+import { mergedServicesData } from '@/data/merged-services'
 
 export default function ClientLayout({
   children,
 }: {
   children: React.ReactNode
 }) {
-  const categories = (servicesData as ServicesData).categories
+  const categories = mergedServicesData.categories
 
   return (
     <>

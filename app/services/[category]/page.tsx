@@ -2,7 +2,7 @@ import { Metadata } from 'next'
 import Link from 'next/link'
 import { Container } from '@/components/Container'
 import { ContactCTA } from '@/components/ContactCTA'
-import servicesData from '@/data/services.json'
+import { mergedServicesData } from '@/data/merged-services'
 import locationsData from '@/data/locations.json'
 
 interface Props {
@@ -12,7 +12,7 @@ interface Props {
 }
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
-  const category = servicesData.categories.find((c) => c.id === params.category)
+  const category = mergedServicesData.categories.find((c) => c.id === params.category)
 
   if (!category) {
     return {
@@ -28,7 +28,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 }
 
 export default function CategoryPage({ params }: Props) {
-  const category = servicesData.categories.find((c) => c.id === params.category)
+  const category = mergedServicesData.categories.find((c) => c.id === params.category)
 
   if (!category) {
     return (

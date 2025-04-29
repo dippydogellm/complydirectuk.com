@@ -4,7 +4,7 @@ import { PageHeader } from '@/components/PageHeader'
 import { ServiceList } from '@/components/ServiceList'
 import { ContactCTA } from '@/components/ContactCTA'
 import locationsData from '@/data/locations.json'
-import servicesData from '@/data/services.json'
+import { mergedServicesData } from '@/data/merged-services'
 
 export default function ServiceAreasPage() {
   return (
@@ -21,7 +21,7 @@ export default function ServiceAreasPage() {
             Our Services
           </h2>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-            {servicesData.categories.map((category) => (
+            {mergedServicesData.categories.map((category) => (
               <Link
                 key={category.id}
                 href={`/services/${category.id}`}
