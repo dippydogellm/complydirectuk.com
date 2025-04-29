@@ -103,7 +103,7 @@ export default function ServiceAreaPage({ params }: { params: { area: string; se
           Our {service.name.toLowerCase()} services cover all areas of {area.name}, including:
         </p>
         <ul>
-          {area.districts.map((district, index) => (
+          {area.coverage.districts.map((district, index) => (
             <li key={index}>{district}</li>
           ))}
         </ul>
@@ -130,7 +130,7 @@ export default function ServiceAreaPage({ params }: { params: { area: string; se
           For professional {service.name.toLowerCase()} services in {area.name}, contact us today:
         </p>
         <ul>
-          <li>Phone: {area.phone}</li>
+          <li>Phone: 07771055708</li>
           <li>Email: info@complydirectuk.com</li>
           <li>Emergency: 24/7 call-out service available</li>
         </ul>

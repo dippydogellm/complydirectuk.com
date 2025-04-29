@@ -2,7 +2,7 @@ import { notFound } from 'next/navigation'
 import Link from 'next/link'
 import { Metadata } from 'next'
 import locationsData from '@/data/locations.json'
-import servicesData from '@/data/services.json'
+import { mergedServicesData } from '@/data/merged-services'
 import areaContent from '@/data/area-content.json'
 
 // Define types for the data structures
@@ -112,7 +112,7 @@ export default function AreaPage({
         <section className="mb-12">
           <h2 className="text-3xl font-bold mb-8">Fire Protection Services in {area.name}</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-            {servicesData.categories[0].services.map((service) => (
+            {mergedServicesData.categories[0].services.map((service) => (
               <div key={service.id} className="service-card">
                 <h3 className="text-xl font-bold mb-4">{service.name}</h3>
                 <p className="mb-4">{service.description}</p>
@@ -134,7 +134,7 @@ export default function AreaPage({
             <p className="text-lg">{areaSpecificContent.content.training_services}</p>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-            {servicesData.categories[1].services.map((service) => (
+            {mergedServicesData.categories[1].services.map((service) => (
               <div key={service.id} className="service-card">
                 <h3 className="text-xl font-bold mb-4">{service.name}</h3>
                 <p className="mb-4">{service.description}</p>

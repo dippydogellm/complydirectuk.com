@@ -2,7 +2,7 @@
 
 import { useState } from 'react'
 import Link from 'next/link'
-import servicesData from '@/data/services.json'
+import { mergedServicesData } from '@/data/merged-services'
 
 export default function FeaturedServices() {
   const [isHovered, setIsHovered] = useState<string | null>(null)
@@ -11,7 +11,7 @@ export default function FeaturedServices() {
     <section className="container mx-auto px-4 py-16 bg-gray-50">
       <h2 className="text-3xl font-bold mb-8 text-center">Our Services</h2>
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-        {servicesData.categories.map((category) => (
+        {mergedServicesData.categories.map((category) => (
           <div
             key={category.id}
             className="service-card"

@@ -4,7 +4,7 @@ import { useParams } from 'next/navigation'
 import Link from 'next/link'
 import Breadcrumbs from '@/components/Breadcrumbs'
 import locationsData from '@/data/locations.json'
-import servicesData from '@/data/services.json'
+import { mergedServicesData } from '@/data/merged-services'
 
 // Define types for the data structures
 type LocationArea = {
@@ -55,7 +55,7 @@ type ServicesData = {
 
 // Type assertions for the imported JSON
 const typedLocationsData = locationsData as LocationsData;
-const typedServicesData = servicesData as ServicesData;
+const typedServicesData = mergedServicesData as ServicesData;
 
 export default function ServicePage() {
   const { area, service } = useParams()

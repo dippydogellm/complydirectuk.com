@@ -15,7 +15,7 @@ import areaContent from '@/data/area-content.json'
 import { mergedServicesData } from '@/data/merged-services'
 import locationsData from '@/data/locations.json'
 import { AreaContent, Area, LocationsData } from '@/types'
-import { Service } from '@/types/services'
+import { Service, ServicesData } from '@/types/services'
 
 export default function ServiceAreaPage() {
   const params = useParams()

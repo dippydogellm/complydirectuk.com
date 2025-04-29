@@ -30,7 +30,11 @@ export const mergedServicesData: ServicesData = {
               "Wireless fire alarms",
               "Aspirating smoke detection",
               "Beam detection systems"
-            ]
+            ],
+            "equipment": [],
+            "prerequisites": [],
+            "assessment_method": "",
+            "renewal_period": ""
           },
           "service_process": [
             "Site survey and risk assessment",
@@ -62,7 +66,11 @@ export const mergedServicesData: ServicesData = {
               "CO2",
               "Powder",
               "Wet Chemical"
-            ]
+            ],
+            "equipment": [],
+            "prerequisites": [],
+            "assessment_method": "",
+            "renewal_period": ""
           },
           "service_process": [
             "Initial assessment",
@@ -87,7 +95,11 @@ export const mergedServicesData: ServicesData = {
             "standards": [
               "BS 5266-1:2016",
               "BS EN 1838"
-            ]
+            ],
+            "equipment": [],
+            "prerequisites": [],
+            "assessment_method": "",
+            "renewal_period": ""
           },
           "service_process": [
             "Site survey",
@@ -112,7 +124,11 @@ export const mergedServicesData: ServicesData = {
             "standards": [
               "Regulatory Reform (Fire Safety) Order 2005",
               "BS 9999:2017"
-            ]
+            ],
+            "equipment": [],
+            "prerequisites": [],
+            "assessment_method": "",
+            "renewal_period": ""
           },
           "service_process": [
             "Initial consultation",
@@ -137,7 +153,11 @@ export const mergedServicesData: ServicesData = {
             "standards": [
               "BS 476-22",
               "BS EN 1634-1"
-            ]
+            ],
+            "equipment": [],
+            "prerequisites": [],
+            "assessment_method": "",
+            "renewal_period": ""
           },
           "service_process": [
             "Initial inspection",
@@ -168,7 +188,11 @@ export const mergedServicesData: ServicesData = {
               "IFCC Level 4",
               "IFCC Level 5",
               "NEBOSH Fire Safety"
-            ]
+            ],
+            "equipment": [],
+            "prerequisites": [],
+            "assessment_method": "",
+            "renewal_period": ""
           },
           "service_process": [
             "Initial consultation",
@@ -201,7 +225,11 @@ export const mergedServicesData: ServicesData = {
               "Pre-action systems",
               "Deluge systems",
               "ESFR systems"
-            ]
+            ],
+            "equipment": [],
+            "prerequisites": [],
+            "assessment_method": "",
+            "renewal_period": ""
           },
           "service_process": [
             "Site survey",
@@ -234,7 +262,11 @@ export const mergedServicesData: ServicesData = {
               "Novec 1230",
               "Inergen systems",
               "Water mist systems"
-            ]
+            ],
+            "equipment": [],
+            "prerequisites": [],
+            "assessment_method": "",
+            "renewal_period": ""
           },
           "service_process": [
             "Risk assessment",
@@ -260,7 +292,11 @@ export const mergedServicesData: ServicesData = {
               "Building Regulations",
               "BS 9999:2017",
               "BS 476"
-            ]
+            ],
+            "equipment": [],
+            "prerequisites": [],
+            "assessment_method": "",
+            "renewal_period": ""
           },
           "service_process": [
             "Initial survey",
@@ -286,7 +322,11 @@ export const mergedServicesData: ServicesData = {
               "BS 5839-8",
               "BS 5266",
               "BS 5499"
-            ]
+            ],
+            "equipment": [],
+            "prerequisites": [],
+            "assessment_method": "",
+            "renewal_period": ""
           },
           "service_process": [
             "System design",
@@ -318,7 +358,11 @@ export const mergedServicesData: ServicesData = {
             "standards": [
               "BS 7671",
               "IET Wiring Regulations"
-            ]
+            ],
+            "equipment": [],
+            "prerequisites": [],
+            "assessment_method": "",
+            "renewal_period": ""
           },
           "service_process": [
             "Site survey",
@@ -343,7 +387,11 @@ export const mergedServicesData: ServicesData = {
             "standards": [
               "BS 7671",
               "IET Code of Practice"
-            ]
+            ],
+            "equipment": [],
+            "prerequisites": [],
+            "assessment_method": "",
+            "renewal_period": ""
           },
           "service_process": [
             "Initial assessment",
@@ -368,7 +416,11 @@ export const mergedServicesData: ServicesData = {
             "standards": [
               "BS 7671",
               "BS 5266"
-            ]
+            ],
+            "equipment": [],
+            "prerequisites": [],
+            "assessment_method": "",
+            "renewal_period": ""
           },
           "service_process": [
             "Design consultation",
@@ -393,7 +445,11 @@ export const mergedServicesData: ServicesData = {
             "standards": [
               "BS 8418",
               "BS EN 50131"
-            ]
+            ],
+            "equipment": [],
+            "prerequisites": [],
+            "assessment_method": "",
+            "renewal_period": ""
           },
           "service_process": [
             "Security assessment",
@@ -418,7 +474,11 @@ export const mergedServicesData: ServicesData = {
             "standards": [
               "BS 6701",
               "ISO/IEC 11801"
-            ]
+            ],
+            "equipment": [],
+            "prerequisites": [],
+            "assessment_method": "",
+            "renewal_period": ""
           },
           "service_process": [
             "Site survey",
@@ -443,7 +503,11 @@ export const mergedServicesData: ServicesData = {
             "standards": [
               "BS 7671",
               "IET Guidance"
-            ]
+            ],
+            "equipment": [],
+            "prerequisites": [],
+            "assessment_method": "",
+            "renewal_period": ""
           },
           "service_process": [
             "Initial assessment",
@@ -468,7 +532,11 @@ export const mergedServicesData: ServicesData = {
             "standards": [
               "BS EN 61439",
               "BS 7671"
-            ]
+            ],
+            "equipment": [],
+            "prerequisites": [],
+            "assessment_method": "",
+            "renewal_period": ""
           },
           "service_process": [
             "System design",
@@ -493,7 +561,11 @@ export const mergedServicesData: ServicesData = {
             "standards": [
               "BS EN 60034",
               "BS 7698"
-            ]
+            ],
+            "equipment": [],
+            "prerequisites": [],
+            "assessment_method": "",
+            "renewal_period": ""
           },
           "service_process": [
             "Site survey",
@@ -518,7 +590,11 @@ export const mergedServicesData: ServicesData = {
             "standards": [
               "BS EN 62040",
               "IEC 62040"
-            ]
+            ],
+            "equipment": [],
+            "prerequisites": [],
+            "assessment_method": "",
+            "renewal_period": ""
           },
           "service_process": [
             "Load assessment",
@@ -543,7 +619,11 @@ export const mergedServicesData: ServicesData = {
             "standards": [
               "BS EN 60204",
               "IEC 60034"
-            ]
+            ],
+            "equipment": [],
+            "prerequisites": [],
+            "assessment_method": "",
+            "renewal_period": ""
           },
           "service_process": [
             "System design",
@@ -568,7 +648,11 @@ export const mergedServicesData: ServicesData = {
             "standards": [
               "IEC 62386",
               "BS EN 60598"
-            ]
+            ],
+            "equipment": [],
+            "prerequisites": [],
+            "assessment_method": "",
+            "renewal_period": ""
           },
           "service_process": [
             "System design",
@@ -593,7 +677,11 @@ export const mergedServicesData: ServicesData = {
             "standards": [
               "BS 7671",
               "IET Guidance"
-            ]
+            ],
+            "equipment": [],
+            "prerequisites": [],
+            "assessment_method": "",
+            "renewal_period": ""
           },
           "service_process": [
             "Initial consultation",
@@ -618,7 +706,11 @@ export const mergedServicesData: ServicesData = {
             "standards": [
               "BS EN 60831",
               "IEC 60831"
-            ]
+            ],
+            "equipment": [],
+            "prerequisites": [],
+            "assessment_method": "",
+            "renewal_period": ""
           },
           "service_process": [
             "Load analysis",
@@ -643,7 +735,11 @@ export const mergedServicesData: ServicesData = {
             "standards": [
               "BS 7430",
               "BS EN 62305"
-            ]
+            ],
+            "equipment": [],
+            "prerequisites": [],
+            "assessment_method": "",
+            "renewal_period": ""
           },
           "service_process": [
             "Site survey",
@@ -668,7 +764,11 @@ export const mergedServicesData: ServicesData = {
             "standards": [
               "BS 7671",
               "HSE Guidance"
-            ]
+            ],
+            "equipment": [],
+            "prerequisites": [],
+            "assessment_method": "",
+            "renewal_period": ""
           },
           "service_process": [
             "Initial assessment",
@@ -693,7 +793,11 @@ export const mergedServicesData: ServicesData = {
             "standards": [
               "BS EN 62446",
               "MCS Standards"
-            ]
+            ],
+            "equipment": [],
+            "prerequisites": [],
+            "assessment_method": "",
+            "renewal_period": ""
           },
           "service_process": [
             "Site survey",
@@ -718,7 +822,11 @@ export const mergedServicesData: ServicesData = {
             "standards": [
               "BS EN 61851",
               "IEC 62196"
-            ]
+            ],
+            "equipment": [],
+            "prerequisites": [],
+            "assessment_method": "",
+            "renewal_period": ""
           },
           "service_process": [
             "Site survey",
@@ -743,7 +851,11 @@ export const mergedServicesData: ServicesData = {
             "standards": [
               "BS EN 15232",
               "ISO 16484"
-            ]
+            ],
+            "equipment": [],
+            "prerequisites": [],
+            "assessment_method": "",
+            "renewal_period": ""
           },
           "service_process": [
             "System design",
@@ -768,7 +880,11 @@ export const mergedServicesData: ServicesData = {
             "standards": [
               "BS 5839",
               "BS 7671"
-            ]
+            ],
+            "equipment": [],
+            "prerequisites": [],
+            "assessment_method": "",
+            "renewal_period": ""
           },
           "service_process": [
             "System design",
@@ -793,7 +909,11 @@ export const mergedServicesData: ServicesData = {
             "standards": [
               "BS 5266",
               "BS 7671"
-            ]
+            ],
+            "equipment": [],
+            "prerequisites": [],
+            "assessment_method": "",
+            "renewal_period": ""
           },
           "service_process": [
             "System design",
@@ -818,7 +938,11 @@ export const mergedServicesData: ServicesData = {
             "standards": [
               "BS EN 60204",
               "IEC 61131"
-            ]
+            ],
+            "equipment": [],
+            "prerequisites": [],
+            "assessment_method": "",
+            "renewal_period": ""
           },
           "service_process": [
             "System design",
@@ -843,7 +967,11 @@ export const mergedServicesData: ServicesData = {
             "standards": [
               "BS EN 50160",
               "IEC 61000"
-            ]
+            ],
+            "equipment": [],
+            "prerequisites": [],
+            "assessment_method": "",
+            "renewal_period": ""
           },
           "service_process": [
             "Initial assessment",
@@ -868,7 +996,11 @@ export const mergedServicesData: ServicesData = {
             "standards": [
               "BS EN 61010",
               "ISO 17025"
-            ]
+            ],
+            "equipment": [],
+            "prerequisites": [],
+            "assessment_method": "",
+            "renewal_period": ""
           },
           "service_process": [
             "Equipment selection",
@@ -893,7 +1025,11 @@ export const mergedServicesData: ServicesData = {
             "standards": [
               "City & Guilds",
               "EAL"
-            ]
+            ],
+            "equipment": [],
+            "prerequisites": [],
+            "assessment_method": "",
+            "renewal_period": ""
           },
           "service_process": [
             "Training needs analysis",
@@ -918,7 +1054,11 @@ export const mergedServicesData: ServicesData = {
             "standards": [
               "BS 7671",
               "ISO 50001"
-            ]
+            ],
+            "equipment": [],
+            "prerequisites": [],
+            "assessment_method": "",
+            "renewal_period": ""
           },
           "service_process": [
             "Initial assessment",
@@ -943,7 +1083,11 @@ export const mergedServicesData: ServicesData = {
             "standards": [
               "PRINCE2",
               "APM"
-            ]
+            ],
+            "equipment": [],
+            "prerequisites": [],
+            "assessment_method": "",
+            "renewal_period": ""
           },
           "service_process": [
             "Initial consultation",
@@ -969,7 +1113,11 @@ export const mergedServicesData: ServicesData = {
               "MCS Standards",
               "BS EN 62446",
               "DNO Requirements"
-            ]
+            ],
+            "equipment": [],
+            "prerequisites": [],
+            "assessment_method": "",
+            "renewal_period": ""
           },
           "service_process": [
             "Site survey",
@@ -995,7 +1143,11 @@ export const mergedServicesData: ServicesData = {
               "MCS Standards",
               "BS EN 61400",
               "DNO Requirements"
-            ]
+            ],
+            "equipment": [],
+            "prerequisites": [],
+            "assessment_method": "",
+            "renewal_period": ""
           },
           "service_process": [
             "Site assessment",
@@ -1021,7 +1173,11 @@ export const mergedServicesData: ServicesData = {
               "BS EN 62619",
               "IEC 62619",
               "DNO Requirements"
-            ]
+            ],
+            "equipment": [],
+            "prerequisites": [],
+            "assessment_method": "",
+            "renewal_period": ""
           },
           "service_process": [
             "Load assessment",
@@ -1047,7 +1203,11 @@ export const mergedServicesData: ServicesData = {
               "MCS Standards",
               "BS EN 14511",
               "DNO Requirements"
-            ]
+            ],
+            "equipment": [],
+            "prerequisites": [],
+            "assessment_method": "",
+            "renewal_period": ""
           },
           "service_process": [
             "Site survey",
@@ -1073,7 +1233,11 @@ export const mergedServicesData: ServicesData = {
               "BS 7671",
               "BS EN Standards",
               "IEC Standards"
-            ]
+            ],
+            "equipment": [],
+            "prerequisites": [],
+            "assessment_method": "",
+            "renewal_period": ""
           },
           "service_process": [
             "Product selection",
@@ -1099,7 +1263,11 @@ export const mergedServicesData: ServicesData = {
               "BS EN 60598",
               "BS EN 62031",
               "IEC 62471"
-            ]
+            ],
+            "equipment": [],
+            "prerequisites": [],
+            "assessment_method": "",
+            "renewal_period": ""
           },
           "service_process": [
             "Product selection",
@@ -1125,7 +1293,11 @@ export const mergedServicesData: ServicesData = {
               "BS EN 60947",
               "IEC 60947",
               "BS 7671"
-            ]
+            ],
+            "equipment": [],
+            "prerequisites": [],
+            "assessment_method": "",
+            "renewal_period": ""
           },
           "service_process": [
             "Product selection",
@@ -1151,7 +1323,11 @@ export const mergedServicesData: ServicesData = {
               "BS EN 61439",
               "IEC 61439",
               "BS 7671"
-            ]
+            ],
+            "equipment": [],
+            "prerequisites": [],
+            "assessment_method": "",
+            "renewal_period": ""
           },
           "service_process": [
             "Product selection",
@@ -1177,7 +1353,11 @@ export const mergedServicesData: ServicesData = {
               "BS EN 61008",
               "BS EN 61009",
               "BS 7671"
-            ]
+            ],
+            "equipment": [],
+            "prerequisites": [],
+            "assessment_method": "",
+            "renewal_period": ""
           },
           "service_process": [
             "Product selection",
@@ -1203,7 +1383,11 @@ export const mergedServicesData: ServicesData = {
               "MCS Standards",
               "BS EN Standards",
               "IEC Standards"
-            ]
+            ],
+            "equipment": [],
+            "prerequisites": [],
+            "assessment_method": "",
+            "renewal_period": ""
           },
           "service_process": [
             "Product selection",
@@ -1229,7 +1413,11 @@ export const mergedServicesData: ServicesData = {
               "BS 7671",
               "KNX Standards",
               "Zigbee Alliance"
-            ]
+            ],
+            "equipment": [],
+            "prerequisites": [],
+            "assessment_method": "",
+            "renewal_period": ""
           },
           "service_process": [
             "System design",
@@ -1255,7 +1443,11 @@ export const mergedServicesData: ServicesData = {
               "Uptime Institute",
               "TIA-942",
               "BS 7671"
-            ]
+            ],
+            "equipment": [],
+            "prerequisites": [],
+            "assessment_method": "",
+            "renewal_period": ""
           },
           "service_process": [
             "Site assessment",
@@ -1281,7 +1473,11 @@ export const mergedServicesData: ServicesData = {
               "IEC 61131",
               "BS EN 60204",
               "ISO 13849"
-            ]
+            ],
+            "equipment": [],
+            "prerequisites": [],
+            "assessment_method": "",
+            "renewal_period": ""
           },
           "service_process": [
             "System design",
@@ -1307,7 +1503,11 @@ export const mergedServicesData: ServicesData = {
               "BS EN 61010",
               "ISO 17025",
               "UKAS"
-            ]
+            ],
+            "equipment": [],
+            "prerequisites": [],
+            "assessment_method": "",
+            "renewal_period": ""
           },
           "service_process": [
             "Equipment selection",
@@ -1333,7 +1533,11 @@ export const mergedServicesData: ServicesData = {
               "BS EN 50085",
               "BS EN 61386",
               "BS 7671"
-            ]
+            ],
+            "equipment": [],
+            "prerequisites": [],
+            "assessment_method": "",
+            "renewal_period": ""
           },
           "service_process": [
             "System design",
@@ -1359,7 +1563,11 @@ export const mergedServicesData: ServicesData = {
               "HSE Guidance",
               "BS 7671",
               "City & Guilds"
-            ]
+            ],
+            "equipment": [],
+            "prerequisites": [],
+            "assessment_method": "",
+            "renewal_period": ""
           },
           "service_process": [
             "Training needs analysis",
@@ -1385,7 +1593,11 @@ export const mergedServicesData: ServicesData = {
               "BS 7671",
               "Electricity at Work Regulations",
               "HSE Guidance"
-            ]
+            ],
+            "equipment": [],
+            "prerequisites": [],
+            "assessment_method": "",
+            "renewal_period": ""
           },
           "service_process": [
             "Initial assessment",
@@ -1411,7 +1623,11 @@ export const mergedServicesData: ServicesData = {
               "ISO 50001",
               "BS EN 16001",
               "BS 7671"
-            ]
+            ],
+            "equipment": [],
+            "prerequisites": [],
+            "assessment_method": "",
+            "renewal_period": ""
           },
           "service_process": [
             "Initial assessment",
@@ -1437,7 +1653,11 @@ export const mergedServicesData: ServicesData = {
               "BS 7671",
               "IET Guidance",
               "HSE Guidance"
-            ]
+            ],
+            "equipment": [],
+            "prerequisites": [],
+            "assessment_method": "",
+            "renewal_period": ""
           },
           "service_process": [
             "Contract development",
@@ -1463,7 +1683,11 @@ export const mergedServicesData: ServicesData = {
               "BS 7671",
               "IET Guidance",
               "Project Management"
-            ]
+            ],
+            "equipment": [],
+            "prerequisites": [],
+            "assessment_method": "",
+            "renewal_period": ""
           },
           "service_process": [
             "Initial consultation",
@@ -1502,7 +1726,11 @@ export const mergedServicesData: ServicesData = {
               "monthly": "Full system test",
               "quarterly": "Comprehensive maintenance",
               "annual": "Full system inspection"
-            }
+            },
+            "equipment": [],
+            "prerequisites": [],
+            "assessment_method": "",
+            "renewal_period": ""
           },
           "service_process": [
             "Initial consultation",
@@ -1530,7 +1758,11 @@ export const mergedServicesData: ServicesData = {
               "Electricity at Work Regulations"
             ],
             "inspection_frequency": "Based on property type and usage",
-            "testing_frequency": "As per BS 7671 requirements"
+            "testing_frequency": "As per BS 7671 requirements",
+            "equipment": [],
+            "prerequisites": [],
+            "assessment_method": "",
+            "renewal_period": ""
           },
           "service_process": [
             "Initial assessment",
@@ -1558,7 +1790,11 @@ export const mergedServicesData: ServicesData = {
               "Electricity at Work Regulations"
             ],
             "inspection_frequency": "As per BS 7671 requirements",
-            "testing_frequency": "As per BS 7671 requirements"
+            "testing_frequency": "As per BS 7671 requirements",
+            "equipment": [],
+            "prerequisites": [],
+            "assessment_method": "",
+            "renewal_period": ""
           },
           "service_process": [
             "Initial assessment",
@@ -1614,7 +1850,11 @@ export const mergedServicesData: ServicesData = {
               "IFSM Level 8 Diploma in Fire Safety Management"
             ],
             "duration": "1-3 days",
-            "max_participants": "20"
+            "max_participants": "20",
+            "equipment": [],
+            "prerequisites": [],
+            "assessment_method": "",
+            "renewal_period": ""
           }
         },
         {
@@ -1656,7 +1896,11 @@ export const mergedServicesData: ServicesData = {
               "City & Guilds 2391-55 Periodic Inspection"
             ],
             "duration": "1-5 days",
-            "max_participants": "15"
+            "max_participants": "15",
+            "equipment": [],
+            "prerequisites": [],
+            "assessment_method": "",
+            "renewal_period": ""
           }
         },
         {
@@ -1698,7 +1942,11 @@ export const mergedServicesData: ServicesData = {
               "CITB Manual Handling"
             ],
             "duration": "1-5 days",
-            "max_participants": "20"
+            "max_participants": "20",
+            "equipment": [],
+            "prerequisites": [],
+            "assessment_method": "",
+            "renewal_period": ""
           }
         },
         {
@@ -1740,7 +1988,11 @@ export const mergedServicesData: ServicesData = {
               "IOSH Managing Safely in Manufacturing"
             ],
             "duration": "1-5 days",
-            "max_participants": "20"
+            "max_participants": "20",
+            "equipment": [],
+            "prerequisites": [],
+            "assessment_method": "",
+            "renewal_period": ""
           }
         },
         {
@@ -1782,7 +2034,11 @@ export const mergedServicesData: ServicesData = {
               "CITB First Aid"
             ],
             "duration": "1-5 days",
-            "max_participants": "15"
+            "max_participants": "15",
+            "equipment": [],
+            "prerequisites": [],
+            "assessment_method": "",
+            "renewal_period": ""
           }
         },
         {
@@ -1824,7 +2080,11 @@ export const mergedServicesData: ServicesData = {
               "NEBOSH Construction Certificate"
             ],
             "duration": "2-5 days",
-            "max_participants": "15"
+            "max_participants": "15",
+            "equipment": [],
+            "prerequisites": [],
+            "assessment_method": "",
+            "renewal_period": ""
           }
         },
         {
@@ -1866,7 +2126,11 @@ export const mergedServicesData: ServicesData = {
               "RTITB Reach Truck Operator"
             ],
             "duration": "1-3 days",
-            "max_participants": "20"
+            "max_participants": "20",
+            "equipment": [],
+            "prerequisites": [],
+            "assessment_method": "",
+            "renewal_period": ""
           }
         },
         {
@@ -1908,7 +2172,11 @@ export const mergedServicesData: ServicesData = {
               "HSE Emergency First Aid at Work Annual Refresher"
             ],
             "duration": "1-3 days",
-            "max_participants": "20"
+            "max_participants": "20",
+            "equipment": [],
+            "prerequisites": [],
+            "assessment_method": "",
+            "renewal_period": ""
           }
         },
         {
@@ -1950,7 +2218,11 @@ export const mergedServicesData: ServicesData = {
               "CIWEM Water Resources Management"
             ],
             "duration": "1-3 days",
-            "max_participants": "20"
+            "max_participants": "20",
+            "equipment": [],
+            "prerequisites": [],
+            "assessment_method": "",
+            "renewal_period": ""
           }
         },
         {
@@ -1992,7 +2264,11 @@ export const mergedServicesData: ServicesData = {
               "Exida SIL Verification Manager"
             ],
             "duration": "2-5 days",
-            "max_participants": "15"
+            "max_participants": "15",
+            "equipment": [],
+            "prerequisites": [],
+            "assessment_method": "",
+            "renewal_period": ""
           }
         }
       ]
@@ -2017,7 +2293,11 @@ export const mergedServicesData: ServicesData = {
             "standards": [
               "RICS Home Survey Standard",
               "Building Regulations"
-            ]
+            ],
+            "equipment": [],
+            "prerequisites": [],
+            "assessment_method": "",
+            "renewal_period": ""
           },
           "service_process": [
             "Initial consultation",
@@ -2041,7 +2321,11 @@ export const mergedServicesData: ServicesData = {
           "technical_details": {
             "standards": [
               "RICS Home Survey Standard"
-            ]
+            ],
+            "equipment": [],
+            "prerequisites": [],
+            "assessment_method": "",
+            "renewal_period": ""
           },
           "service_process": [
             "Property inspection",
@@ -2073,7 +2357,11 @@ export const mergedServicesData: ServicesData = {
             "standards": [
               "Eurocodes",
               "Building Regulations"
-            ]
+            ],
+            "equipment": [],
+            "prerequisites": [],
+            "assessment_method": "",
+            "renewal_period": ""
           },
           "service_process": [
             "Site inspection",
@@ -2106,7 +2394,11 @@ export const mergedServicesData: ServicesData = {
               "BS EN 62676",
               "BS 8418",
               "IEC 62676"
-            ]
+            ],
+            "equipment": [],
+            "prerequisites": [],
+            "assessment_method": "",
+            "renewal_period": ""
           },
           "service_process": [
             "Site survey",
@@ -2132,7 +2424,11 @@ export const mergedServicesData: ServicesData = {
               "BS EN 60839",
               "BS 7273",
               "IEC 60839"
-            ]
+            ],
+            "equipment": [],
+            "prerequisites": [],
+            "assessment_method": "",
+            "renewal_period": ""
           },
           "service_process": [
             "System design",
@@ -2158,7 +2454,11 @@ export const mergedServicesData: ServicesData = {
               "BS EN 50131",
               "PD 6662",
               "IEC 60839"
-            ]
+            ],
+            "equipment": [],
+            "prerequisites": [],
+            "assessment_method": "",
+            "renewal_period": ""
           },
           "service_process": [
             "Site survey",
@@ -2184,7 +2484,11 @@ export const mergedServicesData: ServicesData = {
               "BS 5839",
               "BS EN 54",
               "IEC 60839"
-            ]
+            ],
+            "equipment": [],
+            "prerequisites": [],
+            "assessment_method": "",
+            "renewal_period": ""
           },
           "service_process": [
             "System design",
@@ -2210,7 +2514,11 @@ export const mergedServicesData: ServicesData = {
               "BS EN 60598",
               "BS 5266",
               "IEC 60598"
-            ]
+            ],
+            "equipment": [],
+            "prerequisites": [],
+            "assessment_method": "",
+            "renewal_period": ""
           },
           "service_process": [
             "Site survey",
@@ -2236,7 +2544,11 @@ export const mergedServicesData: ServicesData = {
               "BS EN 13241",
               "BS 7671",
               "IEC 60364"
-            ]
+            ],
+            "equipment": [],
+            "prerequisites": [],
+            "assessment_method": "",
+            "renewal_period": ""
           },
           "service_process": [
             "Site survey",
@@ -2262,7 +2574,11 @@ export const mergedServicesData: ServicesData = {
               "BS EN 1317",
               "BS 7671",
               "IEC 60364"
-            ]
+            ],
+            "equipment": [],
+            "prerequisites": [],
+            "assessment_method": "",
+            "renewal_period": ""
           },
           "service_process": [
             "Site survey",
@@ -2288,7 +2604,11 @@ export const mergedServicesData: ServicesData = {
               "BS 8418",
               "BS EN 50136",
               "IEC 60839"
-            ]
+            ],
+            "equipment": [],
+            "prerequisites": [],
+            "assessment_method": "",
+            "renewal_period": ""
           },
           "service_process": [
             "System setup",
@@ -2314,7 +2634,11 @@ export const mergedServicesData: ServicesData = {
               "BS 7499",
               "BS 7858",
               "SIA Standards"
-            ]
+            ],
+            "equipment": [],
+            "prerequisites": [],
+            "assessment_method": "",
+            "renewal_period": ""
           },
           "service_process": [
             "Training needs analysis",
@@ -2340,7 +2664,11 @@ export const mergedServicesData: ServicesData = {
               "BS 7499",
               "BS 7858",
               "SIA Standards"
-            ]
+            ],
+            "equipment": [],
+            "prerequisites": [],
+            "assessment_method": "",
+            "renewal_period": ""
           },
           "service_process": [
             "Initial assessment",
