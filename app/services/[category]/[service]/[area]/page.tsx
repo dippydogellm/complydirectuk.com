@@ -15,8 +15,20 @@ interface Props {
   }
 }
 
+// Slug to ID mapping for SEO-friendly URLs
+const categorySlugToId: Record<string, string> = {
+  'electrical-services': 'electrical',
+  'fire-protection': 'fire-protection',
+  'safety-training': 'safety-training',
+  'surveyors': 'surveyors',
+  'structural-engineers': 'structural-engineers',
+  'security': 'security',
+  // Add more mappings as needed
+}
+
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
-  const category = mergedServicesData.categories.find((c) => c.id === params.category)
+  const categoryId = categorySlugToId[params.category] || params.category;
+  const category = mergedServicesData.categories.find((c) => c.id === categoryId)
   const service = category?.services.find((s) => s.id === params.service)
   const area = locationsData.areas.find((a) => a.id === params.area)
 
@@ -56,7 +68,8 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 }
 
 export default function ServiceAreaPage({ params }: Props) {
-  const category = mergedServicesData.categories.find((c) => c.id === params.category)
+  const categoryId = categorySlugToId[params.category] || params.category;
+  const category = mergedServicesData.categories.find((c) => c.id === categoryId)
   const service = category?.services.find((s) => s.id === params.service)
   const area = locationsData.areas.find((a) => a.id === params.area)
 
